@@ -1208,6 +1208,17 @@
           }
         },
         {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 276,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/oculus.properties",
+            "MD5": "f7b601520149a7eb432d5276a016ba49",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
           "id": "en_us.json",
           "name": "en_us.json",
           "type": "File",
@@ -11871,9 +11882,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 10574,
+            "size": 10592,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/options.txt",
-            "MD5": "fc653addc70100e4e3ee5bd5a597f599",
+            "MD5": "09b59df82d60ca4f257535305fd70812",
             "path": "options.txt"
           }
         },
