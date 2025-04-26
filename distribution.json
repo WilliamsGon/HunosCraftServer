@@ -463,6 +463,16 @@
           }
         },
         {
+          "id": "artifacts:artifacts:9.5.16@jar",
+          "name": "Artifacts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 850457,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/artifacts-forge-9.5.16.jar",
+            "MD5": "85081468e7498005f5dfdab2ae520097"
+          }
+        },
+        {
           "id": "earth.terrarium:athena:3.1.2@jar",
           "name": "Athena",
           "type": "ForgeMod",
@@ -811,6 +821,16 @@
           }
         },
         {
+          "id": "noobanidus.mods:lootr:0.7.35.91@jar",
+          "name": "Lootr",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 458532,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.91.jar",
+            "MD5": "512ee49d21782875b33513fb074eb098"
+          }
+        },
+        {
           "id": "de.keksuccino:melody:1.0.2@jar",
           "name": "Melody",
           "type": "ForgeMod",
@@ -934,6 +954,16 @@
           }
         },
         {
+          "id": "com.natamus:starterkit:7.4@jar",
+          "name": "Starter Kit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 185182,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/starterkit-1.20.1-7.4.jar",
+            "MD5": "6a47c8098e81f6b1a051e77a8dd50de9"
+          }
+        },
+        {
           "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18@jar",
           "name": "SuperMartijn642's Core Lib",
           "type": "ForgeMod",
@@ -981,6 +1011,16 @@
             "size": 119348,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
             "MD5": "5ccfbdd3ad8436df3b99967e746ac2cd"
+          }
+        },
+        {
+          "id": "net.blay09.mods:trashslot:15.1.2@jar",
+          "name": "TrashSlot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 117791,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.2.jar",
+            "MD5": "e1df6b412a4c22894967ba42beb347be"
           }
         },
         {
