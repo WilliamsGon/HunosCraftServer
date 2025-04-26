@@ -1087,14 +1087,36 @@
           }
         },
         {
+          "id": "fancymenu_animation - copia.zip",
+          "name": "fancymenu_animation - copia.zip",
+          "type": "File",
+          "artifact": {
+            "size": 75033777,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fancymenu_animation%20-%20copia.zip",
+            "MD5": "3b33b254e7409a1eedabfc2c346045a0",
+            "path": "config/fancymenu/assets/fancymenu_animation - copia.zip"
+          }
+        },
+        {
           "id": "fancymenu_animation.fma",
           "name": "fancymenu_animation.fma",
           "type": "File",
           "artifact": {
-            "size": 75033777,
+            "size": 75450400,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fancymenu_animation.fma",
-            "MD5": "3b33b254e7409a1eedabfc2c346045a0",
+            "MD5": "dd40c02c80c17347580c302303a002b6",
             "path": "config/fancymenu/assets/fancymenu_animation.fma"
+          }
+        },
+        {
+          "id": "fancymenu_animation.zip",
+          "name": "fancymenu_animation.zip",
+          "type": "File",
+          "artifact": {
+            "size": 323966281,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fancymenu_animation.zip",
+            "MD5": "178076c22b140333f3f900449dc467eb",
+            "path": "config/fancymenu/assets/fancymenu_animation.zip"
           }
         },
         {
@@ -1135,9 +1157,9 @@
           "name": "hunoscraft2_1.txt",
           "type": "File",
           "artifact": {
-            "size": 28881,
+            "size": 32445,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "690c163a9349d0d4690091f5f4ea0b30",
+            "MD5": "1f237e025177bf5eb0f18cb56fc3ab0b",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },
@@ -1179,9 +1201,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1946,
+            "size": 1947,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "ff83ba95ba99ec292a29d6724a748e53",
+            "MD5": "901f15f5d23069219f266815929da252",
             "path": "config/fancymenu/options.txt"
           }
         },
