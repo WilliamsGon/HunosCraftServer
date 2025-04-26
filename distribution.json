@@ -619,6 +619,16 @@
           }
         },
         {
+          "id": "com.hrznstudio:emojiful:4.2.0@jar",
+          "name": "Emojiful",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 262412,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
+            "MD5": "0ba360de4747e64c6325b74c0055479a"
+          }
+        },
+        {
           "id": "traben.entity_model_features:entity_model_features:2.4.1@jar",
           "name": "Entity Model Features",
           "type": "ForgeMod",
@@ -1168,9 +1178,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1947,
+            "size": 1946,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "901f15f5d23069219f266815929da252",
+            "MD5": "ff83ba95ba99ec292a29d6724a748e53",
             "path": "config/fancymenu/options.txt"
           }
         },
