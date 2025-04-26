@@ -533,6 +533,16 @@
           }
         },
         {
+          "id": "com.natamus:collective:8.3@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 657310,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/collective-1.20.1-8.3.jar",
+            "MD5": "5b0b99ac79f68438ee0133ff6dfd53c5"
+          }
+        },
+        {
           "id": "com.illusivesoulworks:comforts:6.4.0+1.20.1@jar",
           "name": "Comforts",
           "type": "ForgeMod",
