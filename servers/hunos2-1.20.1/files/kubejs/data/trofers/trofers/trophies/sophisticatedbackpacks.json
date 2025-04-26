@@ -1,0 +1,28 @@
+{
+  "name": {
+    "text": "Trofeo Mochila",
+    "color": "#FFD35A"
+  },
+  "tooltip": [
+    {
+      "text": "Misiones Create completadas"
+    }
+  ],
+  "item": {
+    "item": "create:flywheel"
+  },
+  "animation": {
+    "type": "spinning",
+    "speed": 0.20
+  },
+  "display": {
+    "scale": 0.4,
+    "offset": {
+      "y": 2
+    }
+  },
+  "colors": {
+    "base": "#A1E3F9",
+    "accent": "#A1E3F9"
+  }
+}

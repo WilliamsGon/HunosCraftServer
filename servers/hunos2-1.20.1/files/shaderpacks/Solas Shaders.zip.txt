@@ -1,0 +1,8 @@
+#Thu Mar 20 21:18:04 PYST 2025
+shadowDistance=512.0
+VOXEL_VOLUME_SIZE=256
+GI=true
+shadowMapResolution=2048
+VPS=true
+LPV_FOG_SAMPLES=10
+VL_SAMPLES=10

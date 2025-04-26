@@ -1,0 +1,28 @@
+{
+  "name": {
+    "text": "Trofeo Create",
+    "color": "#FFD35A"
+  },
+  "tooltip": [
+    {
+      "text": "Misiones Create completadas"
+    }
+  ],
+  "item": {
+    "item": "sophisticatedbackpacks:backpack"
+  },
+  "animation": {
+    "type": "tumbling",
+    "speed": 0.1
+  },
+  "display": {
+    "scale": 0.4,
+    "offset": {
+      "y": 2
+    }
+  },
+  "colors": {
+    "base": "#A1E3F9",
+    "accent": "#A1E3F9"
+  }
+}

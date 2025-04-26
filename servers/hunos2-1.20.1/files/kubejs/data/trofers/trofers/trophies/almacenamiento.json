@@ -1,0 +1,39 @@
+{
+    "name": {
+        "text": "Trofeo Almacenamiento",
+        "color": "#FFD35A"
+    },
+    "tooltip": [
+        { "text": "Misiones Almacenamiento completadas" }
+    ],
+    "item": {
+        "item": "artifacts:mimic_spawn_egg"
+    },
+    "animation": {
+        "type": "spinning",
+        "speed": 0.1
+    },
+    "display": {
+        "scale": 0.6,
+        "offset": {
+            "y": 3
+        }
+    },
+    "colors": {
+        "base": "#FFA823",
+        "accent": "#78B7D0"
+    },
+    "effects": {
+        "rewards": {
+            "statusEffect": {
+                "effect": "minecraft:speed",
+                "duration": 300,
+                "amplifier": 3
+            },
+            "cooldown": 600
+        },
+        "sound":{
+            "soundEvent": "alexsmobs:bear_dust"
+        }
+    }
+}
