@@ -1,0 +1,968 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "hunos2-1.20.1",
+      "name": "Hunos2 (Minecraft 1.20.1)",
+      "description": "Hunos2 Running Minecraft 1.20.1 (Forge v47.3.22)",
+      "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunoscraft.png?raw=true",
+      "version": "1.0.0",
+      "address": "172.96.140.91:25575",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.22",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 7401,
+            "MD5": "81dc6bb506829755e3d29fbaab4d9bbb",
+            "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.22/lowcodelanguage-1.20.1-47.3.22.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-47.3.22",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 16624,
+                "MD5": "5b2f060ab24af9e927398b29135aa7c5",
+                "url": "https://github.com/WilliamsGon/repo/versions/1.20.1-forge-47.3.22/1.20.1-forge-47.3.22.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.22",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 118579,
+                "MD5": "e00b6331668c2b16cf6dc2fca5579157",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.22/fmlcore-1.20.1-47.3.22.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.22",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16857,
+                "MD5": "b73d7c55ab0a5af07629a27e8398d774",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.22/javafmllanguage-1.20.1-47.3.22.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.22",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 5001,
+                "MD5": "8b86e5f5aabc03162edeaad6b241997d",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.22/mclanguage-1.20.1-47.3.22.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.3.22:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2761726,
+                "MD5": "d11524d18b5274cc5d9de749d34f1e37",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/forge/1.20.1-47.3.22/forge-1.20.1-47.3.22-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.3.22:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 4794071,
+                "MD5": "d13b796e89ac734128d8fa5b2d98de47",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/forge/1.20.1-47.3.22/forge-1.20.1-47.3.22-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12592249,
+                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.10",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 88749,
+                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                "url": "https://github.com/WilliamsGon/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7.1",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7.1",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.0.5",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.0.1",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 29831,
+                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.2.4",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 31872,
+                "MD5": "5295505357ba9b98450c5e3121f82191",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.9",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 130343,
+                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                "url": "https://github.com/WilliamsGon/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "Minecraft Forge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "https://github.com/WilliamsGon/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "https://github.com/WilliamsGon/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.4",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167292,
+                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
+                "url": "https://github.com/WilliamsGon/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "MD5": "48f5255aa337344c467c0150d347813d",
+                "url": "https://github.com/WilliamsGon/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.22",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 265988,
+                "MD5": "78a50d4f473dead4d2f7464c48b115f6",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.22/fmlloader-1.20.1-47.3.22.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.22",
+              "name": "Minecraft Forge (fmlearlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 170460,
+                "MD5": "7cfddfbe25d1b46170b2e3850c91f03d",
+                "url": "https://github.com/WilliamsGon/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.22/fmlearlydisplay-1.20.1-47.3.22.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.geforcemods:securitycraft:1.9.12@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4553681,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.9.12.jar",
+            "MD5": "c21a5d2bf846039dcce7b05fc21441d5"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          }
+        },
+        {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
+          "id": "earth.terrarium:athena:3.1.2@jar",
+          "name": "Athena",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91808,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:7.3.27@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 475315,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.27-all.jar",
+            "MD5": "f602ed9d2c722942623165fec6eb538f"
+          }
+        },
+        {
+          "id": "fr.anto:bettercopper:1.3@jar",
+          "name": "Better Copper",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129358,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/BetterCopper%201.20.1-1.3.jar",
+            "MD5": "2f0ba355d196c19dc324b92529008820"
+          }
+        },
+        {
+          "id": "biomesoplenty.core:biomesoplenty:18.0.0.592@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21800460,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
+          }
+        },
+        {
+          "id": "earth.terrarium:chipped:3.0.7@jar",
+          "name": "Chipped",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15060263,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
+            "MD5": "c6c76e78805b357757bf47b04c7286e7"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1181413,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:comforts:6.4.0+1.20.1@jar",
+          "name": "Comforts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 382083,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/comforts-forge-6.4.0+1.20.1.jar",
+            "MD5": "a88fcc168de1a0f9b2ae4e7cbe8a8408"
+          }
+        },
+        {
+          "id": "com.supermartijn642:connectedglass:1.1.13@jar",
+          "name": "Connected Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 871676,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/connectedglass-1.1.13-forge-mc1.20.1.jar",
+            "MD5": "13b280c06f47dddb474bbc1b398d6d3b"
+          }
+        },
+        {
+          "id": "com.blamejared:crafttweaker:14.0.57@jar",
+          "name": "CraftTweaker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3267904,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/CraftTweaker-forge-1.20.1-14.0.57.jar",
+            "MD5": "dd01e03d08b681dff3f7c1991cbc82a6"
+          }
+        },
+        {
+          "id": "com.simibubi:create:6.0.4@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18463134,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/create-1.20.1-6.0.4.jar",
+            "MD5": "9d274d57a664ae35e6efbef8595bcc29"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          }
+        },
+        {
+          "id": "net.mcreator.decentbiomes:decent_biomes:1.0.0@jar",
+          "name": "Decent Biomes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11174999,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/decentbiomes%201.20.1%20forge.jar",
+            "MD5": "79e059730cb32682ca9a10b6b6301c4d"
+          }
+        },
+        {
+          "id": "de.markusbordihn.easynpc:easy_npc:5.9.0@jar",
+          "name": "Easy NPC",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1610362,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/easy_npc-forge-1.20.1-5.9.0.jar",
+            "MD5": "d1548323ff014a8bcdbf00ac846a430d"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbfiltersystem:1.0.2@jar",
+          "name": "FTB Filter System",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 196440,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/ftb-filter-system-forge-1.0.2.jar",
+            "MD5": "582fc5a14bd1b74f33552676f4408000"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:2001.2.9@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 791841,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/ftb-library-forge-2001.2.9.jar",
+            "MD5": "cdf8b270d3ee2c403a26206b10e0a749"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbquests:2001.4.13@jar",
+          "name": "FTB Quests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1215007,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/ftb-quests-forge-2001.4.13.jar",
+            "MD5": "182d3bc7450d50ba9b71e5a08e903d9e"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:2001.3.1@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 248592,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/ftb-teams-forge-2001.3.1.jar",
+            "MD5": "98efb58ba7cecfb39034544eced0389f"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbxmodcompat:2.1.3@jar",
+          "name": "FTB XMod Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129725,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.3.jar",
+            "MD5": "6d01bd4bc73c6ce36d0d91c56bb27772"
+          }
+        },
+        {
+          "id": "com.supermartijn642:fusion:1.2.7+b@jar",
+          "name": "Fusion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 540383,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/fusion-1.2.7b-forge-mc1.20.1.jar",
+            "MD5": "c675f476a9d1f14047b4e1b4a9b36b40"
+          }
+        },
+        {
+          "id": "com.dannyboythomas:hole_filler_mod:1.2.8@jar",
+          "name": "Hole Filler Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 199804,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/hole_filler_mod-1.2.8_mc-1.20.1_forge.jar",
+            "MD5": "63e1368ce3acd67bf26dd2b12e5eace0"
+          }
+        },
+        {
+          "id": "com.py:hunoscraftmod:1.0.2@jar",
+          "name": "HunosCraft Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44844,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/hunoscraftmod-1.0.2.jar",
+            "MD5": "125567f3ffd7fe1626b28a2f6316a8a4"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.13.1+forge@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 550551,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.1.jar",
+            "MD5": "e36b4d172480009220be7eae12490943"
+          }
+        },
+        {
+          "id": "snownee.jade.addon:jadeaddons:5.3.1+forge@jar",
+          "name": "Jade Addons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77839,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/JadeAddons-1.20.1-Forge-5.3.1.jar",
+            "MD5": "41662ef8645177cc3f90fc34007563df"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.106@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1379220,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
+            "MD5": "245af433575aef3a47ae73492196018f"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "dev.latvian.mods:kubejs:2001.6.5-build.16@jar",
+          "name": "KubeJS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1654660,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
+            "MD5": "f4c6924bef764748d26ee51e4d4c0b00"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.2@jar",
+          "name": "Melody",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37178,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "MD5": "6b528d368f7fcbf737df28f2457cdec6"
+          }
+        },
+        {
+          "id": "com.cursee:monolib:2.0.0@jar",
+          "name": "MonoLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 151494,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/monolib-forge-1.20.1-2.0.0.jar",
+            "MD5": "00b25df2dc4377819b593aac1c293fe9"
+          }
+        },
+        {
+          "id": "forge.com.lupin:more_beautiful_torches:3.0.0@jar",
+          "name": "More Beautiful Torches!",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3806741,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/more_beautiful_torches-merged-1.20.1-3.0.0.jar",
+            "MD5": "170fdfe4c9ed2a462f743e12b47452cf"
+          }
+        },
+        {
+          "id": "vazkii.patchouli:patchouli:1.20.1-84.1-FORGE@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 642711,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
+            "MD5": "d5154cacf6859582eebd853bd59f5537"
+          }
+        },
+        {
+          "id": "org.violetmoon.quark.base:quark:4.0-462@jar",
+          "name": "Quark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14935230,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/Quark-4.0-462.jar",
+            "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
+          }
+        },
+        {
+          "id": "generated.forgemod:quarkoddities:1.20.1@jar",
+          "name": "Quark Oddities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 915,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/QuarkOddities-1.20.1.jar",
+            "MD5": "56caee76c84842bb569a25123f8767ca"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432753,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "MD5": "a040c6cc86f653fddf280ff3af9068f0"
+          }
+        },
+        {
+          "id": "dev.latvian.mods.rhino.mod:rhino:2001.2.3-build.10@jar",
+          "name": "Rhino",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1798244,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
+            "MD5": "59387620b0ef6becbff02c7c1636ad3e"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.23.13.1230@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 899887,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.13.1230.jar",
+            "MD5": "5013830ee5e63129e13dc9369e52e2df"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.49.962@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1203702,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.49.962.jar",
+            "MD5": "96831f49a3999f97e691b670ca0555f7"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedstorage:1.3.37.1134@jar",
+          "name": "Sophisticated Storage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1575018,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.3.37.1134.jar",
+            "MD5": "b7837e885e45a637b668bd0e5e64d1f7"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 515362,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+            "MD5": "6559d43627646f16fbe02de085e98d5c"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:3.0.1.10@jar",
+          "name": "TerraBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107532,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "MD5": "9d8e305b95ae5a8f7b446d6346324267"
+          }
+        },
+        {
+          "id": "generated.forgemod:terralith:2.5.4@jar",
+          "name": "Terralith",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3156901,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/Terralith_1.20.x_v2.5.4.jar",
+            "MD5": "b143cfd648086c68d7f47a86b8994ee3"
+          }
+        },
+        {
+          "id": "com.tom.storagemod:toms_storage:1.7.1@jar",
+          "name": "Tom's Simple Storage Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 520148,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/toms_storage-1.20-1.7.1.jar",
+            "MD5": "9fac0628fc9767b1bc50dbae38851e11"
+          }
+        },
+        {
+          "id": "net.xalcon:torchmaster:20.1.9@jar",
+          "name": "Torchmaster",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119348,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
+            "MD5": "5ccfbdd3ad8436df3b99967e746ac2cd"
+          }
+        },
+        {
+          "id": "ht.treechop:treechop:0.19.0@jar",
+          "name": "HT's TreeChop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517225,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+            "MD5": "e178293a133747657f802688b8c63d27"
+          }
+        },
+        {
+          "id": "trofers:trofers:5.0.2@jar",
+          "name": "Trofers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 252600,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/trofers-forge-5.0.2.jar",
+            "MD5": "a0096c71988fed197d3b7427e828f7ae"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:14.1.11@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 487684,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.11.jar",
+            "MD5": "6167f2d7c2c3ff42929bd39b50cabd83"
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:7.2.15+6463-5ca4dff@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5825402,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "MD5": "bd0e7cff7896348faab92e43300d0639"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.2.0@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1704129,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/Xaeros_Minimap_25.2.0_Forge_1.20.jar",
+            "MD5": "e606d37df7888b3b4806712ec6095a82"
+          }
+        },
+        {
+          "id": "fr.shoqapik:w2w2:1.0@jar",
+          "name": "Xaero's Map - Waystones Compability",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 325574,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/xaeros_waystones_compability-1.0.jar",
+            "MD5": "79bff42d6b63942c8f8cb3d11aa4bcec"
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.39.4@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 933184,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/XaerosWorldMap_1.39.4_Forge_1.20.jar",
+            "MD5": "3da6919fb4f0c993772c073d787403e1"
+          }
+        },
+        {
+          "id": "org.violetmoon.zetaimplforge.mod:zeta:1.0-30@jar",
+          "name": "Zeta",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1006574,
+            "url": "https://github.com/WilliamsGon/servers/hunos2-1.20.1/forgemods/required/Zeta-1.0-30.jar",
+            "MD5": "9fa915bd7e2c64217223b6a98ab5dc47"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Proyectos/MinecraftProyects/HunosCraftServer/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Hunos2 (Minecraft 1.20.1)",
+    "description": "Hunos2 Running Minecraft 1.20.1 (Forge v47.3.22)",
+    "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunoscraft.png?raw=true",
+    "address": "172.96.140.91:25575",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.22"
+  },
+  "untrackedFiles": []
+}
