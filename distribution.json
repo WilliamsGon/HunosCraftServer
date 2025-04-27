@@ -933,11 +933,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2767644,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/hologram_panel-1.20.1-forge-1.0.3-all.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/hologram_panel-1.20.1-forge-1.0.3-all.jar",
             "MD5": "5f1ddc4b8724950ed02629d6674bb309"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1134,16 +1131,6 @@
             "size": 151494,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/monolib-forge-1.20.1-2.0.0.jar",
             "MD5": "00b25df2dc4377819b593aac1c293fe9"
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.82@jar",
-          "name": "Moonlight Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1252228,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/moonlight-1.20-2.13.82-forge.jar.disabled",
-            "MD5": "d2fb903091892e08cf6cdc115624744c"
           }
         },
         {
@@ -1380,16 +1367,6 @@
             "size": 515362,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
             "MD5": "6559d43627646f16fbe02de085e98d5c"
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:supplementaries:1.20-3.1.30@jar",
-          "name": "Supplementaries",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 13601172,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/supplementaries-1.20-3.1.30.jar.disabled",
-            "MD5": "e89f150785ec9f6b0ccde8b304195fce"
           }
         },
         {
