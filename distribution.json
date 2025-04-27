@@ -1142,7 +1142,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1252228,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/moonlight-1.20-2.13.82-forge.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/moonlight-1.20-2.13.82-forge.jar.disabled",
             "MD5": "d2fb903091892e08cf6cdc115624744c"
           }
         },
@@ -1378,7 +1378,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13601172,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/supplementaries-1.20-3.1.30.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/supplementaries-1.20-3.1.30.jar.disabled",
             "MD5": "e89f150785ec9f6b0ccde8b304195fce"
           }
         },
