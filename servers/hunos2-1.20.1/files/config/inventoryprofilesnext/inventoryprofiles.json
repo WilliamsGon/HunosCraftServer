@@ -1,0 +1,18 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": {
+            "value": false
+        }
+    },
+    "AutoRefillSettings": {
+        "audio_durability_notification": {
+            "value": false
+        },
+        "audio_replace_failed_notification": {
+            "value": false
+        }
+    }
+}
