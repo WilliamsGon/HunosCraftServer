@@ -563,6 +563,16 @@
           }
         },
         {
+          "id": "lain.mods.cos.init:cosmeticarmorreworked:1.20.1-v1a@jar",
+          "name": "CosmeticArmorReworked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 88752,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
+            "MD5": "2454075e9a25cbadc0fce66502e3261d"
+          }
+        },
+        {
           "id": "com.blamejared:crafttweaker:14.0.57@jar",
           "name": "CraftTweaker",
           "type": "ForgeMod",
@@ -768,6 +778,19 @@
           }
         },
         {
+          "id": "org.anti_ad.mc.ipnext:inventoryprofilesnext:1.10.14@jar",
+          "name": "Inventory Profiles Next",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1436499,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/InventoryProfilesNext-forge-1.20-1.10.14.jar",
+            "MD5": "018e61ceffdd71ab5a7e5f8ae8109532"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "snownee.jade:jade:11.13.1+forge@jar",
           "name": "Jade",
           "type": "ForgeMod",
@@ -821,6 +844,16 @@
           }
         },
         {
+          "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7193768,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
+            "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
+          }
+        },
+        {
           "id": "dev.latvian.mods:kubejs:2001.6.5-build.16@jar",
           "name": "KubeJS",
           "type": "ForgeMod",
@@ -828,6 +861,16 @@
             "size": 1654660,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
             "MD5": "f4c6924bef764748d26ee51e4d4c0b00"
+          }
+        },
+        {
+          "id": "org.anti_ad.mc:libipn:4.0.2@jar",
+          "name": "LibIPN",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 693301,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/libIPN-forge-1.20-4.0.2.jar",
+            "MD5": "ef3a86f4867dba031dd6adef7e45d396"
           }
         },
         {
@@ -1001,6 +1044,16 @@
             "size": 3156901,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Terralith_1.20.x_v2.5.4.jar",
             "MD5": "b143cfd648086c68d7f47a86b8994ee3"
+          }
+        },
+        {
+          "id": "ovh.corail:tombstone:8.9.4@jar",
+          "name": "Corail Tombstone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2021372,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/tombstone-1.20.1-8.9.4.jar",
+            "MD5": "358b7583787b3d2c3582a234d6b3983c"
           }
         },
         {
@@ -11942,9 +11995,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 10592,
+            "size": 3063,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/options.txt",
-            "MD5": "09b59df82d60ca4f257535305fd70812",
+            "MD5": "5909f9508ad46b871c196527e6191524",
             "path": "options.txt"
           }
         },
@@ -12298,17 +12351,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/shaderpacks/TNTSolas%20Shaders.zip.txt",
             "MD5": "64625936d6550ecece0239909230b832",
             "path": "shaderpacks/TNTSolas Shaders.zip.txt"
-          }
-        },
-        {
-          "id": "user-prefs.json",
-          "name": "user-prefs.json",
-          "type": "File",
-          "artifact": {
-            "size": 1312117,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/user-prefs.json",
-            "MD5": "c540cd8fa4deadaf10174013bc1250d6",
-            "path": "user-prefs.json"
           }
         }
       ]
