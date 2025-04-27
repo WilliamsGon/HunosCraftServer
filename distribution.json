@@ -1287,16 +1287,6 @@
           }
         },
         {
-          "id": "com.github.teamfusion:rottencreatures:1.1.0@jar",
-          "name": "Rotten Creatures",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2595007,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/rottencreatures-forge-1.20.1-1.1.0.jar",
-            "MD5": "b93a055c1819d1c24cf3bf4d4ca490e3"
-          }
-        },
-        {
           "id": "com.blamejared:searchables:1.0.3@jar",
           "name": "Searchables",
           "type": "ForgeMod",
