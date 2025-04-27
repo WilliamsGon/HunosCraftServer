@@ -1398,14 +1398,14 @@
           }
         },
         {
-          "id": "oculus.properties",
-          "name": "oculus.properties",
+          "id": "oculus.properties.disabled",
+          "name": "oculus.properties.disabled",
           "type": "File",
           "artifact": {
             "size": 276,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/oculus.properties",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/oculus.properties.disabled",
             "MD5": "f7b601520149a7eb432d5276a016ba49",
-            "path": "config/oculus.properties"
+            "path": "config/oculus.properties.disabled"
           }
         },
         {
