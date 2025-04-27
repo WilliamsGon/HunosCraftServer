@@ -808,6 +808,16 @@
           }
         },
         {
+          "id": "com.mrcrayfish:framework:0.7.12@jar",
+          "name": "Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 308420,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
+            "MD5": "1b6b6ccc60c5a6ef2c232553f8a060f4"
+          }
+        },
+        {
           "id": "dev.ftb.mods:ftbfiltersystem:1.0.2@jar",
           "name": "FTB Filter System",
           "type": "ForgeMod",
@@ -1087,6 +1097,26 @@
           }
         },
         {
+          "id": "com.mcwlights.kikoz:mcwlights:1.1.0@jar",
+          "name": "Macaw's Lights and Lamps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517513,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mcw-lights-1.1.0-mc1.20.1forge.jar",
+            "MD5": "539aa2ab27253c1053236e06b82374df"
+          }
+        },
+        {
+          "id": "com.mcwpaths.kikoz:mcwpaths:1.1.0@jar",
+          "name": "Macaw's Paths and Pavings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 811836,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mcw-paths-1.1.0forge-mc1.20.1.jar",
+            "MD5": "1136461d4385486182f0b6777e75b141"
+          }
+        },
+        {
           "id": "de.keksuccino:melody:1.0.2@jar",
           "name": "Melody",
           "type": "ForgeMod",
@@ -1210,6 +1240,16 @@
           }
         },
         {
+          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.12@jar",
+          "name": "MrCrayfish's Furniture Mod: Refurbished",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6687573,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.12.jar",
+            "MD5": "1a80f18a5ab4b11befa2a63dc629cb83"
+          }
+        },
+        {
           "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
           "name": "Resourceful Lib",
           "type": "ForgeMod",
@@ -1227,6 +1267,16 @@
             "size": 1798244,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
             "MD5": "59387620b0ef6becbff02c7c1636ad3e"
+          }
+        },
+        {
+          "id": "com.github.teamfusion:rottencreatures:1.1.0@jar",
+          "name": "Rotten Creatures",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2595007,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/rottencreatures-forge-1.20.1-1.1.0.jar",
+            "MD5": "b93a055c1819d1c24cf3bf4d4ca490e3"
           }
         },
         {
@@ -1310,6 +1360,16 @@
             "size": 515362,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
             "MD5": "6559d43627646f16fbe02de085e98d5c"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:supplementaries:1.20-3.1.30@jar",
+          "name": "Supplementaries",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13601172,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/supplementaries-1.20-3.1.30.jar",
+            "MD5": "e89f150785ec9f6b0ccde8b304195fce"
           }
         },
         {
