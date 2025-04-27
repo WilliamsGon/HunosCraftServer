@@ -928,16 +928,6 @@
           }
         },
         {
-          "id": "com.github.zomb_676.hologrampanel:hologram_panel:1.0.3@jar",
-          "name": "Hologram Panel",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2767644,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/hologram_panel-1.20.1-forge-1.0.3-all.jar",
-            "MD5": "5f1ddc4b8724950ed02629d6674bb309"
-          }
-        },
-        {
           "id": "com.py:hunoscraftmod:1.0.2@jar",
           "name": "HunosCraft Mod",
           "type": "ForgeMod",
