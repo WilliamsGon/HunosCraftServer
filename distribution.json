@@ -1300,16 +1300,6 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:sawmill:1.20-1.4.6@jar",
-          "name": "Universal Sawmill",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 644232,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sawmill-1.20-1.4.6.jar",
-            "MD5": "1ca37630dd4d14db93b87a38d7d9de1c"
-          }
-        },
-        {
           "id": "com.blamejared:searchables:1.0.3@jar",
           "name": "Searchables",
           "type": "ForgeMod",
@@ -1343,13 +1333,13 @@
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.49.962@jar",
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.51.966@jar",
           "name": "Sophisticated Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1203702,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.49.962.jar",
-            "MD5": "96831f49a3999f97e691b670ca0555f7"
+            "size": 1203800,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.51.966.jar",
+            "MD5": "4f9b01748e3e448348d4d3a1cb2f3e09"
           }
         },
         {
