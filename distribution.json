@@ -1240,6 +1240,16 @@
           }
         },
         {
+          "id": "de.geheimagentnr1:recipes_lib:2.0.1@jar",
+          "name": "Recipes Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 100251,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/RecipesLibrary-1.20.1-2.0.1.jar",
+            "MD5": "a53394b5765ccffc3c235440c31d0484"
+          }
+        },
+        {
           "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.12@jar",
           "name": "MrCrayfish's Furniture Mod: Refurbished",
           "type": "ForgeMod",
@@ -1247,6 +1257,16 @@
             "size": 6687573,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.12.jar",
             "MD5": "1a80f18a5ab4b11befa2a63dc629cb83"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefulconfig:2.1.3@jar",
+          "name": "Resourcefulconfig",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 136923,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+            "MD5": "947463b04c043937cd24506842f737a3"
           }
         },
         {
