@@ -1200,6 +1200,39 @@
           }
         },
         {
+          "id": "fancymenu_animation - copia.zip",
+          "name": "fancymenu_animation - copia.zip",
+          "type": "File",
+          "artifact": {
+            "size": 75033777,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fancymenu_animation%20-%20copia.zip",
+            "MD5": "3b33b254e7409a1eedabfc2c346045a0",
+            "path": "config/fancymenu/assets/fancymenu_animation - copia.zip"
+          }
+        },
+        {
+          "id": "fancymenu_animation.fma",
+          "name": "fancymenu_animation.fma",
+          "type": "File",
+          "artifact": {
+            "size": 75450400,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fancymenu_animation.fma",
+            "MD5": "dd40c02c80c17347580c302303a002b6",
+            "path": "config/fancymenu/assets/fancymenu_animation.fma"
+          }
+        },
+        {
+          "id": "fancymenu_animation.zip",
+          "name": "fancymenu_animation.zip",
+          "type": "File",
+          "artifact": {
+            "size": 323966281,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fancymenu_animation.zip",
+            "MD5": "178076c22b140333f3f900449dc467eb",
+            "path": "config/fancymenu/assets/fancymenu_animation.zip"
+          }
+        },
+        {
           "id": "hunoscraft-title.png",
           "name": "hunoscraft-title.png",
           "type": "File",
@@ -1215,9 +1248,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 217,
+            "size": 271,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "87a2e60caf04ebf51d4dbaba10294706",
+            "MD5": "1de032c14bb4161533f4a2f4a0fe70e7",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -1237,10 +1270,21 @@
           "name": "hunoscraft2_1.txt",
           "type": "File",
           "artifact": {
-            "size": 32445,
+            "size": 32644,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "1f237e025177bf5eb0f18cb56fc3ab0b",
+            "MD5": "4c801bc222116fd50cd173178cb1aa3e",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
+          }
+        },
+        {
+          "id": "pause_screen_layout.txt",
+          "name": "pause_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 27118,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "MD5": "23ab2c1db23a10e6699f4460794f5b5e",
+            "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
         {
@@ -1259,9 +1303,9 @@
           "name": "element_layer_control.lewidget",
           "type": "File",
           "artifact": {
-            "size": 198,
+            "size": 197,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-            "MD5": "43a5ab1a30249caf7dafc2f7ad4b0ed9",
+            "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
         },
@@ -1318,6 +1362,72 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/user_variables.db",
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "exampleIntegrationHints.json",
+          "name": "exampleIntegrationHints.json",
+          "type": "File",
+          "artifact": {
+            "size": 1450,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+            "MD5": "1a018549a3d0f945870f75056ce7e5eb",
+            "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+          }
+        },
+        {
+          "id": "player-defined.json",
+          "name": "player-defined.json",
+          "type": "File",
+          "artifact": {
+            "size": 329,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
+            "MD5": "ec6a8b25afe70b5efc8120a9de235cc1",
+            "path": "config/inventoryprofilesnext/integrationHints/player-defined.json"
+          }
+        },
+        {
+          "id": "inventoryprofiles.json",
+          "name": "inventoryprofiles.json",
+          "type": "File",
+          "artifact": {
+            "size": 354,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
+            "MD5": "43a43fda7517f60f6cfe0774d0d6174d",
+            "path": "config/inventoryprofilesnext/inventoryprofiles.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/Overworld/villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
+            "path": "config/inventoryprofilesnext/Overworld/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/prev-villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
+            "path": "config/inventoryprofilesnext/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
+            "path": "config/inventoryprofilesnext/villager-trading-config.json"
           }
         },
         {
@@ -11995,21 +12105,10 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3063,
+            "size": 11491,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/options.txt",
-            "MD5": "5909f9508ad46b871c196527e6191524",
+            "MD5": "36f8bd6a7e43289163b8f3f7dd19b010",
             "path": "options.txt"
-          }
-        },
-        {
-          "id": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
-          "name": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
-          "type": "File",
-          "artifact": {
-            "size": 321871,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/resourcepacks/-1.21.2%20Fresh%20Moves%20v3.1%20(With%20Animated%20Eyes).zip",
-            "MD5": "9425263fea042911f13a1482f4c3f436",
-            "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
           }
         },
         {
@@ -12076,17 +12175,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/resourcepacks/Fresh%20Better%20Cats%20v1.0%201.21.zip",
             "MD5": "d8376aac8890c57a5cefc03d877e9920",
             "path": "resourcepacks/Fresh Better Cats v1.0 1.21.zip"
-          }
-        },
-        {
-          "id": "Fresh Textures 1.2.0.1 vanilla.zip",
-          "name": "Fresh Textures 1.2.0.1 vanilla.zip",
-          "type": "File",
-          "artifact": {
-            "size": 21862120,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/resourcepacks/Fresh%20Textures%201.2.0.1%20vanilla.zip",
-            "MD5": "09e9051394d1aa3c9acbae205b38cdad",
-            "path": "resourcepacks/Fresh Textures 1.2.0.1 vanilla.zip"
           }
         },
         {
@@ -12175,6 +12263,17 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/resourcepacks/Quark%20Programmer%20Art.zip",
             "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
             "path": "resourcepacks/Quark Programmer Art.zip"
+          }
+        },
+        {
+          "id": "Recolourful Containers 2.0 (1.19.4+).zip",
+          "name": "Recolourful Containers 2.0 (1.19.4+).zip",
+          "type": "File",
+          "artifact": {
+            "size": 1373338,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/resourcepacks/Recolourful%20Containers%202.0%20(1.19.4+).zip",
+            "MD5": "3cabf8e2bd5ab619c4708da254e68247",
+            "path": "resourcepacks/Recolourful Containers 2.0 (1.19.4+).zip"
           }
         },
         {
