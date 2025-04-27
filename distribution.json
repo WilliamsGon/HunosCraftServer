@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "com.endertech.minecraft.mods:adlods:8.1.4.0@jar",
+          "name": "Large Ore Deposits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 147431,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/AdLods-1.20.1-8.1.4.0-build.1012.jar",
+            "MD5": "1d717a9ac965162e79b691921d73079a"
+          }
+        },
+        {
           "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
           "name": "AppleSkin",
           "type": "ForgeMod",
@@ -500,6 +510,19 @@
             "size": 129358,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/BetterCopper%201.20.1-1.3.jar",
             "MD5": "2f0ba355d196c19dc324b92529008820"
+          }
+        },
+        {
+          "id": "me.treyruffy:betterf3:7.0.2@jar",
+          "name": "BetterF3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 468517,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "MD5": "7411ae023390cf6b148f05a6b685279f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -563,6 +586,29 @@
           }
         },
         {
+          "id": "com.blamejared:controlling:12.0.2@jar",
+          "name": "Controlling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115280,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/Controlling-forge-1.20.1-12.0.2.jar",
+            "MD5": "952274bc9994bba9733e8747558f73fa"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
+          "name": "CoroUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 64187,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
+            "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
+          }
+        },
+        {
           "id": "lain.mods.cos.init:cosmeticarmorreworked:1.20.1-v1a@jar",
           "name": "CosmeticArmorReworked",
           "type": "ForgeMod",
@@ -593,6 +639,26 @@
           }
         },
         {
+          "id": "fr.iglee42:createcasing:1.7.1-fix2@jar",
+          "name": "Create Encased",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1812240,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Create%20Encased-1.20.1-1.7.1-fix2.jar",
+            "MD5": "2682f1a906da2dfeef2e714a13832d05"
+          }
+        },
+        {
+          "id": "tech.thatgravyboat:creeperoverhaul:3.0.2@jar",
+          "name": "Creeper Overhaul",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1456860,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/creeperoverhaul-3.0.2-forge.jar",
+            "MD5": "a8fb93fffba5a25b8444f4a2d5da2601"
+          }
+        },
+        {
           "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -618,11 +684,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 239365,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
             "MD5": "a8cbcca4541cb6eb794ded4a10c57ac9"
-          },
-          "required": {
-            "value": false
+          }
+        },
+        {
+          "id": "tech.thatgravyboat:duckling:3.0.0@jar",
+          "name": "Duckling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 144057,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/duckling-3.0.0-forge.jar",
+            "MD5": "834411d3a2aef2840f7fa53e71b719b5"
           }
         },
         {
@@ -633,6 +706,16 @@
             "size": 1610362,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/easy_npc-forge-1.20.1-5.9.0.jar",
             "MD5": "d1548323ff014a8bcdbf00ac846a430d"
+          }
+        },
+        {
+          "id": "xyz.vsngamer:elevatorid:1.20.1-lex-1.9@jar",
+          "name": "Elevator Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188132,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/elevatorid-1.20.1-lex-1.9.jar",
+            "MD5": "35c05c6c14993fe3fb38917ce09f51b8"
           }
         },
         {
@@ -656,6 +739,16 @@
             "size": 262412,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
             "MD5": "0ba360de4747e64c6325b74c0055479a"
+          }
+        },
+        {
+          "id": "tech.alexnijjar:endermanoverhaul:1.0.4@jar",
+          "name": "Enderman Overhaul",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1208062,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/endermanoverhaul-forge-1.20.1-1.0.4.jar",
+            "MD5": "992f4f6fad129c6ff47b33b0365d485a"
           }
         },
         {
@@ -690,11 +783,28 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3280422,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/fancymenu_forge_3.5.0_MC_1.20.1.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/fancymenu_forge_3.5.0_MC_1.20.1.jar",
             "MD5": "4da459780fb51757bd0e467460c01e63"
-          },
-          "required": {
-            "value": false
+          }
+        },
+        {
+          "id": "net.olafski:fastleafdecay:32@jar",
+          "name": "Fast Leaf Decay",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9835,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/FastLeafDecay-32.jar",
+            "MD5": "20df3e3525622d6ea38a243be828ef38"
+          }
+        },
+        {
+          "id": "com.endertech.minecraft:forgeendertech:11.1.6.0@jar",
+          "name": "ForgeEndertech",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 537891,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/ForgeEndertech-1.20.1-11.1.6.0-build.0980.jar",
+            "MD5": "b69d4b4e7f737ab912ccd8525eba7063"
           }
         },
         {
@@ -758,6 +868,46 @@
           }
         },
         {
+          "id": "software.bernie.example:geckolib:4.7.1.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1012500,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "MD5": "cd951c81b5551b8a3f215a825d2934fa"
+          }
+        },
+        {
+          "id": "com.wanmine:ghosts:1.1.0@jar",
+          "name": "Ghosts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432488,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/ghosts-1.20.1-1.1.0.jar",
+            "MD5": "c373be0d2dc48a4919f5c8e526cfede1"
+          }
+        },
+        {
+          "id": "com.starfish_studios:hamsters:1.20.1-1.0.3@jar",
+          "name": "Hamsters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439448,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/hamsters-forge-1.0.3-1.20.1.jar",
+            "MD5": "02b3f3a37e2a07b356982c51572ed4d6"
+          }
+        },
+        {
+          "id": "fuzs.hangglider:hangglider:8.0.1@jar",
+          "name": "Hang Glider",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 136076,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/HangGlider-v8.0.1-1.20.1-Forge.jar",
+            "MD5": "37427de6ac9a115cb481527f18821c00"
+          }
+        },
+        {
           "id": "com.dannyboythomas:hole_filler_mod:1.2.8@jar",
           "name": "Hole Filler Mod",
           "type": "ForgeMod",
@@ -765,6 +915,19 @@
             "size": 199804,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/hole_filler_mod-1.2.8_mc-1.20.1_forge.jar",
             "MD5": "63e1368ce3acd67bf26dd2b12e5eace0"
+          }
+        },
+        {
+          "id": "com.github.zomb_676.hologrampanel:hologram_panel:1.0.3@jar",
+          "name": "Hologram Panel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2767644,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/hologram_panel-1.20.1-forge-1.0.3-all.jar",
+            "MD5": "5f1ddc4b8724950ed02629d6674bb309"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -788,6 +951,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "ironfurnaces:ironfurnaces:4.1.6@jar",
+          "name": "Iron Furnaces",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 609038,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/ironfurnaces-1.20.1-4.1.6.jar",
+            "MD5": "db76ec4beef580f5d7b75065ec2adf9d"
           }
         },
         {
@@ -818,6 +991,16 @@
             "size": 1379220,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
             "MD5": "245af433575aef3a47ae73492196018f"
+          }
+        },
+        {
+          "id": "pro.mikey:justhammers:2.0.3+mc1.20.1@jar",
+          "name": "Just Hammers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 93291,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/justhammers-forge-2.0.3+mc1.20.1.jar",
+            "MD5": "fd4ce938613c381b4116589243efc668"
           }
         },
         {
@@ -884,6 +1067,26 @@
           }
         },
         {
+          "id": "de.geheimagentnr1:manyideas_core:1.4.2@jar",
+          "name": "ManyIdeas Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 933519,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/ManyIdeasCore-1.20.1-1.4.2.jar",
+            "MD5": "d43f7f1c5a0c953420b7e6a61069f516"
+          }
+        },
+        {
+          "id": "de.geheimagentnr1:manyideas_doors:1.2.3@jar",
+          "name": "ManyIdeas Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3261131,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/ManyIdeasDoors-1.20.1-1.2.3.jar",
+            "MD5": "a4e8837660a54a160ef75265916dbcc1"
+          }
+        },
+        {
           "id": "de.keksuccino:melody:1.0.2@jar",
           "name": "Melody",
           "type": "ForgeMod",
@@ -901,6 +1104,16 @@
             "size": 151494,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/monolib-forge-1.20.1-2.0.0.jar",
             "MD5": "00b25df2dc4377819b593aac1c293fe9"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.82@jar",
+          "name": "Moonlight Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1252228,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/moonlight-1.20-2.13.82-forge.jar",
+            "MD5": "d2fb903091892e08cf6cdc115624744c"
           }
         },
         {
@@ -927,6 +1140,16 @@
           }
         },
         {
+          "id": "com.natamus:oreharvester:1.5@jar",
+          "name": "Ore Harvester",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60867,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/oreharvester-1.20.1-1.5.jar",
+            "MD5": "82cabeb4e91ce27ae983126526d1695a"
+          }
+        },
+        {
           "id": "vazkii.patchouli:patchouli:1.20.1-84.1-FORGE@jar",
           "name": "Patchouli",
           "type": "ForgeMod",
@@ -934,6 +1157,36 @@
             "size": 642711,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
             "MD5": "d5154cacf6859582eebd853bd59f5537"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.3@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11913213,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
+            "MD5": "cb0f52b7f015a7483662a0afdbcf877c"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:polymorph:0.49.10+1.20.1@jar",
+          "name": "Polymorph",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299601,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/polymorph-forge-0.49.10+1.20.1.jar",
+            "MD5": "8e93675b33a89243d27f272f84e88338"
+          }
+        },
+        {
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.32@jar",
+          "name": "Puzzles Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1342204,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/PuzzlesLib-v8.1.32-1.20.1-Forge.jar",
+            "MD5": "3ca3da58d71c0b14241df38578ffdb22"
           }
         },
         {
@@ -974,6 +1227,39 @@
             "size": 1798244,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
             "MD5": "59387620b0ef6becbff02c7c1636ad3e"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:sawmill:1.20-1.4.6@jar",
+          "name": "Universal Sawmill",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 644232,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sawmill-1.20-1.4.6.jar",
+            "MD5": "1ca37630dd4d14db93b87a38d7d9de1c"
+          }
+        },
+        {
+          "id": "com.blamejared:searchables:1.0.3@jar",
+          "name": "Searchables",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77732,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/Searchables-forge-1.20.1-1.0.3.jar",
+            "MD5": "9f5418e9c08c18a375ef42fada4bcef2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "bl4ckscor3.mod:sit:1.3.5@jar",
+          "name": "Sit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14510,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sit-1.20.1-1.3.5.jar",
+            "MD5": "87f16ae5de8125e49f3740a45b3fc1c7"
           }
         },
         {
@@ -1047,6 +1333,16 @@
           }
         },
         {
+          "id": "fuzs.thinair:thinair:8.1.5@jar",
+          "name": "Thin Air",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 196867,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/ThinAir-v8.1.5-1.20.1-Forge.jar",
+            "MD5": "d2e12f20a51a1e4cd2cdb078da3ca95b"
+          }
+        },
+        {
           "id": "ovh.corail:tombstone:8.9.4@jar",
           "name": "Corail Tombstone",
           "type": "ForgeMod",
@@ -1104,6 +1400,36 @@
             "size": 252600,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/trofers-forge-5.0.2.jar",
             "MD5": "a0096c71988fed197d3b7427e828f7ae"
+          }
+        },
+        {
+          "id": "fuzs.universalbonemeal:universalbonemeal:8.0.1@jar",
+          "name": "Universal Bone Meal",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 85511,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar",
+            "MD5": "908607035ad1d4193b252585db51fdbf"
+          }
+        },
+        {
+          "id": "com.natamus:villagernames:8.2@jar",
+          "name": "Villager Names",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 55867,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/villagernames-1.20.1-8.2.jar",
+            "MD5": "116bdb24c9615bd4fa63aac066257496"
+          }
+        },
+        {
+          "id": "com.corosus.watut.loader:watut:1.20.1-1.2.3@jar",
+          "name": "What Are They Up To",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 435496,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/watut-forge-1.20.1-1.2.3.jar",
+            "MD5": "345d3ecdf94dffaa0e3ba55538c65f80"
           }
         },
         {
