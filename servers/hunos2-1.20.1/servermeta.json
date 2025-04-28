@@ -17,5 +17,12 @@
   "forge": {
     "version": "47.3.22"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "options.txt"
+      ]
+    }
+  ]
 }
