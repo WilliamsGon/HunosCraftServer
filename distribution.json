@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "com.builtbroken.ai.improvements:aiimprovements:0.5.2@jar",
+          "name": "AI-Improvements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29553,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
+            "MD5": "9a6776ce2deab597d198e8755daa56ff"
+          }
+        },
+        {
           "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
           "name": "AppleSkin",
           "type": "ForgeMod",
@@ -1593,39 +1603,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/bee.gif",
             "MD5": "af71d1d016fd69072c348ce4f0453998",
             "path": "config/fancymenu/assets/bee.gif"
-          }
-        },
-        {
-          "id": "fancymenu_animation - copia.zip",
-          "name": "fancymenu_animation - copia.zip",
-          "type": "File",
-          "artifact": {
-            "size": 75033777,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fancymenu_animation%20-%20copia.zip",
-            "MD5": "3b33b254e7409a1eedabfc2c346045a0",
-            "path": "config/fancymenu/assets/fancymenu_animation - copia.zip"
-          }
-        },
-        {
-          "id": "fancymenu_animation.fma",
-          "name": "fancymenu_animation.fma",
-          "type": "File",
-          "artifact": {
-            "size": 75450400,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fancymenu_animation.fma",
-            "MD5": "dd40c02c80c17347580c302303a002b6",
-            "path": "config/fancymenu/assets/fancymenu_animation.fma"
-          }
-        },
-        {
-          "id": "fancymenu_animation.zip",
-          "name": "fancymenu_animation.zip",
-          "type": "File",
-          "artifact": {
-            "size": 323966281,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fancymenu_animation.zip",
-            "MD5": "178076c22b140333f3f900449dc467eb",
-            "path": "config/fancymenu/assets/fancymenu_animation.zip"
           }
         },
         {
