@@ -536,6 +536,16 @@
           }
         },
         {
+          "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.7@jar",
+          "name": "Born in Chaos ",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11688482,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.7.jar",
+            "MD5": "3e502b5b9d3dbd84daea7f92ae08c491"
+          }
+        },
+        {
           "id": "earth.terrarium:chipped:3.0.7@jar",
           "name": "Chipped",
           "type": "ForgeMod",
