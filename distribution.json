@@ -918,6 +918,16 @@
           }
         },
         {
+          "id": "net.mcreator:glassdoorsandtrapdoors:2.3.0@jar",
+          "name": "Glass Doors & Trapdoors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 373754,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/glassdoorsandtrapdoors-2.3.0-forge-1.20.1.jar",
+            "MD5": "e50abc02b5f0d92ae8f1265f6dac7416"
+          }
+        },
+        {
           "id": "com.starfish_studios:hamsters:1.20.1-1.0.3@jar",
           "name": "Hamsters",
           "type": "ForgeMod",
