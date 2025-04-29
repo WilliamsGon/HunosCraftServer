@@ -1104,6 +1104,16 @@
           }
         },
         {
+          "id": "com.mcwdoors.kikoz:mcwdoors:1.1.2@jar",
+          "name": "Macaw's Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1250199,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mcw-doors-1.1.2-mc1.20.1forge.jar",
+            "MD5": "4ece726a373aeba6b6598bf15ee4b390"
+          }
+        },
+        {
           "id": "com.mcwlights.kikoz:mcwlights:1.1.0@jar",
           "name": "Macaw's Lights and Lamps",
           "type": "ForgeMod",
@@ -1121,6 +1131,36 @@
             "size": 811836,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mcw-paths-1.1.0forge-mc1.20.1.jar",
             "MD5": "1136461d4385486182f0b6777e75b141"
+          }
+        },
+        {
+          "id": "com.mcwroofs.kikoz:mcwroofs:2.3.1@jar",
+          "name": "Macaw's Roofs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1837373,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mcw-roofs-2.3.1-mc1.20.1forge.jar",
+            "MD5": "cacee547c4f32b57b0f238d68d4ddc2b"
+          }
+        },
+        {
+          "id": "com.mcwstairs.kikoz:mcwstairs:1.0.1@jar",
+          "name": "Macaw's Stairs and Balconies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 540915,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mcw-stairs-1.0.1-1.20.1forge.jar",
+            "MD5": "ceab72622060c85e4fbb47118f0b76e9"
+          }
+        },
+        {
+          "id": "com.mcwwindows.kikoz:mcwwindows:2.3.0@jar",
+          "name": "Macaw's Windows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1309586,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mcw-windows-2.3.0-mc1.20.1forge.jar",
+            "MD5": "82f6f7c58030345ddb6efa0b2ded97fd"
           }
         },
         {
