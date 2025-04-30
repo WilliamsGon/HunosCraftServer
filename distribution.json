@@ -576,6 +576,16 @@
           }
         },
         {
+          "id": "com.cyanogen:experienceobelisk:2.3.7-1.20.1@jar",
+          "name": "Cognition",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 545509,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Cognition-v2.3.7-1.20.1.jar",
+            "MD5": "22f673ed9fce36dcdd5967fac9ef6212"
+          }
+        },
+        {
           "id": "com.natamus:collective:8.3@jar",
           "name": "Collective",
           "type": "ForgeMod",
