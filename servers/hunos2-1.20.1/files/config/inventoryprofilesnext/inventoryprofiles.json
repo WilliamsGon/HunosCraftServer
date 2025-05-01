@@ -14,5 +14,12 @@
         "audio_replace_failed_notification": {
             "value": false
         }
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        }
     }
 }

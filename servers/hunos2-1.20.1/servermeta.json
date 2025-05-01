@@ -21,6 +21,17 @@
     {
       "appliesTo": ["files"],
       "patterns": [
+        "config/inventoryprofilesnext/*.cfg",
+        "config/inventoryprofilesnext/**/*.yml",
+        "config/inventoryprofilesnext/**/*.json",
+        "config/inventoryprofilesnext/**/*.txt",
+        "config/inventoryprofilesnext/**/*.properties",
+        "config/inventoryprofilesnext/**/*.xml",
+        "config/inventoryprofilesnext/**/*.toml",
+        "config/inventoryprofilesnext/**/*.log",
+        "config/inventoryprofilesnext/**/*.db",
+        "config/oculus.properties",
+        "shaderpacks/**/*.txt",
         "options.txt"
       ]
     }

@@ -739,6 +739,16 @@
           }
         },
         {
+          "id": "atomicstryker.dynamiclights.server:dynamiclights:1.20.1.2@jar",
+          "name": "Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 49564,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/dynamiclights-1.20.1.2.jar",
+            "MD5": "8ddb1fdf345c919ea74e55c50aa39a55"
+          }
+        },
+        {
           "id": "de.markusbordihn.easynpc:easy_npc:5.9.0@jar",
           "name": "Easy NPC",
           "type": "ForgeMod",
@@ -1844,7 +1854,6 @@
           "artifact": {
             "size": 1450,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
-            "MD5": "1a018549a3d0f945870f75056ce7e5eb",
             "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
           }
         },
@@ -1853,9 +1862,8 @@
           "name": "player-defined.json",
           "type": "File",
           "artifact": {
-            "size": 329,
+            "size": 668,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
-            "MD5": "ec6a8b25afe70b5efc8120a9de235cc1",
             "path": "config/inventoryprofilesnext/integrationHints/player-defined.json"
           }
         },
@@ -1864,9 +1872,8 @@
           "name": "inventoryprofiles.json",
           "type": "File",
           "artifact": {
-            "size": 354,
+            "size": 479,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
-            "MD5": "43a43fda7517f60f6cfe0774d0d6174d",
             "path": "config/inventoryprofilesnext/inventoryprofiles.json"
           }
         },
@@ -1877,7 +1884,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/Overworld/villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/Overworld/villager-trading-config.json"
           }
         },
@@ -1888,7 +1894,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/prev-villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/prev-villager-trading-config.json"
           }
         },
@@ -1899,7 +1904,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/inventoryprofilesnext/villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/villager-trading-config.json"
           }
         },
@@ -1910,7 +1914,6 @@
           "artifact": {
             "size": 276,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/oculus.properties",
-            "MD5": "f7b601520149a7eb432d5276a016ba49",
             "path": "config/oculus.properties"
           }
         },
@@ -18530,7 +18533,6 @@
           "artifact": {
             "size": 292,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt",
-            "MD5": "09b81339794aae9cdc14e8e2ed6b64a8",
             "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
           }
         },
@@ -18552,7 +18554,6 @@
           "artifact": {
             "size": 170,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt",
-            "MD5": "fd65827558c0115700154c8c442720dc",
             "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
           }
         },
@@ -18596,7 +18597,6 @@
           "artifact": {
             "size": 157,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/shaderpacks/Solas%20Shaders.zip.txt",
-            "MD5": "3003db95ca1d97537688d948d5d8343d",
             "path": "shaderpacks/Solas Shaders.zip.txt"
           }
         },
@@ -18618,7 +18618,6 @@
           "artifact": {
             "size": 1554,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/shaderpacks/TNTAstral.zip.txt",
-            "MD5": "bb1c5f796f5adbef10a0fd229f7fafcc",
             "path": "shaderpacks/TNTAstral.zip.txt"
           }
         },
@@ -18629,7 +18628,6 @@
           "artifact": {
             "size": 1050,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/shaderpacks/TNTBSL.zip.txt",
-            "MD5": "d5c6066123b1abec721f55852ef86ce1",
             "path": "shaderpacks/TNTBSL.zip.txt"
           }
         },
@@ -18651,7 +18649,6 @@
           "artifact": {
             "size": 742,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/shaderpacks/TNTShaders.zip.txt",
-            "MD5": "b9b6160ff18a2425baa2e712e221016f",
             "path": "shaderpacks/TNTShaders.zip.txt"
           }
         },
@@ -18662,7 +18659,6 @@
           "artifact": {
             "size": 169,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/shaderpacks/TNTSolas%20Shaders.zip.txt",
-            "MD5": "64625936d6550ecece0239909230b832",
             "path": "shaderpacks/TNTSolas Shaders.zip.txt"
           }
         }
