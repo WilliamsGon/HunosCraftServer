@@ -1743,9 +1743,9 @@
           "name": "hunoscraft2_1.txt",
           "type": "File",
           "artifact": {
-            "size": 32779,
+            "size": 34744,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "849ad26b795dfcd90f64b92b442a4a1d",
+            "MD5": "4b177a1352bd4c5cc85af0d3f58b9d7c",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },
