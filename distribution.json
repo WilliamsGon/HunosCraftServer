@@ -988,6 +988,19 @@
           }
         },
         {
+          "id": "com.anthonyhilyard:highlighter:1.1.9@jar",
+          "name": "Highlighter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29438,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/Highlighter-1.20.1-forge-1.1.9.jar",
+            "MD5": "650eec32fdb7c58c30c4d9aa911073d5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.dannyboythomas:hole_filler_mod:1.2.8@jar",
           "name": "Hole Filler Mod",
           "type": "ForgeMod",
@@ -1005,6 +1018,16 @@
             "size": 44844,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/hunoscraftmod-1.0.2.jar",
             "MD5": "125567f3ffd7fe1626b28a2f6316a8a4"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:iceberg:1.1.25@jar",
+          "name": "Iceberg",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 134551,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Iceberg-1.20.1-forge-1.1.25.jar",
+            "MD5": "cda8af806d0de012f5c7012ea51c155f"
           }
         },
         {
