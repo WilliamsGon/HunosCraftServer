@@ -1456,6 +1456,16 @@
           }
         },
         {
+          "id": "com.anthonyhilyard:prism:1.0.5@jar",
+          "name": "Prism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 52205,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Prism-1.20.1-forge-1.0.5.jar",
+            "MD5": "de0e319e29e813f407314b33739f7eb8"
+          }
+        },
+        {
           "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.32@jar",
           "name": "Puzzles Lib",
           "type": "ForgeMod",
