@@ -739,6 +739,16 @@
           }
         },
         {
+          "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
+          "name": "Cupboard utilities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25983,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
+            "MD5": "3620912474f47bf58d1fe5bfe133763a"
+          }
+        },
+        {
           "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -1210,6 +1220,16 @@
             "size": 1654660,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
             "MD5": "f4c6924bef764748d26ee51e4d4c0b00"
+          }
+        },
+        {
+          "id": "de.cristelknight:doapi:1.2.15@jar",
+          "name": "[Let's Do] API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1440591,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/letsdo-API-forge-1.2.15-forge.jar",
+            "MD5": "82d392dd5ef6064d8988592a35b3b403"
           }
         },
         {
