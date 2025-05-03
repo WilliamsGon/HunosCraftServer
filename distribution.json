@@ -1363,6 +1363,16 @@
           }
         },
         {
+          "id": "com.starfish_studios:naturalist:5.0pre2@jar",
+          "name": "Naturalist",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3793857,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/naturalist-5.0pre2+forge-1.20.1.jar",
+            "MD5": "213db37a474642aaa1693bbfb5c574e8"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
