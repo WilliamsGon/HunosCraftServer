@@ -669,6 +669,16 @@
           }
         },
         {
+          "id": "net.blay09.mods:cookingforblockheads:16.0.13@jar",
+          "name": "CookingForBlockheads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 837248,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/cookingforblockheads-forge-1.20.1-16.0.13.jar",
+            "MD5": "72838cbe744af26e4f9ab8992b2f5796"
+          }
+        },
+        {
           "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
           "name": "CoroUtil",
           "type": "ForgeMod",
@@ -729,6 +739,26 @@
           }
         },
         {
+          "id": "com.epherical:croptopia:3.0.4@jar",
+          "name": "Croptopia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2099945,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-3.0.4.jar",
+            "MD5": "c7c4e6f0ff51507ad64544991dfc7454"
+          }
+        },
+        {
+          "id": "net.raylirov:croptopiadelight:1.3.1@jar",
+          "name": "Croptopia Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 86291,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/croptopiadelight-1.3.1.jar",
+            "MD5": "3dbafa5f7f1c697cc211671ab8e9c262"
+          }
+        },
+        {
           "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
           "name": "Cupboard utilities",
           "type": "ForgeMod",
@@ -766,6 +796,16 @@
             "size": 11174999,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/decentbiomes%201.20.1%20forge.jar",
             "MD5": "79e059730cb32682ca9a10b6b6301c4d"
+          }
+        },
+        {
+          "id": "net.brnbrd:delightful:3.7.1@jar",
+          "name": "Delightful",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1138723,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Delightful-1.20.1-3.7.1.jar",
+            "MD5": "0f6545399acbe35388e631ba2647c621"
           }
         },
         {
@@ -888,6 +928,16 @@
           }
         },
         {
+          "id": "com.epherical:epherolib:0.1.2@jar",
+          "name": "BOZOID",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 756864,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+            "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:equipmentcompare:1.3.7@jar",
           "name": "Equipment Compare",
           "type": "ForgeMod",
@@ -908,6 +958,26 @@
             "size": 3280422,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/fancymenu_forge_3.5.0_MC_1.20.1.jar",
             "MD5": "4da459780fb51757bd0e467460c01e63"
+          }
+        },
+        {
+          "id": "com.accbdd:farmers_croptopia:2.0.0@jar",
+          "name": "Farmer's Croptopia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 103719,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/farmers_croptopia-1.20.1-2.0.0.jar",
+            "MD5": "c4b4a5267d08d0b4c9d9eaa62359d66f"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.7@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2954263,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
+            "MD5": "a91b9909757a8fa36303eef730033c7b"
           }
         },
         {
@@ -1243,6 +1313,16 @@
           }
         },
         {
+          "id": "io.wispforest:lmft:1.0.4+1.20.1@jar",
+          "name": "Load My F***ing Tags",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178625,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/lmft-1.0.4+1.20.1-forge.jar",
+            "MD5": "b6fef15e42caec14db87f5aa498233e8"
+          }
+        },
+        {
           "id": "noobanidus.mods:lootr:0.7.35.91@jar",
           "name": "Lootr",
           "type": "ForgeMod",
@@ -1546,6 +1626,16 @@
           }
         },
         {
+          "id": "com.phantomwing:rusticdelight:1.4.1@jar",
+          "name": "Rustic Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 461282,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/rusticdelight-forge-1.20.1-1.4.1.jar",
+            "MD5": "52220c6442ccf33f6fc91d1888673ead"
+          }
+        },
+        {
           "id": "com.blamejared:searchables:1.0.3@jar",
           "name": "Searchables",
           "type": "ForgeMod",
@@ -1556,6 +1646,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "org.hiedacamellia:seeddelight:1.20.1-0.1@jar",
+          "name": "Seed Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95795,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/SeedDelight-NeoorForge-1.20.1-1.0.1.jar",
+            "MD5": "ad86700bcb744ed6b95cf171ecb90010"
           }
         },
         {
