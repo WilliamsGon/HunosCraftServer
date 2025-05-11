@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "juuxel.adorn.platform:adorn:5.0.1+1.20.1@jar",
+          "name": "Adorn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4126239,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Adorn-5.0.1+1.20.1-forge.jar",
+            "MD5": "6a828aba4cd092e064d27e4d1968ae9a"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:advancementplaques:1.6.9@jar",
           "name": "Advancement Plaques",
           "type": "ForgeMod",
