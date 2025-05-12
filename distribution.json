@@ -1220,13 +1220,13 @@
           }
         },
         {
-          "id": "snownee.jade.addon:jadeaddons:5.3.1+forge@jar",
+          "id": "snownee.jade.addon:jadeaddons:5.5.0+forge@jar",
           "name": "Jade Addons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 77839,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/JadeAddons-1.20.1-Forge-5.3.1.jar",
-            "MD5": "41662ef8645177cc3f90fc34007563df"
+            "size": 91771,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/JadeAddons-1.20.1-Forge-5.5.0.jar",
+            "MD5": "3e2fa5d8b2ec994ba416ec4f84d5ea60"
           }
         },
         {
