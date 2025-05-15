@@ -1623,6 +1623,36 @@
           }
         },
         {
+          "id": "mekanism:mekanism:10.4.15@jar",
+          "name": "Mekanism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12554112,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.15.75.jar",
+            "MD5": "cdb1519f6b7beef6036fb32c2d3c2c65"
+          }
+        },
+        {
+          "id": "mekanism.generators:mekanismgenerators:10.4.15@jar",
+          "name": "Mekanism: Generators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1054585,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/MekanismGenerators-1.20.1-10.4.15.75.jar",
+            "MD5": "369569fd254535add4d47b14660a1c2b"
+          }
+        },
+        {
+          "id": "mekanism.tools:mekanismtools:10.4.15@jar",
+          "name": "Mekanism: Tools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517999,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/MekanismTools-1.20.1-10.4.15.75.jar",
+            "MD5": "b4cfa96f35b5de1e178d0c1284cba946"
+          }
+        },
+        {
           "id": "de.keksuccino:melody:1.0.2@jar",
           "name": "Melody",
           "type": "ForgeMod",
