@@ -1324,16 +1324,6 @@
           }
         },
         {
-          "id": "io.github.flemmli97:improvedmobs:1.20.1-1.13.5@jar",
-          "name": "Improved Mobs Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 335533,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/improvedmobs-1.20.1-1.13.5-forge.jar",
-            "MD5": "71aeda882122f3091d52096bfa82e1c0"
-          }
-        },
-        {
           "id": "com.buuz135.industrial:industrialforegoing:3.5.19@jar",
           "name": "Industrial Foregoing",
           "type": "ForgeMod",
