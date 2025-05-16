@@ -1357,6 +1357,16 @@
           }
         },
         {
+          "id": "dev.latvian.mods:itemfilters:2001.1.0-build.59@jar",
+          "name": "Item Filters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 110191,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/item-filters-forge-2001.1.0-build.59.jar",
+            "MD5": "4155fd7faf7daf46f9dcb914e93893e1"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:itemborders:1.2.2@jar",
           "name": "Item Borders",
           "type": "ForgeMod",
