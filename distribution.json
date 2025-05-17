@@ -2132,16 +2132,6 @@
           }
         },
         {
-          "id": "fuzs.thinair:thinair:8.1.5@jar",
-          "name": "Thin Air",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 196867,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/ThinAir-v8.1.5-1.20.1-Forge.jar",
-            "MD5": "d2e12f20a51a1e4cd2cdb078da3ca95b"
-          }
-        },
-        {
           "id": "com.hrznstudio:titanium:3.8.32@jar",
           "name": "Titanium",
           "type": "ForgeMod",
