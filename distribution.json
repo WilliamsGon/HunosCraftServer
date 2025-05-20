@@ -13,7 +13,7 @@
       "description": "Hunos2 Running Minecraft 1.20.1 (Forge v47.3.22)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunoscraft.png?raw=true",
       "version": "1.0.0",
-      "address": "172.96.140.91:25575",
+      "address": "38.147.104.199:25575",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
