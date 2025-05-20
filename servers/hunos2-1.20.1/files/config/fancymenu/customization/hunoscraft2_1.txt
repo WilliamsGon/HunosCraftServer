@@ -56,7 +56,7 @@ layout_action_executable_blocks {
 
 element {
   button_element_executable_block_identifier = ace56978-6302-4b0f-9986-f3c06fa885d0-1744552272169
-  [executable_action_instance:cd92bd68-527a-448a-b4c7-f45838989676-1744554007870][action_type:joinserver] = 172.96.140.91:25575
+  [executable_action_instance:cd92bd68-527a-448a-b4c7-f45838989676-1744554007870][action_type:joinserver] = 38.147.104.199:25575
   [executable_block:ace56978-6302-4b0f-9986-f3c06fa885d0-1744552272169][type:generic] = [executables:cd92bd68-527a-448a-b4c7-f45838989676-1744554007870;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false

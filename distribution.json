@@ -2242,16 +2242,6 @@
           }
         },
         {
-          "id": "toni.lib:txnilib:1.0.23@jar",
-          "name": "TxniLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3740586,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/txnilib-forge-1.0.23-1.20.1.jar",
-            "MD5": "dbef37e77d39f0dc2d704a6adb2b5835"
-          }
-        },
-        {
           "id": "embersalvatore.underground_rooms:underground_rooms:1.0-SNAPSHOT@jar",
           "name": "Underground_rooms",
           "type": "ForgeMod",
@@ -2432,9 +2422,9 @@
           "name": "hunoscraft2_1.txt",
           "type": "File",
           "artifact": {
-            "size": 34744,
+            "size": 34745,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "4b177a1352bd4c5cc85af0d3f58b9d7c",
+            "MD5": "3c09b2603098212a8d5f38fffeab2ba5",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },
@@ -19203,6 +19193,17 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/resourcepacks/waystones_1.20.zip",
             "MD5": "36888df55556b96458ab7ed3847e4917",
             "path": "resourcepacks/waystones_1.20.zip"
+          }
+        },
+        {
+          "id": "§bEnchanting§8-§bReimagined§0_§8[v1.2]§0.zip",
+          "name": "§bEnchanting§8-§bReimagined§0_§8[v1.2]§0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2743517,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/resourcepacks/%C2%A7bEnchanting%C2%A78-%C2%A7bReimagined%C2%A70_%C2%A78[v1.2]%C2%A70.zip",
+            "MD5": "291ae9ae9c63d3d2dd32ea38220135d3",
+            "path": "resourcepacks/§bEnchanting§8-§bReimagined§0_§8[v1.2]§0.zip"
           }
         },
         {
