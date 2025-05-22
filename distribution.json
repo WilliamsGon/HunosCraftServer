@@ -463,16 +463,6 @@
           }
         },
         {
-          "id": "com.anthonyhilyard:advancementplaques:1.6.9@jar",
-          "name": "Advancement Plaques",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 208850,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
-            "MD5": "508c73f2941ae3d48cbf197ba390ecdd"
-          }
-        },
-        {
           "id": "com.builtbroken.ai.improvements:aiimprovements:0.5.2@jar",
           "name": "AI-Improvements",
           "type": "ForgeMod",
@@ -643,16 +633,6 @@
             "size": 12471821,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Botania-1.20.1-448-FORGE.jar",
             "MD5": "993f29f2034c122d78a4a97c654364e2"
-          }
-        },
-        {
-          "id": "com.nick:chimes:2.0.1@jar",
-          "name": "Chimes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12444849,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Chimes-v2.0.1-1.20.1.jar",
-            "MD5": "44ff53414530887db7943c9db9eaa90c"
           }
         },
         {
@@ -849,16 +829,6 @@
           }
         },
         {
-          "id": "com.tom:cpm:0.6.21a@jar",
-          "name": "Customizable Player Models",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2773985,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/CustomPlayerModels-1.20-0.6.21a.jar",
-            "MD5": "47c0824e327bff103a37b04898010c05"
-          }
-        },
-        {
           "id": "net.mcreator.decentbiomes:decent_biomes:1.0.0@jar",
           "name": "Decent Biomes",
           "type": "ForgeMod",
@@ -886,16 +856,6 @@
             "size": 239365,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
             "MD5": "a8cbcca4541cb6eb794ded4a10c57ac9"
-          }
-        },
-        {
-          "id": "tech.thatgravyboat:duckling:3.0.0@jar",
-          "name": "Duckling",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 144057,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/duckling-3.0.0-forge.jar",
-            "MD5": "834411d3a2aef2840f7fa53e71b719b5"
           }
         },
         {
@@ -956,6 +916,16 @@
             "size": 1610362,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/easy_npc-forge-1.20.1-5.9.0.jar",
             "MD5": "d1548323ff014a8bcdbf00ac846a430d"
+          }
+        },
+        {
+          "id": "fuzs.easymagic:easymagic:8.0.1@jar",
+          "name": "Easy Magic",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115947,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/EasyMagic-v8.0.1-1.20.1-Forge.jar",
+            "MD5": "4818f5240dc07c9da2fafe9b1c344305"
           }
         },
         {
@@ -2302,23 +2272,23 @@
           }
         },
         {
-          "id": "net.blay09.mods:waystones:14.1.12@jar",
+          "id": "net.blay09.mods:waystones:14.1.13@jar",
           "name": "Waystones",
           "type": "ForgeMod",
           "artifact": {
-            "size": 488317,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.12.jar",
-            "MD5": "cdb428b2cfe8dfc63bcfe6310df439a8"
+            "size": 487241,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.13.jar",
+            "MD5": "85a878879039056bd88d88d9d5ab967c"
           }
         },
         {
-          "id": "xaero.minimap:xaerominimap:25.2.0@jar",
+          "id": "xaero.minimap:xaerominimap:25.2.6@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1704129,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Xaeros_Minimap_25.2.0_Forge_1.20.jar",
-            "MD5": "e606d37df7888b3b4806712ec6095a82"
+            "size": 1704662,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Xaeros_Minimap_25.2.6_Forge_1.20.jar",
+            "MD5": "a570643fa1e58b3f19fa23ab66d325f2"
           }
         },
         {
@@ -2332,13 +2302,13 @@
           }
         },
         {
-          "id": "xaero.map:xaeroworldmap:1.39.4@jar",
+          "id": "xaero.map:xaeroworldmap:1.39.9@jar",
           "name": "Xaero's World Map",
           "type": "ForgeMod",
           "artifact": {
-            "size": 933184,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/XaerosWorldMap_1.39.4_Forge_1.20.jar",
-            "MD5": "3da6919fb4f0c993772c073d787403e1"
+            "size": 948532,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/XaerosWorldMap_1.39.9_Forge_1.20.jar",
+            "MD5": "2a0899eef705ac91b0538b3447f3a10b"
           }
         },
         {
