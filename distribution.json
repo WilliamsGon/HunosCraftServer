@@ -919,16 +919,6 @@
           }
         },
         {
-          "id": "fuzs.easymagic:easymagic:8.0.1@jar",
-          "name": "Easy Magic",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 115947,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/EasyMagic-v8.0.1-1.20.1-Forge.jar",
-            "MD5": "4818f5240dc07c9da2fafe9b1c344305"
-          }
-        },
-        {
           "id": "xyz.vsngamer:elevatorid:1.20.1-lex-1.9@jar",
           "name": "Elevator Mod",
           "type": "ForgeMod",
