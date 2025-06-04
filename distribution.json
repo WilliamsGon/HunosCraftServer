@@ -2447,6 +2447,127 @@
           }
         },
         {
+          "id": "fondo1.png",
+          "name": "fondo1.png",
+          "type": "File",
+          "artifact": {
+            "size": 1535086,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo1.png",
+            "MD5": "fc2b52a05cf538de55db9f6efa557735",
+            "path": "config/fancymenu/assets/fondo1.png"
+          }
+        },
+        {
+          "id": "fondo10.jpg",
+          "name": "fondo10.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 112726,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo10.jpg",
+            "MD5": "a65c5c12619a4a5214ea1abe2b73daa4",
+            "path": "config/fancymenu/assets/fondo10.jpg"
+          }
+        },
+        {
+          "id": "fondo11.jpg",
+          "name": "fondo11.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 149763,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo11.jpg",
+            "MD5": "91f2f23fb59625f289a1c396edbf0736",
+            "path": "config/fancymenu/assets/fondo11.jpg"
+          }
+        },
+        {
+          "id": "fondo2.jpg",
+          "name": "fondo2.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 48036,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo2.jpg",
+            "MD5": "ac403b9a3a475e37fbd120a18f5b0c5c",
+            "path": "config/fancymenu/assets/fondo2.jpg"
+          }
+        },
+        {
+          "id": "fondo3.jpg",
+          "name": "fondo3.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 76288,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo3.jpg",
+            "MD5": "cda0711fbf12f2db06f540ad081d4a42",
+            "path": "config/fancymenu/assets/fondo3.jpg"
+          }
+        },
+        {
+          "id": "fondo4.jpg",
+          "name": "fondo4.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 95145,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo4.jpg",
+            "MD5": "ef23d8fedc0de03fad110a47fd094ebc",
+            "path": "config/fancymenu/assets/fondo4.jpg"
+          }
+        },
+        {
+          "id": "fondo5.jpg",
+          "name": "fondo5.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 70380,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo5.jpg",
+            "MD5": "ca5596db1977aaacffbe60be828aa9d7",
+            "path": "config/fancymenu/assets/fondo5.jpg"
+          }
+        },
+        {
+          "id": "fondo6.jpg",
+          "name": "fondo6.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 149820,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo6.jpg",
+            "MD5": "ac0e6ad5a1a6d50f35559a13bae5ba92",
+            "path": "config/fancymenu/assets/fondo6.jpg"
+          }
+        },
+        {
+          "id": "fondo7.jpg",
+          "name": "fondo7.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 120534,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo7.jpg",
+            "MD5": "9cd04978595672968706c1830641a69e",
+            "path": "config/fancymenu/assets/fondo7.jpg"
+          }
+        },
+        {
+          "id": "fondo8.jpg",
+          "name": "fondo8.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 106729,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo8.jpg",
+            "MD5": "b7a6d015ac9a4ce12f4f0aa7756af14c",
+            "path": "config/fancymenu/assets/fondo8.jpg"
+          }
+        },
+        {
+          "id": "fondo9.jpg",
+          "name": "fondo9.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 90079,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fondo9.jpg",
+            "MD5": "765ee0eeff8a54dd52dd549ca328b565",
+            "path": "config/fancymenu/assets/fondo9.jpg"
+          }
+        },
+        {
           "id": "hunoscraft-title.png",
           "name": "hunoscraft-title.png",
           "type": "File",
@@ -2464,7 +2585,7 @@
           "artifact": {
             "size": 271,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "1de032c14bb4161533f4a2f4a0fe70e7",
+            "MD5": "dcc9adedfef92b9ab9b316b7c60f7bcf",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -2484,9 +2605,9 @@
           "name": "hunoscraft2_1.txt",
           "type": "File",
           "artifact": {
-            "size": 34745,
+            "size": 28847,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "3c09b2603098212a8d5f38fffeab2ba5",
+            "MD5": "807e98e9cb96f6c099f407e34366fec7",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },
@@ -2517,9 +2638,9 @@
           "name": "element_layer_control.lewidget",
           "type": "File",
           "artifact": {
-            "size": 198,
+            "size": 197,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-            "MD5": "43a5ab1a30249caf7dafc2f7ad4b0ed9",
+            "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
         },
@@ -2572,9 +2693,9 @@
           "name": "user_variables.db",
           "type": "File",
           "artifact": {
-            "size": 23,
+            "size": 134,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/user_variables.db",
-            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "MD5": "b24c14b0a43503e92e01b0775339cb09",
             "path": "config/fancymenu/user_variables.db"
           }
         },
@@ -18955,9 +19076,9 @@
           "name": "client.properties",
           "type": "File",
           "artifact": {
-            "size": 375,
+            "size": 385,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/kubejs/config/client.properties",
-            "MD5": "ab6faba5ce4ca776943ec40d5e5f3704",
+            "MD5": "4d4ad7a8d7db4fe13d57bd1353867f87",
             "path": "kubejs/config/client.properties"
           }
         },
@@ -18970,6 +19091,17 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/kubejs/config/common.properties",
             "MD5": "da9b7a07f845ea7b770d2d969278c75f",
             "path": "kubejs/config/common.properties"
+          }
+        },
+        {
+          "id": "packicon.png",
+          "name": "packicon.png",
+          "type": "File",
+          "artifact": {
+            "size": 80283,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/kubejs/config/packicon.png",
+            "MD5": "215638f3f7b2af6db7b2fb248d18d731",
+            "path": "kubejs/config/packicon.png"
           }
         },
         {

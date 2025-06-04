@@ -1,8 +1,5 @@
 type = customizablemenus
 
-net.minecraft.client.gui.screens.TitleScreen {
-}
-
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
@@ -10,5 +7,8 @@ net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 }
 
 net.minecraft.client.gui.screens.PauseScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
 }
 
