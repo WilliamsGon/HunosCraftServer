@@ -483,6 +483,16 @@
           }
         },
         {
+          "id": "generated.forgemod:amplified_nether:1.2.5@jar",
+          "name": "Amplified Nether",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 97150,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Amplified_Nether_1.20.x_v1.2.5.jar",
+            "MD5": "1daa6003a22252ee3c7cf6a7ba62d3a3"
+          }
+        },
+        {
           "id": "com.starfish_studios:another_furniture:1.20.1-3.0.2@jar",
           "name": "Another Furniture",
           "type": "ForgeMod",
@@ -636,6 +646,16 @@
           }
         },
         {
+          "id": "com.brutalbosses:brutalbosses:1.20.1-8.2@jar",
+          "name": "Brutalbosses mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 200849,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/brutalbosses-1.20.1-8.2.jar",
+            "MD5": "85a0b16e3457587e04183dc76e26555a"
+          }
+        },
+        {
           "id": "de.maxhenkel:camera:1.20.1-1.0.20@jar",
           "name": "Camera Mod",
           "type": "ForgeMod",
@@ -663,6 +683,16 @@
             "size": 3173637,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/citadel-2.6.1-1.20.1.jar",
             "MD5": "d7c8be4b34cfd4db20ad1747b122d07c"
+          }
+        },
+        {
+          "id": "com.clickadv:clickadv:1.20.1-3.8@jar",
+          "name": "Clickadv mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16295,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/clickadv-1.20.1-3.8.jar",
+            "MD5": "ad368cc571f8ad43e20ead6ddd0c7361"
           }
         },
         {
@@ -733,6 +763,16 @@
             "size": 871676,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/connectedglass-1.1.13-forge-mc1.20.1.jar",
             "MD5": "13b280c06f47dddb474bbc1b398d6d3b"
+          }
+        },
+        {
+          "id": "com.connectivity:connectivity:1.20.1-7.1@jar",
+          "name": "Connectivity Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 112550,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/connectivity-1.20.1-7.1.jar",
+            "MD5": "a4e4e9823e1df967bee1d62e6a505e8f"
           }
         },
         {
@@ -946,6 +986,16 @@
             "size": 188132,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/elevatorid-1.20.1-lex-1.9.jar",
             "MD5": "35c05c6c14993fe3fb38917ce09f51b8"
+          }
+        },
+        {
+          "id": "net.jadenxgamer:elysium_api:1.1.3@jar",
+          "name": "Elysium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107624,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/ElysiumAPI-1.20.1-1.1.3.jar",
+            "MD5": "46292349f608fb76350b0c0f20ff6687"
           }
         },
         {
@@ -1340,6 +1390,16 @@
           }
         },
         {
+          "id": "generated.forgemod:incendium:5.3.5@jar",
+          "name": "Incendium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4638945,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Incendium_1.20.x_v5.3.5.jar",
+            "MD5": "783705058e0b778ca1c80ac5cc8698f6"
+          }
+        },
+        {
           "id": "com.buuz135.industrial:industrialforegoing:3.5.19@jar",
           "name": "Industrial Foregoing",
           "type": "ForgeMod",
@@ -1426,6 +1486,16 @@
           }
         },
         {
+          "id": "net.jadenxgamer:netherexp:2.3.3@jar",
+          "name": "Jaden's Nether Expansion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23485839,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Jadens-Nether-Expansion-2.3.3.jar",
+            "MD5": "2511480a07205e30239b051ade8df628"
+          }
+        },
+        {
           "id": "mezz.jei:jei:15.20.0.106@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -1499,6 +1569,16 @@
           }
         },
         {
+          "id": "com.github.l_ender:cataclysm:2.65@jar",
+          "name": "Cataclysm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 72159722,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/L_Enders_Cataclysm%201.20.1-2.66.jar",
+            "MD5": "a174d0dc293767e5bd277ed48158bcb8"
+          }
+        },
+        {
           "id": "de.cristelknight:doapi:1.2.15@jar",
           "name": "[Let's Do] API",
           "type": "ForgeMod",
@@ -1526,6 +1606,16 @@
             "size": 693301,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/libIPN-forge-1.20-4.0.2.jar",
             "MD5": "ef3a86f4867dba031dd6adef7e45d396"
+          }
+        },
+        {
+          "id": "com.github.l_ender:lionfishapi:2.4-Fix@jar",
+          "name": "LionfishAPI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 162767,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/lionfishapi-2.4-Fix.jar",
+            "MD5": "81efd7c198c3c7036c77c79cae764ed4"
           }
         },
         {
@@ -1566,6 +1656,16 @@
             "size": 458532,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.91.jar",
             "MD5": "512ee49d21782875b33513fb074eb098"
+          }
+        },
+        {
+          "id": "net.mcreator.luminousnether:luminous_nether:1.2.7@jar",
+          "name": "Luminous Nether",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21730577,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Luminous%20Nether%20V1.2.7%20-%20Forge%201.20.1.jar",
+            "MD5": "aa636a42d41afc5775bb4fbb251a0129"
           }
         },
         {
@@ -1922,6 +2022,16 @@
           }
         },
         {
+          "id": "net.xstopho.resource_ores:resource_nether_ores:1.1.0@jar",
+          "name": "Resource Nether Ores",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 231840,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/resource_nether_ores-forge-1.20.1-1.20.2-1.1.0.jar",
+            "MD5": "eebd43a4aca462becd07d930dc12d543"
+          }
+        },
+        {
           "id": "com.teamresourceful:resourcefulconfig:2.1.3@jar",
           "name": "Resourcefulconfig",
           "type": "ForgeMod",
@@ -1939,6 +2049,16 @@
             "size": 432753,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
             "MD5": "a040c6cc86f653fddf280ff3af9068f0"
+          }
+        },
+        {
+          "id": "net.xstopho:resourcelibrary:1.20.1-1.3.1@jar",
+          "name": "Resource Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 191027,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/resourcelibrary-forge-1.20.1-1.3.1.jar",
+            "MD5": "15cf78d6c549371f13c130a38e81f961"
           }
         },
         {
@@ -19343,6 +19463,17 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/resourcepacks/boss-refreshed-v1.4.zip",
             "MD5": "229bda4b76a0be1a2ddd55803c358e99",
             "path": "resourcepacks/boss-refreshed-v1.4.zip"
+          }
+        },
+        {
+          "id": "Connected_Reinforced_Glass_Textures(1.21).zip",
+          "name": "Connected_Reinforced_Glass_Textures(1.21).zip",
+          "type": "File",
+          "artifact": {
+            "size": 150586,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/resourcepacks/Connected_Reinforced_Glass_Textures(1.21).zip",
+            "MD5": "c01b3e8f18b20b2779ef4a0c9c4f80a3",
+            "path": "resourcepacks/Connected_Reinforced_Glass_Textures(1.21).zip"
           }
         },
         {
