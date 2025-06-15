@@ -2504,6 +2504,16 @@
           }
         },
         {
+          "id": "me.paulf:wings:2.1.4@jar",
+          "name": "Wings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 424964,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/wings-2.1.4-all.jar",
+            "MD5": "d8ee5a01e17e01fca2684521148d2fbf"
+          }
+        },
+        {
           "id": "xaero.minimap:xaerominimap:25.2.6@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
