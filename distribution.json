@@ -706,13 +706,13 @@
           }
         },
         {
-          "id": "com.cyanogen:experienceobelisk:2.3.7-1.20.1@jar",
+          "id": "com.cyanogen:experienceobelisk:2.4.6-1.20.1@jar",
           "name": "Cognition",
           "type": "ForgeMod",
           "artifact": {
-            "size": 545509,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Cognition-v2.3.7-1.20.1.jar",
-            "MD5": "22f673ed9fce36dcdd5967fac9ef6212"
+            "size": 618438,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Cognition-v2.4.6-1.20.1.jar",
+            "MD5": "9388b75dcadb923295039f3f4cab508a"
           }
         },
         {
@@ -846,6 +846,16 @@
             "size": 1812240,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Create%20Encased-1.20.1-1.7.1-fix2.jar",
             "MD5": "2682f1a906da2dfeef2e714a13832d05"
+          }
+        },
+        {
+          "id": "team.creative:creativecore:2.11.20@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1087871,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/CreativeCore_FORGE_v2.11.20_mc1.20.1.jar",
+            "MD5": "2c09ab9d2e78478979220cb32b0f67a1"
           }
         },
         {
@@ -1174,13 +1184,13 @@
           }
         },
         {
-          "id": "com.mrcrayfish:framework:0.7.12@jar",
+          "id": "com.mrcrayfish:framework:0.7.15@jar",
           "name": "Framework",
           "type": "ForgeMod",
           "artifact": {
-            "size": 308420,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
-            "MD5": "1b6b6ccc60c5a6ef2c232553f8a060f4"
+            "size": 309560,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.15.jar",
+            "MD5": "135716c910b1036a6dd2f0fe0bc7b03d"
           }
         },
         {
@@ -1829,13 +1839,13 @@
           }
         },
         {
-          "id": "com.bobmowzie:mowziesmobs:1.7.2@jar",
+          "id": "com.bobmowzie:mowziesmobs:1.7.3@jar",
           "name": "Mowzie's Mobs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 35239370,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mowziesmobs-1.7.2.jar",
-            "MD5": "4f5198d116a617bb05ef1761ff9f4031"
+            "size": 35239406,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mowziesmobs-1.7.3.jar",
+            "MD5": "ae03fbc5568adbf84e49806af92844cd"
           }
         },
         {
@@ -1922,6 +1932,16 @@
           }
         },
         {
+          "id": "team.creative:playerrevive:2.0.31@jar",
+          "name": "PlayerRevive",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5298162,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+            "MD5": "e07fc42680a0163c99c21cfa9afb9816"
+          }
+        },
+        {
           "id": "com.illusivesoulworks:polymorph:0.49.10+1.20.1@jar",
           "name": "Polymorph",
           "type": "ForgeMod",
@@ -2002,13 +2022,13 @@
           }
         },
         {
-          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.12@jar",
+          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.14@jar",
           "name": "MrCrayfish's Furniture Mod: Refurbished",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6687573,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.12.jar",
-            "MD5": "1a80f18a5ab4b11befa2a63dc629cb83"
+            "size": 6686700,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.14.jar",
+            "MD5": "cf49bb5867f7d060b82fc143e2ca0201"
           }
         },
         {
@@ -2364,13 +2384,13 @@
           }
         },
         {
-          "id": "net.bandit.many_bows:too_many_bows:3.6.1@jar",
+          "id": "net.bandit.many_bows:too_many_bows:3.6.6@jar",
           "name": "Too Many Bows",
           "type": "ForgeMod",
           "artifact": {
-            "size": 946133,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/too_many_bows-forge-3.6.1.jar",
-            "MD5": "8910fffbb18528009557b8d3b0b1b46f"
+            "size": 950295,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/too_many_bows-forge-3.6.6.jar",
+            "MD5": "2ec6d26da62b0b8b1cea85bee6b4065d"
           }
         },
         {
