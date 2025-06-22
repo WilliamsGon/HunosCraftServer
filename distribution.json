@@ -1324,13 +1324,13 @@
           }
         },
         {
-          "id": "com.py:hccollectorsalbum:1.0.0@jar",
+          "id": "com.py:hccollectorsalbum:1.0.1@jar",
           "name": "HunosCraft Collector's Album",
           "type": "ForgeMod",
           "artifact": {
-            "size": 408972,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/hccollectorsalbum-1.0.0.jar",
-            "MD5": "867c6e405e59c08b58077cda302db87f"
+            "size": 1003478,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/hccollectorsalbum-1.0.1.jar",
+            "MD5": "d8efd72b63c3f62d6c37939454941885"
           }
         },
         {
