@@ -626,6 +626,16 @@
           }
         },
         {
+          "id": "com.sh1nylabs:bonesupdate:1.2.0-1@jar",
+          "name": "Bones Update",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 451874,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/bonesupdate-1.20.1-1.2.0-1.jar",
+            "MD5": "cfad2e1999f5f4fb921ed7c4052957dd"
+          }
+        },
+        {
           "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.7@jar",
           "name": "Born in Chaos ",
           "type": "ForgeMod",
@@ -1806,6 +1816,16 @@
             "size": 37178,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "6b528d368f7fcbf737df28f2457cdec6"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecortoys:moa_decor_toys:1.20.1@jar",
+          "name": "MOA DECOR: TOYS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1119976,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/MOAdecor%20TOYS%201.20.1.jar",
+            "MD5": "a491d0259da96000cf70d0b0c22f6d87"
           }
         },
         {
