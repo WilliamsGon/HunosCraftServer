@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1749689149132
+  last_edited_time = 1751414597679
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:f1b463f3-1977-4421-a760-5314d9109469-1749689108737] = [groups:][instances:]
+  [loading_requirement_container_meta:f3d1a6ec-2083-4f93-81bb-173df41e74e5-1751414448682] = [groups:][instances:]
 }
 
 menu_background {
@@ -77,7 +77,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/74cd0a2133024529cc7a7cc1ddec1f41.gif
+  source = [source:local]/config/fancymenu/assets/fox.gif
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -97,9 +97,9 @@ element {
   auto_sizing_base_screen_height = 720
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -50
+  x = -65
   y = -18
-  width = 96
+  width = 128
   height = 128
   stretch_x = false
   stretch_y = false
@@ -114,63 +114,6 @@ element {
   load_once_per_session = false
   in_editor_color = #FFC800FF
   layer_hidden_in_editor = false
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = cb64f390-52ad-4dae-9f34-ce1fd4ac592b-1745090067827
-  [executable_block:cb64f390-52ad-4dae-9f34-ce1fd4ac592b-1745090067827][type:generic] = [executables:]
-  restartbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  navigatable = true
-  widget_active_state_requirement_container_identifier = 4af81697-f962-4f6d-87b9-958c00c94a3e-1745090067827
-  [loading_requirement_container_meta:4af81697-f962-4f6d-87b9-958c00c94a3e-1745090067827] = [groups:][instances:]
-  is_template = false
-  template_apply_width = false
-  template_apply_height = false
-  template_apply_posx = false
-  template_apply_posy = false
-  template_apply_opacity = false
-  template_apply_visibility = false
-  template_apply_label = false
-  template_share_with = buttons
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-  element_type = vanilla_button
-  instance_identifier = progress_bar
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1600
-  auto_sizing_base_screen_height = 768
-  sticky_anchor = false
-  anchor_point = vanilla
-  x = 140
-  y = 294
-  width = 360
-  height = 10
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = db59836f-f4c5-409d-8d8f-8d297eb1d0e9-1745090067827
-  [loading_requirement_container_meta:db59836f-f4c5-409d-8d8f-8d297eb1d0e9-1745090067827] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
-  is_hidden = false
-  automated_button_clicks = 0
 }
 
 vanilla_button {
@@ -209,10 +152,10 @@ vanilla_button {
   auto_sizing_base_screen_height = 768
   sticky_anchor = false
   anchor_point = vanilla
-  x = 140
-  y = 135
-  width = 360
-  height = 90
+  x = 228
+  y = 189
+  width = 504
+  height = 126
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -227,6 +170,63 @@ vanilla_button {
   in_editor_color = #FFC800FF
   layer_hidden_in_editor = false
   is_hidden = true
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = cb64f390-52ad-4dae-9f34-ce1fd4ac592b-1745090067827
+  [executable_block:cb64f390-52ad-4dae-9f34-ce1fd4ac592b-1745090067827][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 4af81697-f962-4f6d-87b9-958c00c94a3e-1745090067827
+  [loading_requirement_container_meta:4af81697-f962-4f6d-87b9-958c00c94a3e-1745090067827] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = progress_bar
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1600
+  auto_sizing_base_screen_height = 768
+  sticky_anchor = false
+  anchor_point = vanilla
+  x = 228
+  y = 415
+  width = 504
+  height = 10
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = db59836f-f4c5-409d-8d8f-8d297eb1d0e9-1745090067827
+  [loading_requirement_container_meta:db59836f-f4c5-409d-8d8f-8d297eb1d0e9-1745090067827] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  is_hidden = false
   automated_button_clicks = 0
 }
 

@@ -2826,6 +2826,17 @@
           }
         },
         {
+          "id": "fox.gif",
+          "name": "fox.gif",
+          "type": "File",
+          "artifact": {
+            "size": 1016305,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/assets/fox.gif",
+            "MD5": "6d5ff4eabb3cac1241f18fe0f27ffd0d",
+            "path": "config/fancymenu/assets/fox.gif"
+          }
+        },
+        {
           "id": "Fox_Idle_(Dungeons).gif",
           "name": "Fox_Idle_(Dungeons).gif",
           "type": "File",
@@ -2874,9 +2885,9 @@
           "name": "drippy_loading_overlay_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 7397,
+            "size": 7370,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-            "MD5": "920ede4ba734fe7b0b69c1db78f31a59",
+            "MD5": "d5c56ca5b5a90a878ed68e0588d43bb5",
             "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
           }
         },
@@ -2885,9 +2896,9 @@
           "name": "hunoscraft2_1.txt",
           "type": "File",
           "artifact": {
-            "size": 32783,
+            "size": 28848,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "f9f11cb342d9485ec9fc7b1c2051b5d8",
+            "MD5": "df82d24c9cb3ab5dd7b8a80caa9c1dc2",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },
