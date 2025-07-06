@@ -859,13 +859,13 @@
           }
         },
         {
-          "id": "team.creative:creativecore:2.11.20@jar",
+          "id": "team.creative:creativecore:2.12.32@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1087871,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/CreativeCore_FORGE_v2.11.20_mc1.20.1.jar",
-            "MD5": "2c09ab9d2e78478979220cb32b0f67a1"
+            "size": 1158417,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+            "MD5": "7aabe100af362d0df92d8ea1dbc2667b"
           }
         },
         {
@@ -1410,6 +1410,16 @@
           }
         },
         {
+          "id": "io.github.flemmli97:improvedmobs:1.20.1-1.13.5@jar",
+          "name": "Improved Mobs Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 335533,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/improvedmobs-1.20.1-1.13.5-forge.jar",
+            "MD5": "71aeda882122f3091d52096bfa82e1c0"
+          }
+        },
+        {
           "id": "generated.forgemod:incendium:5.3.5@jar",
           "name": "Incendium",
           "type": "ForgeMod",
@@ -1942,6 +1952,16 @@
           }
         },
         {
+          "id": "com.blackgear:platform:1.2.10.1@jar",
+          "name": "Platform",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 409864,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Platform-forge-1.20.1-1.2.10.1.jar",
+            "MD5": "56f7e9a7c45b438820ff0cb29314b196"
+          }
+        },
+        {
           "id": "com.blackgear:platform:1.2.7.1@jar",
           "name": "Platform",
           "type": "ForgeMod",
@@ -2324,6 +2344,16 @@
           }
         },
         {
+          "id": "com.tacz.guns:tacz:1.1.6-hotfix@jar",
+          "name": "Timeless & Classics Guns: Zero",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47826468,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/tacz-1.20.1-1.1.6-hotfix.jar",
+            "MD5": "51636447584a75f8d2db2fb930d110b1"
+          }
+        },
+        {
           "id": "tax.taknax:taxtg:2.1.0@jar",
           "name": "Tax' Tree Giant",
           "type": "ForgeMod",
@@ -2494,6 +2524,16 @@
           }
         },
         {
+          "id": "com.blackgear.vanillabackport.core:vanillabackport:1.1.4.3@jar",
+          "name": "VanillaBackport",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7166917,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/vanillabackport-forge-1.20.1-1.1.4.3.jar",
+            "MD5": "7623325ae54d5fd5a1b044e2aad488a0"
+          }
+        },
+        {
           "id": "com.natamus:villagernames:8.2@jar",
           "name": "Villager Names",
           "type": "ForgeMod",
@@ -2511,6 +2551,26 @@
             "size": 161808,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/walljump-1.20.1-1.3.4-forge.jar",
             "MD5": "c4b892e6984ed02b9bc323635333d500"
+          }
+        },
+        {
+          "id": "me.srrapero720:waterframes:2.1.15@jar",
+          "name": "WaterFrames",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 244993,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.15.jar",
+            "MD5": "b7bfa7d0edce34a901c399d5da962704"
+          }
+        },
+        {
+          "id": "org.watermedia.loaders:watermedia:2.1.25@jar",
+          "name": "WaterMedia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37854313,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/watermedia-2.1.25.jar",
+            "MD5": "b6a86c0336d0cebce6a3738ef26bb81c"
           }
         },
         {
