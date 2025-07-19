@@ -2758,9 +2758,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1947,
+            "size": 1946,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "901f15f5d23069219f266815929da252",
+            "MD5": "ff83ba95ba99ec292a29d6724a748e53",
             "path": "config/fancymenu/options.txt"
           }
         },
