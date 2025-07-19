@@ -1,0 +1,28 @@
+{
+  "name": {
+    "text": "Trofeo Sophisticated Storage",
+    "color": "#cc6600"
+  },
+  "tooltip": [
+    {
+      "text": "Misiones Sophisticated Storage completadas"
+    }
+  ],
+  "item": {
+    "item": "sophisticatedstorage:netherite_chest"
+  },
+  "animation": {
+    "type": "spinning",
+    "speed": 0.20
+  },
+  "display": {
+    "scale": 1,
+    "offset": {
+      "y": 3
+    }
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#cc6600"
+  }
+}

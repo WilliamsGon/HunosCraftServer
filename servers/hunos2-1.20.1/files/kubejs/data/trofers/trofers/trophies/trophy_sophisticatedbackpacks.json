@@ -1,0 +1,30 @@
+{
+  "name": {
+    "text": "Trofeo Sophisticated Backpacks",
+    "color": "#cc6600"
+  },
+  "tooltip": [
+    {
+      "text": "Misiones Sophisticated Backpacks completadas"
+    }
+  ],
+  "item": {
+    "item": "sophisticatedbackpacks:backpack"
+  },
+  "animation": {
+    "type": "spinning",
+    "speed": 0.20
+  },
+  "display": {
+    "scale": 1,
+    "offset": {
+      "y": 5,
+      "x": 0,
+      "z": 3
+    }
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#cc6600"
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "colors": {
+      "accent": "#54D6AC",
+      "base": "#606060"
+    },
+    "display": {
+      "offset": {
+        "y": 4
+      },
+      "scale": 1.0
+    },
+    "effects": {
+      "sound": {
+        "soundEvent": "minecraft:block.bell.use"
+      }
+    },
+    "item": {
+      "item": "undergarden:catalyst",
+      "count": 1
+    },
+    "animation": {
+        "type": "spinning",
+        "speed": 0.20
+      },
+    "name": {
+      "color": "#54D6AC",
+      "text": "The Underground Trofeo"
+    }
+  }

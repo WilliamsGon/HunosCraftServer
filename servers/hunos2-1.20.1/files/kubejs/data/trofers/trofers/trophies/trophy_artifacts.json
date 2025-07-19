@@ -1,7 +1,7 @@
 {
     "name": {
-        "text": "Trofeo Almacenamiento",
-        "color": "#FFD35A"
+        "text": "Trofeo Artifacts",
+        "color": "#ff0000"
     },
     "tooltip": [
         { "text": "Misiones Almacenamiento completadas" }
@@ -20,8 +20,8 @@
         }
     },
     "colors": {
-        "base": "#FFA823",
-        "accent": "#78B7D0"
+        "base": "#606060",
+        "accent": "#ff0000"
     },
     "effects": {
         "rewards": {
