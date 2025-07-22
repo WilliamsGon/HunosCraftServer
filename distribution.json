@@ -593,6 +593,19 @@
           }
         },
         {
+          "id": "com.cerbon:beb:5.0.0@jar",
+          "name": "Beautiful Enchanted Books",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2565386,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/BEB-Forge-1.20.1-5.0.0.jar",
+            "MD5": "00f1306c990c04e30cf37f65864aedf8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "fr.anto:bettercopper:1.3@jar",
           "name": "Better Copper",
           "type": "ForgeMod",
@@ -1351,6 +1364,19 @@
             "size": 29438,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/Highlighter-1.20.1-forge-1.1.9.jar",
             "MD5": "650eec32fdb7c58c30c4d9aa911073d5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.bene2212:holdmyitems:2.0@jar",
+          "name": "HoldMyItems - Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 330100,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/holdmyitems-1.20.1v2.1.jar",
+            "MD5": "49e4a479951c50540f4dcef56f26126b"
           },
           "required": {
             "value": false
