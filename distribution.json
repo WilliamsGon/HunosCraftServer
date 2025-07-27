@@ -1393,13 +1393,13 @@
           }
         },
         {
-          "id": "com.py:hunoscraftmod:1.0.2@jar",
+          "id": "com.py:hunoscraftmod:1.0.3@jar",
           "name": "HunosCraft Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 44844,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/hunoscraftmod-1.0.2.jar",
-            "MD5": "125567f3ffd7fe1626b28a2f6316a8a4"
+            "size": 86186,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/hunoscraftmod-1.0.3.jar",
+            "MD5": "5c04b7b8fed126ef52e48094a017c095"
           }
         },
         {
