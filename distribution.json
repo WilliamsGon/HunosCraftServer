@@ -583,13 +583,13 @@
           }
         },
         {
-          "id": "net.blay09.mods:balm:7.3.29@jar",
+          "id": "net.blay09.mods:balm:7.3.33@jar",
           "name": "Balm",
           "type": "ForgeMod",
           "artifact": {
-            "size": 594963,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.29-all.jar",
-            "MD5": "c0a9b19be467921a3192878ab7271289"
+            "size": 596329,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.33-all.jar",
+            "MD5": "2ff37a0442953ee751f788bea5658473"
           }
         },
         {
@@ -649,13 +649,13 @@
           }
         },
         {
-          "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.7@jar",
+          "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.7.2@jar",
           "name": "Born in Chaos ",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11688482,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.7.jar",
-            "MD5": "3e502b5b9d3dbd84daea7f92ae08c491"
+            "size": 11816101,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
+            "MD5": "53c0274da230c0b83864a8f1043d0a60"
           }
         },
         {
@@ -1287,13 +1287,13 @@
           }
         },
         {
-          "id": "software.bernie.example:geckolib:4.7.1.2@jar",
+          "id": "software.bernie.example:geckolib:4.7.3@jar",
           "name": "GeckoLib 4",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1012500,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
-            "MD5": "cd951c81b5551b8a3f215a825d2934fa"
+            "size": 1012611,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.3.jar",
+            "MD5": "771fb21a83d735260ff271092d8cc311"
           }
         },
         {
@@ -2201,6 +2201,19 @@
           }
         },
         {
+          "id": "com.github.exopandora:shouldersurfing:1.20.1-4.14.1@jar",
+          "name": "Shoulder Surfing Reloaded",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 241482,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionalon/ShoulderSurfing-Forge-1.20.1-4.14.1.jar",
+            "MD5": "665bc77edc4e1fcbdea72067b294cea5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.sweenus:simplyswords:1.56.0-1.20.1@jar",
           "name": "Simply Swords",
           "type": "ForgeMod",
@@ -2270,33 +2283,33 @@
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.23.17.1246@jar",
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.23.23.1289@jar",
           "name": "Sophisticated Backpacks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 924351,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.17.1246.jar",
-            "MD5": "59b083874d2319efaef19aff80f66ac4"
+            "size": 930761,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.23.1289.jar",
+            "MD5": "e0007af71b54e674fdb6a8586aa96e26"
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.59.984@jar",
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.78.1059@jar",
           "name": "Sophisticated Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1322911,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.59.984.jar",
-            "MD5": "0ed198de9c328542e4b81bda62de4da4"
+            "size": 1338184,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.78.1059.jar",
+            "MD5": "46feeb4ce684ea24097b142f45c73b73"
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedstorage:1.3.44.1157@jar",
+          "id": "net.p3pp3rf1y:sophisticatedstorage:1.3.58.1217@jar",
           "name": "Sophisticated Storage",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1611811,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.3.44.1157.jar",
-            "MD5": "c98752d6a4743a29d4ae2fbf520536d6"
+            "size": 1617988,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.3.58.1217.jar",
+            "MD5": "aa50ba9956067a47b5a91c9c6c0ce97e"
           }
         },
         {
@@ -2600,13 +2613,13 @@
           }
         },
         {
-          "id": "net.blay09.mods:waystones:14.1.13@jar",
+          "id": "net.blay09.mods:waystones:14.1.16@jar",
           "name": "Waystones",
           "type": "ForgeMod",
           "artifact": {
-            "size": 487241,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.13.jar",
-            "MD5": "85a878879039056bd88d88d9d5ab967c"
+            "size": 518256,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.16.jar",
+            "MD5": "2c4a77ae5ab5f314aa312069715539cc"
           }
         },
         {
