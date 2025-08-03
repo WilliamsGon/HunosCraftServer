@@ -483,6 +483,16 @@
           }
         },
         {
+          "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26350793,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
+            "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+          }
+        },
+        {
           "id": "generated.forgemod:amplified_nether:1.2.5@jar",
           "name": "Amplified Nether",
           "type": "ForgeMod",
@@ -616,6 +626,16 @@
           }
         },
         {
+          "id": "net.architects:betterendcities:1.0.0-1.20.1@jar",
+          "name": "Better End Cities Vanilla",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 81018,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/betterendcities-1.0.0-1.20.1.jar",
+            "MD5": "5f6dd2037628ac6ca0662210d689c7bb"
+          }
+        },
+        {
           "id": "me.treyruffy:betterf3:7.0.2@jar",
           "name": "BetterF3",
           "type": "ForgeMod",
@@ -629,6 +649,16 @@
           }
         },
         {
+          "id": "vice.bfendcities:bfendcities:1.0@jar",
+          "name": "Big F&$%ing End Cities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10743,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/bfendcities-1.0.jar",
+            "MD5": "2d2963534890dce79aead18f3a349f93"
+          }
+        },
+        {
           "id": "biomesoplenty.core:biomesoplenty:18.0.0.592@jar",
           "name": "Biomes O' Plenty",
           "type": "ForgeMod",
@@ -636,6 +666,16 @@
             "size": 21800460,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
             "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
+          }
+        },
+        {
+          "id": "com.teamabnormals.blueprint.core:blueprint:7.1.3@jar",
+          "name": "Blueprint",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1151213,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/blueprint-1.20.1-7.1.3.jar",
+            "MD5": "de8703f1bd1de5c64ebd411e37b19d47"
           }
         },
         {
@@ -726,6 +766,16 @@
             "size": 1181413,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
+        },
+        {
+          "id": "com.cgessinger.creaturesandbeasts:cnb:1.5.8@jar",
+          "name": "Creatures and Beasts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1336697,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/CNB-1.20.1-1.5.8.jar",
+            "MD5": "0ec373d74f9df38cf85feea7b2a5bd0b"
           }
         },
         {
@@ -1012,6 +1062,16 @@
           }
         },
         {
+          "id": "echoesoftheendstructures:echoes_of_the_end__structures_:1.00.2@jar",
+          "name": "Echoes of the End ( Structures )",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 151636,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/echoes_of_the_end__structures_-1.00.2-forge-1.20.1.jar",
+            "MD5": "1f81de80fda3fa36e50abf729322919b"
+          }
+        },
+        {
           "id": "xyz.vsngamer:elevatorid:1.20.1-lex-1.9@jar",
           "name": "Elevator Mod",
           "type": "ForgeMod",
@@ -1072,6 +1132,26 @@
             "size": 1208062,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/endermanoverhaul-forge-1.20.1-1.0.4.jar",
             "MD5": "992f4f6fad129c6ff47b33b0365d485a"
+          }
+        },
+        {
+          "id": "com.teamremastered:endrem:5.3.3-R-1.20.1@jar",
+          "name": "End Remastered",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 889634,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/endrem_forge-5.3.3-R-1.20.1.jar",
+            "MD5": "1de1aa97b353be8fe243f3a60cfc902e"
+          }
+        },
+        {
+          "id": "net.mcreator:enlightened_end:5.0.14@jar",
+          "name": "Enlightend",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21506560,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/enlightend-5.0.14-1.20.1.jar",
+            "MD5": "73e2f003a09de3eb399ec0f726e14793"
           }
         },
         {
@@ -1284,6 +1364,16 @@
             "size": 540383,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/fusion-1.2.7b-forge-mc1.20.1.jar",
             "MD5": "c675f476a9d1f14047b4e1b4a9b36b40"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.7.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1012626,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.2.jar",
+            "MD5": "72e8d82f49593bc4ee1f8e4ecd351d3f"
           }
         },
         {
@@ -1845,6 +1935,16 @@
           }
         },
         {
+          "id": "com.finndog:mes:1.3.4-1.20-forge@jar",
+          "name": "Moog's End Structures",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387792,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mes-1.3.4-1.20-forge.jar",
+            "MD5": "b99412e274a38958ab419f3f29803ecc"
+          }
+        },
+        {
           "id": "net.mcreator.moadecortoys:moa_decor_toys:1.20.1@jar",
           "name": "MOA DECOR: TOYS",
           "type": "ForgeMod",
@@ -1862,6 +1962,16 @@
             "size": 601749,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mobs_of_mythology-forge-1.20.1-2.1.2.jar",
             "MD5": "cd482aa8e3ce1a0d4edf8f967e979dab"
+          }
+        },
+        {
+          "id": "net.mcreator.mofusbetterend:mofus_better_end_:1.0.0@jar",
+          "name": "Mofu's better end ",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14706695,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mofus_broken_constellation-0.9.0-forge-1.20.1.jar",
+            "MD5": "a882a7cf241a53fc3afe75074de300dd"
           }
         },
         {
@@ -2045,6 +2155,16 @@
             "size": 1342204,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/PuzzlesLib-v8.1.32-1.20.1-Forge.jar",
             "MD5": "3ca3da58d71c0b14241df38578ffdb22"
+          }
+        },
+        {
+          "id": "generated.forgemod:mr_qraftys_endvillages:1@jar",
+          "name": "Qrafty's End Villages",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 89666,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/qraftys-end-villages-1.jar",
+            "MD5": "077701d457c909f6735d01bd3c5e155c"
           }
         },
         {
@@ -2443,6 +2563,16 @@
           }
         },
         {
+          "id": "blueduck.outer_end:outer_end:1.0.8@jar",
+          "name": "The Outer End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25018793,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/TheOuterEnd-1.0.10.jar",
+            "MD5": "f82bd0f0f9a5895553a315e6ac90805c"
+          }
+        },
+        {
           "id": "com.hrznstudio:titanium:3.8.32@jar",
           "name": "Titanium",
           "type": "ForgeMod",
@@ -2523,6 +2653,16 @@
           }
         },
         {
+          "id": "generated.forgemod:mr_limesplatus_ending:1-v1.1.0c@jar",
+          "name": "True Ending: Ender Dragon Overhaul",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5525883,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/tru.e-ending-v1.1.0c.jar",
+            "MD5": "c83ccd876af0ac3cac72d2880b7c1a18"
+          }
+        },
+        {
           "id": "net.mcreator.twitchpops:twitch_pops:2.0.0@jar",
           "name": "Twitch Pops",
           "type": "ForgeMod",
@@ -2550,6 +2690,16 @@
             "size": 85511,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar",
             "MD5": "908607035ad1d4193b252585db51fdbf"
+          }
+        },
+        {
+          "id": "net.mcreator:unusualend:2.3.0@jar",
+          "name": "Unusual End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20034506,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/unusualend-2.3.0-forge-1.20.1.jar",
+            "MD5": "8732b07c408a9f8aa03e4e2955cf9b32"
           }
         },
         {
@@ -2670,6 +2820,26 @@
             "size": 1105891,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
             "MD5": "2437cb642e24726a83f864e345f24479"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.6@jar",
+          "name": "YUNG's API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 370524,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
+            "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterendisland:1.20-Forge-2.0.6@jar",
+          "name": "YUNG's Better End Island",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387111,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+            "MD5": "7f5ed661e5478668a91ea199fba75fb3"
           }
         },
         {
