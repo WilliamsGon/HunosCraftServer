@@ -19807,17 +19807,6 @@
           }
         },
         {
-          "id": "waystones_1.20.zip",
-          "name": "waystones_1.20.zip",
-          "type": "File",
-          "artifact": {
-            "size": 234038,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/files/resourcepacks/waystones_1.20.zip",
-            "MD5": "36888df55556b96458ab7ed3847e4917",
-            "path": "resourcepacks/waystones_1.20.zip"
-          }
-        },
-        {
           "id": "§bEnchanting§8-§bReimagined§0_§8[v1.2]§0.zip",
           "name": "§bEnchanting§8-§bReimagined§0_§8[v1.2]§0.zip",
           "type": "File",
