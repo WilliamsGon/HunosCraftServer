@@ -483,16 +483,6 @@
           }
         },
         {
-          "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
-          "name": "Alex's Mobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 26350793,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
-            "MD5": "504050d1f2e2c3019b6f53377ca354c6"
-          }
-        },
-        {
           "id": "generated.forgemod:amplified_nether:1.2.5@jar",
           "name": "Amplified Nether",
           "type": "ForgeMod",
@@ -1665,16 +1655,6 @@
           }
         },
         {
-          "id": "net.salju:kobolds:2.12.0@jar",
-          "name": "Kobolds",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2435938,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/Kobolds-2.12.0.jar",
-            "MD5": "80a70564e27e06d38d1afbfd425ba989"
-          }
-        },
-        {
           "id": "de.keksuccino:konkrete:1.8.0@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
@@ -2012,6 +1992,16 @@
             "size": 3793857,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/naturalist-5.0pre2+forge-1.20.1.jar",
             "MD5": "213db37a474642aaa1693bbfb5c574e8"
+          }
+        },
+        {
+          "id": "com.chaosthedude:naturescompass:1.20.1-1.11.2-forge@jar",
+          "name": "Nature's Compass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215119,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/NaturesCompass-1.20.1-1.11.2-forge.jar",
+            "MD5": "7c05072645b1aae529b1e38c74b87c4c"
           }
         },
         {
