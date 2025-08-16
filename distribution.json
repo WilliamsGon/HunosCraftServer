@@ -1267,6 +1267,16 @@
           }
         },
         {
+          "id": "net.mcreator.feurelytrawings:feur_elytra_wings:1.0.7@jar",
+          "name": "Feur Elytra Wings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 245495,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/feur_elytra_wings-1.20.1-forge.jar",
+            "MD5": "abc7d44291e4ac326875975bbd35eb99"
+          }
+        },
+        {
           "id": "com.endertech.minecraft:forgeendertech:11.1.6.0@jar",
           "name": "ForgeEndertech",
           "type": "ForgeMod",
