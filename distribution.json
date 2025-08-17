@@ -2083,8 +2083,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12152471,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.4.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/optionaloff/plasmovoice-forge-1.20.1-2.1.4.jar",
             "MD5": "873ee7fcbdbfe6586e2c3c71738b2be3"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
