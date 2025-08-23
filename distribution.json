@@ -1955,16 +1955,6 @@
           }
         },
         {
-          "id": "net.pixeldreamstudios:mobs_of_mythology:2.1.2@jar",
-          "name": "Mobs of Mythology",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 601749,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/hunos2-1.20.1/forgemods/required/mobs_of_mythology-forge-1.20.1-2.1.2.jar",
-            "MD5": "cd482aa8e3ce1a0d4edf8f967e979dab"
-          }
-        },
-        {
           "id": "net.mcreator.mofusbetterend:mofus_better_end_:1.0.0@jar",
           "name": "Mofu's better end ",
           "type": "ForgeMod",
