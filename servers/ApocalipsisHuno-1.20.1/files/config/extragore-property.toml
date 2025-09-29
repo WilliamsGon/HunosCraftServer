@@ -1,0 +1,176 @@
+# ExtraGore Particle Group Configuration
+# ------------------------------------------------------
+# This file enables the creation of custom blood particle properties for various entities.
+# Begin by uniquely naming each property group to effectively manage different settings.
+
+# Particle Behavior Options:
+# - Bounce: The particle will bounce off surfaces like a solid object.
+# - Stick: The particle will stick to walls and other surfaces.
+# - Magic: Some particles will fall to the ground while the majority will fly up to the sky.
+# - None: The particle won't have any special effects.
+
+# Particle Weight Options:
+# - Heavy: The particle will sink to the bottom when it's underwater.
+# - Light: The particle will float up to the top of the water.
+
+# Particle State Options:
+# - Liquid: The particle will get larger during its lifetime.
+# - Solid: The particle will remain the same size all the time.
+
+# Color Settings:
+# Set an RGB color value to visually distinguish particles for various entities.
+
+# How to Use:
+# 1. Define a group with a name, including behavior, weight, state, color and entity values.
+# 2. Example:
+#    ["Color Group Name"]
+#    behavior = Choose from "Stuck", "Bounce" or "None"
+#    weight = Choose from "Heavy" or "Light"
+#    state = Choose from "Liquid" or "Solid"
+#    color = "R,G,B"
+#    entities = ["entityID1", "entityID2"]
+# 3. You can modify or delete any predefined groups, except for the red group. The red group is non editable and serves only to show you unused entities which are compatible with different color groups.
+# 4. Add your custom color groups under an already predefined group, except for the red one.
+# 5. Ensure each color group has a unique name and is properly structured.
+
+# Note: Incorrectly formatted lines or unrecognized entity IDs will be ignored.
+# ------------------------------------------------------
+
+["Violet Group"]
+behavior = "Magic"
+weight = "Light"
+state = "Liquid"
+color = "128,0,128"
+entities = ["minecraft:enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "minecraft:silverfish", "minecraft:warden", "minecraft:ender_dragon"]
+
+["White Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,255"
+entities = ["minecraft:skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:allay", "minecraft:wither"]
+
+["Green Group"]
+behavior = "Stuck"
+weight = "Light"
+state = "Liquid"
+color = "0,255,0"
+entities = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch"]
+
+["Yellow Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,0"
+entities = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider"]
+
+["Blue Group"]
+behavior = "None"
+weight = "Light"
+state = "Liquid"
+color = "0,0,255"
+entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid"]
+
+# Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
+"255,0,0" = [
+    "minecraft:giant",
+    "minecraft:trader_llama",
+    "minecraft:horse",
+    "the_deep_void:light",
+    "hordes:zombie_player",
+    "minecraft:llama",
+    "minecraft:husk",
+    "the_deep_void:gravekeeper",
+    "minecraft:tadpole",
+    "minecraft:dolphin",
+    "minecraft:donkey",
+    "jeffs_cursed_walking_structures:nomorewaterlogging",
+    "mutantmonsters:mutant_skeleton",
+    "jeffs_cursed_walking_structures:door_entity",
+    "minecraft:piglin_brute",
+    "the_deep_void:flesh_cube",
+    "minecraft:bee",
+    "the_deep_void:rotten_corpse",
+    "minecraft:illusioner",
+    "jeffs_cursed_walking_structures:spawnpoint_entity",
+    "the_deep_void:hallucination",
+    "minecraft:mooshroom",
+    "minecraft:drowned",
+    "minecraft:axolotl",
+    "ecologics:squirrel",
+    "the_deep_void:ghostly_nightmare",
+    "minecraft:parrot",
+    "the_deep_void:void_dweller",
+    "minecraft:wandering_trader",
+    "minecraft:frog",
+    "the_deep_void:nightmare",
+    "mutantmonsters:mutant_creeper",
+    "ecologics:coconut_crab",
+    "bloomingnature:termite",
+    "mutantmonsters:mutant_zombie",
+    "the_deep_void:cross_eyes",
+    "hordes:drowned_player",
+    "minecraft:mule",
+    "the_deep_void:fool_eater",
+    "minecraft:vindicator",
+    "jeffs_cursed_walking_structures:boss_spawner",
+    "minecraft:evoker",
+    "minecraft:pufferfish",
+    "minecraft:fox",
+    "the_deep_void:abductor",
+    "bloomingnature:wandering_gardener",
+    "the_deep_void:stalker_stalking",
+    "minecraft:chicken",
+    "minecraft:zombie",
+    "jeffs_cursed_walking_structures:driller",
+    "the_deep_void:small_flesh_cube",
+    "minecraft:hoglin",
+    "hordes:husk_player",
+    "the_deep_void:multiple_eyes",
+    "minecraft:polar_bear",
+    "minecraft:zombified_piglin",
+    "minecraft:pig",
+    "the_deep_void:big_eye",
+    "the_deep_void:devourer",
+    "minecraft:turtle",
+    "minecraft:sheep",
+    "the_deep_void:mourner",
+    "minecraft:goat",
+    "mutantmonsters:mutant_enderman",
+    "the_deep_void:bone_crawler",
+    "minecraft:cod",
+    "the_deep_void:lurker",
+    "the_deep_void:tiny_light",
+    "minecraft:ravager",
+    "mutantmonsters:spider_pig",
+    "minecraft:cow",
+    "the_deep_void:amalgam",
+    "minecraft:salmon",
+    "the_deep_void:big_light",
+    "minecraft:rabbit",
+    "minecraft:pillager",
+    "minecraft:zoglin",
+    "the_deep_void:stalker",
+    "minecraft:bat",
+    "mutantmonsters:endersoul_clone",
+    "minecraft:piglin",
+    "the_deep_void:falling_corpse",
+    "railways:conductor",
+    "the_deep_void:roamer",
+    "the_deep_void:sulfur_tnt_entity",
+    "minecraft:sniffer",
+    "the_deep_void:damned",
+    "minecraft:zombie_horse",
+    "the_deep_void:spore_spewer",
+    "minecraft:camel",
+    "the_deep_void:licker",
+    "the_deep_void:wanderer",
+    "the_deep_void:four_eyes",
+    "minecraft:cat",
+    "ecologics:penguin",
+    "minecraft:tropical_fish",
+    "minecraft:ocelot",
+    "minecraft:wolf",
+    "minecraft:panda",
+    "minecraft:zombie_villager"
+]
