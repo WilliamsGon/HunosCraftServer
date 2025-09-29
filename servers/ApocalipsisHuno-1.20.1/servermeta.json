@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Proyectos/MinecraftProyects/HunosCraftServer/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "ApocalipsisHuno (Minecraft 1.20.1)",
     "description": "ApocalipsisHuno Running Minecraft 1.20.1 (Forge v47.4.0)",
     "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunoscraft.png?raw=true",
