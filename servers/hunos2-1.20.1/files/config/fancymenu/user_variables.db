@@ -1,8 +1,0 @@
-type = user_variables
-
-variable {
-  name = random_bg
-  value = return Math.floor(Math.random() * 3) + 1;
-  reset_on_launch = false
-}
-
