@@ -3235,6 +3235,138 @@
           }
         },
         {
+          "id": "advanced_options.json",
+          "name": "advanced_options.json",
+          "type": "File",
+          "artifact": {
+            "size": 177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/advanced_options.json",
+            "MD5": "01c2e94c2404666f120a9568bec49673",
+            "path": "config/openloader/advanced_options.json"
+          }
+        },
+        {
+          "id": "Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+          "name": "Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 95762,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/Create%20Immersive%20Aircrafts%20Resource%20Pack%201.20.1%20-%202.0.zip",
+            "MD5": "9a82f5a9dddbbb7577b20d208cc0254b",
+            "path": "config/openloader/resources/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip"
+          }
+        },
+        {
+          "id": "Cubic Leaves 1.6 (compat).zip",
+          "name": "Cubic Leaves 1.6 (compat).zip",
+          "type": "File",
+          "artifact": {
+            "size": 228917,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/Cubic%20Leaves%201.6%20(compat).zip",
+            "MD5": "5a72af6db7b18ceebf8840c98e4a1c67",
+            "path": "config/openloader/resources/Cubic Leaves 1.6 (compat).zip"
+          }
+        },
+        {
+          "id": "DetailedAnimationsReworked - V1.15.zip",
+          "name": "DetailedAnimationsReworked - V1.15.zip",
+          "type": "File",
+          "artifact": {
+            "size": 116175,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/DetailedAnimationsReworked%20-%20V1.15.zip",
+            "MD5": "e64f259af7fc9be053faa94569bcc003",
+            "path": "config/openloader/resources/DetailedAnimationsReworked - V1.15.zip"
+          }
+        },
+        {
+          "id": "FA+All_Extensions-v1.6.zip",
+          "name": "FA+All_Extensions-v1.6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 591615,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/FA+All_Extensions-v1.6.zip",
+            "MD5": "32ac8940f4a2db5d4185109c0ad478b5",
+            "path": "config/openloader/resources/FA+All_Extensions-v1.6.zip"
+          }
+        },
+        {
+          "id": "FreshAnimations_v1.10.1.zip",
+          "name": "FreshAnimations_v1.10.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 815824,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/FreshAnimations_v1.10.1.zip",
+            "MD5": "aa7093e69c3b4c071b0d07fcf7fc0cc1",
+            "path": "config/openloader/resources/FreshAnimations_v1.10.1.zip"
+          }
+        },
+        {
+          "id": "Low Shield.zip",
+          "name": "Low Shield.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3270,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/Low%20Shield.zip",
+            "MD5": "0002a69afaf2335a994a692bbadb4d82",
+            "path": "config/openloader/resources/Low Shield.zip"
+          }
+        },
+        {
+          "id": "Pillagers_gun_tacz_2.zip",
+          "name": "Pillagers_gun_tacz_2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 498087,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/Pillagers_gun_tacz_2.zip",
+            "MD5": "a101a0323b0509735d674de7ecf7b8fa",
+            "path": "config/openloader/resources/Pillagers_gun_tacz_2.zip"
+          }
+        },
+        {
+          "id": "SE Vanilla Consistency 1.20.1.zip",
+          "name": "SE Vanilla Consistency 1.20.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 85743,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/SE%20Vanilla%20Consistency%201.20.1.zip",
+            "MD5": "1854be09b2efc0f1a592e2c9b7c28f9c",
+            "path": "config/openloader/resources/SE Vanilla Consistency 1.20.1.zip"
+          }
+        },
+        {
+          "id": "TZP Mutant 1.20.1-1.3.zip",
+          "name": "TZP Mutant 1.20.1-1.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2821989,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/TZP%20Mutant%201.20.1-1.3.zip",
+            "MD5": "3c0542c6424c3025c4b05671461eb832",
+            "path": "config/openloader/resources/TZP Mutant 1.20.1-1.3.zip"
+          }
+        },
+        {
+          "id": "TZP_1.20.1_2.7.zip",
+          "name": "TZP_1.20.1_2.7.zip",
+          "type": "File",
+          "artifact": {
+            "size": 14177090,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/TZP_1.20.1_2.7.zip",
+            "MD5": "9c0fe8ecd9931b0121ab939425dd7b1e",
+            "path": "config/openloader/resources/TZP_1.20.1_2.7.zip"
+          }
+        },
+        {
+          "id": "wasteland-armor-1.20.1.zip",
+          "name": "wasteland-armor-1.20.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 59537,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/openloader/resources/wasteland-armor-1.20.1.zip",
+            "MD5": "715edd749481d950b800e3cc9f2e8fa2",
+            "path": "config/openloader/resources/wasteland-armor-1.20.1.zip"
+          }
+        },
+        {
           "id": "en_ca.json",
           "name": "en_ca.json",
           "type": "File",
