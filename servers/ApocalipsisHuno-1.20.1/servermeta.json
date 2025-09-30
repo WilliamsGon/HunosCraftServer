@@ -31,8 +31,7 @@
         "config/inventoryprofilesnext/**/*.log",
         "config/inventoryprofilesnext/**/*.db",
         "config/oculus.properties",
-        "shaderpacks/**/*.txt",
-        "options.txt"
+        "shaderpacks/**/*.txt"
       ]
     }
   ]

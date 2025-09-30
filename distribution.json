@@ -1063,6 +1063,16 @@
           }
         },
         {
+          "id": "com.hrznstudio:emojiful:4.2.0@jar",
+          "name": "Emojiful",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 262412,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
+            "MD5": "0ba360de4747e64c6325b74c0055479a"
+          }
+        },
+        {
           "id": "net.darkhax:enchdesc:17.1.19@jar",
           "name": "EnchantmentDescriptions",
           "type": "ForgeMod",
@@ -1450,6 +1460,16 @@
             "size": 48529,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/required/Item%20Scrapper%20Pack%20-%20TACZ.jar",
             "MD5": "0ea6623649fae8742640a119f0b4d434"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.13.2+forge@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 552486,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.2.jar",
+            "MD5": "7c349670f77fd64b9e9854c4a8d82fcc"
           }
         },
         {
@@ -2433,6 +2453,17 @@
           }
         },
         {
+          "id": "mobdropconfig.txt",
+          "name": "mobdropconfig.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6812,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/configurableextramobdrops/mobdropconfig.txt",
+            "MD5": "806b640a4456b404fd463bbf717801ba",
+            "path": "config/configurableextramobdrops/mobdropconfig.txt"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -2569,10 +2600,21 @@
           "name": "cw2logo.png",
           "type": "File",
           "artifact": {
-            "size": 721,
+            "size": 2098,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/fancymenu/assets/cw2logo.png",
-            "MD5": "de7909a698dcdbb3457d8610f2d1ee00",
+            "MD5": "0cc5466a8a858ec4efab58dc77241119",
             "path": "config/fancymenu/assets/cw2logo.png"
+          }
+        },
+        {
+          "id": "cw2logo1.png",
+          "name": "cw2logo1.png",
+          "type": "File",
+          "artifact": {
+            "size": 721,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/fancymenu/assets/cw2logo1.png",
+            "MD5": "de7909a698dcdbb3457d8610f2d1ee00",
+            "path": "config/fancymenu/assets/cw2logo1.png"
           }
         },
         {
@@ -2580,10 +2622,21 @@
           "name": "cwlogo.png",
           "type": "File",
           "artifact": {
-            "size": 1951,
+            "size": 4290,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/fancymenu/assets/cwlogo.png",
-            "MD5": "237939567b3f2cfb36e78fe34d5fabb3",
+            "MD5": "8db6d80444c0d92463cf6b7a80ad0bd7",
             "path": "config/fancymenu/assets/cwlogo.png"
+          }
+        },
+        {
+          "id": "cwlogo1.png",
+          "name": "cwlogo1.png",
+          "type": "File",
+          "artifact": {
+            "size": 1951,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/fancymenu/assets/cwlogo1.png",
+            "MD5": "237939567b3f2cfb36e78fe34d5fabb3",
+            "path": "config/fancymenu/assets/cwlogo1.png"
           }
         },
         {
@@ -2679,10 +2732,21 @@
           "name": "server2.png",
           "type": "File",
           "artifact": {
-            "size": 2861344,
+            "size": 7756,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/fancymenu/assets/server2.png",
-            "MD5": "3f10c37817f1987490f2b6fc06acf92a",
+            "MD5": "9aba58074db5ccafbc97b52b15aa2cfd",
             "path": "config/fancymenu/assets/server2.png"
+          }
+        },
+        {
+          "id": "server22.png",
+          "name": "server22.png",
+          "type": "File",
+          "artifact": {
+            "size": 2861344,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/fancymenu/assets/server22.png",
+            "MD5": "3f10c37817f1987490f2b6fc06acf92a",
+            "path": "config/fancymenu/assets/server22.png"
           }
         },
         {
@@ -3222,6 +3286,358 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/fancymenu/user_variables.db",
             "MD5": "1e846984880685ffdef636581c5774f6",
             "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 1529,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/lang/en_us.json",
+            "MD5": "612fb4a399e01746ba3d4fabb58e2690",
+            "path": "config/hordes/assets/hordes/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ru_ru.json",
+          "name": "ru_ru.json",
+          "type": "File",
+          "artifact": {
+            "size": 2012,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/lang/ru_ru.json",
+            "MD5": "11a29c28f8b1b55d649ffab48edb5457",
+            "path": "config/hordes/assets/hordes/lang/ru_ru.json"
+          }
+        },
+        {
+          "id": "horde_spawn.ogg",
+          "name": "horde_spawn.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 54899,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/sounds/horde_spawn.ogg",
+            "MD5": "458e92d8b7393454cfff5aa3775f3348",
+            "path": "config/hordes/assets/hordes/sounds/horde_spawn.ogg"
+          }
+        },
+        {
+          "id": "sounds.json",
+          "name": "sounds.json",
+          "type": "File",
+          "artifact": {
+            "size": 546,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/sounds.json",
+            "MD5": "37242fc08384d5eb9c024b12b6ad4b86",
+            "path": "config/hordes/assets/hordes/sounds.json"
+          }
+        },
+        {
+          "id": "drowned_player_outer_layer.png",
+          "name": "drowned_player_outer_layer.png",
+          "type": "File",
+          "artifact": {
+            "size": 4199,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/entity/layer/drowned_player_outer_layer.png",
+            "MD5": "2c4e9a2df478157e15935b99ce08d5bc",
+            "path": "config/hordes/assets/hordes/textures/entity/layer/drowned_player_outer_layer.png"
+          }
+        },
+        {
+          "id": "husk_player_outer_layer.png",
+          "name": "husk_player_outer_layer.png",
+          "type": "File",
+          "artifact": {
+            "size": 396,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/entity/layer/husk_player_outer_layer.png",
+            "MD5": "a0176a4b663227760d2941f9755000f8",
+            "path": "config/hordes/assets/hordes/textures/entity/layer/husk_player_outer_layer.png"
+          }
+        },
+        {
+          "id": "zombie_player_outer_layer.png",
+          "name": "zombie_player_outer_layer.png",
+          "type": "File",
+          "artifact": {
+            "size": 6208,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/entity/layer/zombie_player_outer_layer.png",
+            "MD5": "82dcd79f9be8d037cd9029dff702139e",
+            "path": "config/hordes/assets/hordes/textures/entity/layer/zombie_player_outer_layer.png"
+          }
+        },
+        {
+          "id": "zombie_evoker.png",
+          "name": "zombie_evoker.png",
+          "type": "File",
+          "artifact": {
+            "size": 1927,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_evoker.png",
+            "MD5": "956dc13d25a512b4f5050a6461b5b6fd",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_evoker.png"
+          }
+        },
+        {
+          "id": "zombie_illusioner.png",
+          "name": "zombie_illusioner.png",
+          "type": "File",
+          "artifact": {
+            "size": 2475,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_illusioner.png",
+            "MD5": "c8cd15ad9eb2967a5524b42998bfd83a",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_illusioner.png"
+          }
+        },
+        {
+          "id": "zombie_pillager.png",
+          "name": "zombie_pillager.png",
+          "type": "File",
+          "artifact": {
+            "size": 2169,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_pillager.png",
+            "MD5": "841e8710e4ff1c448ef0aee8fa92eb8e",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_pillager.png"
+          }
+        },
+        {
+          "id": "zombie_vindicator.png",
+          "name": "zombie_vindicator.png",
+          "type": "File",
+          "artifact": {
+            "size": 2140,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_vindicator.png",
+            "MD5": "1494775f61da7222198efeec0fe3e694",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_vindicator.png"
+          }
+        },
+        {
+          "id": "zombie_wandering_trader.png",
+          "name": "zombie_wandering_trader.png",
+          "type": "File",
+          "artifact": {
+            "size": 2378,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_wandering_trader.png",
+            "MD5": "202e48c0fc05b86602755e3cbb518b53",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_wandering_trader.png"
+          }
+        },
+        {
+          "id": "zombie_witch.png",
+          "name": "zombie_witch.png",
+          "type": "File",
+          "artifact": {
+            "size": 2422,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_witch.png",
+            "MD5": "798e020f95f64cdcf5ae6f05dad9635c",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_witch.png"
+          }
+        },
+        {
+          "id": "zombified_piglin_brute.png",
+          "name": "zombified_piglin_brute.png",
+          "type": "File",
+          "artifact": {
+            "size": 3707,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombified_piglin_brute.png",
+            "MD5": "2d6b57d8f66a7ed2db57f5546936206d",
+            "path": "config/hordes/assets/hordes/textures/entity/zombified_piglin_brute.png"
+          }
+        },
+        {
+          "id": "cure_list.png",
+          "name": "cure_list.png",
+          "type": "File",
+          "artifact": {
+            "size": 913,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/gui/jei/cure_list.png",
+            "MD5": "5bdf4220e60bc13e83be7d59907a5f32",
+            "path": "config/hordes/assets/hordes/textures/gui/jei/cure_list.png"
+          }
+        },
+        {
+          "id": "immunity.png",
+          "name": "immunity.png",
+          "type": "File",
+          "artifact": {
+            "size": 397,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/mob_effect/immunity.png",
+            "MD5": "c4b9b1585b74a8e42990ca58f94207d7",
+            "path": "config/hordes/assets/hordes/textures/mob_effect/immunity.png"
+          }
+        },
+        {
+          "id": "infected.png",
+          "name": "infected.png",
+          "type": "File",
+          "artifact": {
+            "size": 531,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/mob_effect/infected.png",
+            "MD5": "7c66fe80c8672c0e8b214d2ae9dec51c",
+            "path": "config/hordes/assets/hordes/textures/mob_effect/infected.png"
+          }
+        },
+        {
+          "id": "infected.png.mcmeta",
+          "name": "infected.png.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 70,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/assets/hordes/textures/mob_effect/infected.png.mcmeta",
+            "MD5": "585e2c9ed44f6295d0623c55e797e0bf",
+            "path": "config/hordes/assets/hordes/textures/mob_effect/infected.png.mcmeta"
+          }
+        },
+        {
+          "id": "immune_wearables.json",
+          "name": "immune_wearables.json",
+          "type": "File",
+          "artifact": {
+            "size": 3,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/horde_data/immune_wearables.json",
+            "MD5": "2efccddfb1d69128d78404d5bfb7584d",
+            "path": "config/hordes/data/hordes/horde_data/immune_wearables.json"
+          }
+        },
+        {
+          "id": "immunity_items.json",
+          "name": "immunity_items.json",
+          "type": "File",
+          "artifact": {
+            "size": 53,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/horde_data/immunity_items.json",
+            "MD5": "d86a4e6b33bd7d13c3f1e64800c3e2a2",
+            "path": "config/hordes/data/hordes/horde_data/immunity_items.json"
+          }
+        },
+        {
+          "id": "infection_conversions.json",
+          "name": "infection_conversions.json",
+          "type": "File",
+          "artifact": {
+            "size": 2361,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/horde_data/infection_conversions.json",
+            "MD5": "0440aacf5a8e02b4ed343f9d5f0428ef",
+            "path": "config/hordes/data/hordes/horde_data/infection_conversions.json"
+          }
+        },
+        {
+          "id": "default.json",
+          "name": "default.json",
+          "type": "File",
+          "artifact": {
+            "size": 1041,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/horde_data/scripts/default.json",
+            "MD5": "99815978ce5c40d03b1995193d83ad3c",
+            "path": "config/hordes/data/hordes/horde_data/scripts/default.json"
+          }
+        },
+        {
+          "id": "default.json",
+          "name": "default.json",
+          "type": "File",
+          "artifact": {
+            "size": 130,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/horde_data/tables/default.json",
+            "MD5": "40141fb82fdc481bfeb92df0825de440",
+            "path": "config/hordes/data/hordes/horde_data/tables/default.json"
+          }
+        },
+        {
+          "id": "drowned.json",
+          "name": "drowned.json",
+          "type": "File",
+          "artifact": {
+            "size": 96,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/horde_data/tables/drowned.json",
+            "MD5": "2e03984b9294066477a64db9cdb68a2c",
+            "path": "config/hordes/data/hordes/horde_data/tables/drowned.json"
+          }
+        },
+        {
+          "id": "illagers.json",
+          "name": "illagers.json",
+          "type": "File",
+          "artifact": {
+            "size": 808,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/horde_data/tables/illagers.json",
+            "MD5": "17d0422729cff72e8458f3df84316618",
+            "path": "config/hordes/data/hordes/horde_data/tables/illagers.json"
+          }
+        },
+        {
+          "id": "mixed_mobs.json",
+          "name": "mixed_mobs.json",
+          "type": "File",
+          "artifact": {
+            "size": 1277,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/horde_data/tables/mixed_mobs.json",
+            "MD5": "e3f5ce25d4d8c10ebcebcb9e2c192c17",
+            "path": "config/hordes/data/hordes/horde_data/tables/mixed_mobs.json"
+          }
+        },
+        {
+          "id": "skeletons.json",
+          "name": "skeletons.json",
+          "type": "File",
+          "artifact": {
+            "size": 576,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/horde_data/tables/skeletons.json",
+            "MD5": "2cdd23c71c55f656bed307280aba2f22",
+            "path": "config/hordes/data/hordes/horde_data/tables/skeletons.json"
+          }
+        },
+        {
+          "id": "infection_entities.json",
+          "name": "infection_entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 292,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/tags/entity_types/infection_entities.json",
+            "MD5": "a0710dffb1bae8fa72aed75ea6bd917b",
+            "path": "config/hordes/data/hordes/tags/entity_types/infection_entities.json"
+          }
+        },
+        {
+          "id": "infection_cures.json",
+          "name": "infection_cures.json",
+          "type": "File",
+          "artifact": {
+            "size": 110,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/tags/items/infection_cures.json",
+            "MD5": "adbb12bf488f1ac17c9ddbdc8d9ee843",
+            "path": "config/hordes/data/hordes/tags/items/infection_cures.json"
+          }
+        },
+        {
+          "id": "husk_player_spawn_biomes.json",
+          "name": "husk_player_spawn_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 94,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json",
+            "MD5": "16f8f245c781f130561ac51e55dd94f8",
+            "path": "config/hordes/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json"
+          }
+        },
+        {
+          "id": "hordes-info.json",
+          "name": "hordes-info.json",
+          "type": "File",
+          "artifact": {
+            "size": 481,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/hordes-info.json",
+            "MD5": "78d0bd13584e5c47edac0e6ec64c9b49",
+            "path": "config/hordes/hordes-info.json"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 89,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/hordes/pack.mcmeta",
+            "MD5": "8192cbcca5c111da2695cdf4fc8d5875",
+            "path": "config/hordes/pack.mcmeta"
           }
         },
         {
@@ -4033,6 +4449,7 @@
           "artifact": {
             "size": 12612,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/options.txt",
+            "MD5": "38e7daec0f2e108cbbe450af1ebf2ddd",
             "path": "options.txt"
           }
         },
