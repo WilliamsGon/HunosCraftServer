@@ -833,23 +833,23 @@
           }
         },
         {
-          "id": "de.maxhenkel:corpse:1.20.1-1.0.20@jar",
+          "id": "de.maxhenkel:corpse:1.20.1-1.0.23@jar",
           "name": "Corpse",
           "type": "ForgeMod",
           "artifact": {
-            "size": 244994,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.20.jar",
-            "MD5": "143d3e76139de3b9186849f494a41af6"
+            "size": 245644,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.23.jar",
+            "MD5": "a486f676f5e47e5846e31cb66cb5c16d"
           }
         },
         {
-          "id": "com.leclowndu93150:corpsecurioscompat:2.2.2@jar",
+          "id": "com.leclowndu93150:corpsecurioscompat:3.1.2@jar",
           "name": "Corpsecurioscompat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9117,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/required/corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar",
-            "MD5": "82d54c35a60a963f292dc3f3fd3b3af2"
+            "size": 24680,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/required/corpsecurioscompat-1.20.1-Forge-3.1.2.jar",
+            "MD5": "5e0ed6620f6576535e429ffe278442ef"
           }
         },
         {
