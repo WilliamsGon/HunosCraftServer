@@ -30,7 +30,6 @@
         "config/inventoryprofilesnext/**/*.toml",
         "config/inventoryprofilesnext/**/*.log",
         "config/inventoryprofilesnext/**/*.db",
-        "config/entity_texture_features.json",
         "config/oculus.properties",
         "shaderpacks/**/*.txt",
         "options.txt"

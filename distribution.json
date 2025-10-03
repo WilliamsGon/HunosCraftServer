@@ -2526,16 +2526,6 @@
           }
         },
         {
-          "id": "entity_texture_features.json",
-          "name": "entity_texture_features.json",
-          "type": "File",
-          "artifact": {
-            "size": 1484,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/files/config/entity_texture_features.json",
-            "path": "config/entity_texture_features.json"
-          }
-        },
-        {
           "id": "1.png",
           "name": "1.png",
           "type": "File",
