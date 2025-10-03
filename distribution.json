@@ -603,6 +603,16 @@
           }
         },
         {
+          "id": "com.leclowndu93150:baguettelib:1.1.1@jar",
+          "name": "BaguetteLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30312,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/required/baguettelib-1.20.1-Forge-1.1.1.jar",
+            "MD5": "558b2a3c6ed2caa44883e551580c0845"
+          }
+        },
+        {
           "id": "net.blay09.mods:balm:7.3.30@jar",
           "name": "Balm",
           "type": "ForgeMod",
