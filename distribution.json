@@ -1108,11 +1108,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 445642,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/optionalon/entity_model_features_forge_1.20.1-2.4.1.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/optionaloff/entity_model_features_forge_1.20.1-2.4.1.jar",
             "MD5": "d801a1f8c9425012b82619bcdec06666"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1121,11 +1122,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 676887,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/optionalon/entity_texture_features_forge_1.20.1-6.2.9.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/optionaloff/entity_texture_features_forge_1.20.1-6.2.9.jar",
             "MD5": "5364007c2f40cd1bfaf5037d7355ba31"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
