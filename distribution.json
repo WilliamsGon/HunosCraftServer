@@ -953,6 +953,16 @@
           }
         },
         {
+          "id": "customskinloader:customskinloader:14.25@jar",
+          "name": "CustomSkinLoader",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155413,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/ApocalipsisHuno-1.20.1/forgemods/required/CustomSkinLoader_ForgeV2-14.25.jar",
+            "MD5": "02900d80fc89b2f6fb47cbbaeee0c81a"
+          }
+        },
+        {
           "id": "net.mcreator.cwadditions:cw_additions:1.1.6@jar",
           "name": "CW Additions",
           "type": "ForgeMod",
