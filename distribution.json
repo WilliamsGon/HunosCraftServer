@@ -5016,6 +5016,204 @@
           }
         },
         {
+          "id": "create-client.toml",
+          "name": "create-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4397,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/create-client.toml",
+            "MD5": "d276f313790d54d07df0fbb1916f6350",
+            "path": "config/create-client.toml"
+          }
+        },
+        {
+          "id": "create-common.toml",
+          "name": "create-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/create-common.toml",
+            "MD5": "7503e1571dd136604d3a78582d1a6cb0",
+            "path": "config/create-common.toml"
+          }
+        },
+        {
+          "id": "embeddium-fingerprint.json",
+          "name": "embeddium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/embeddium-fingerprint.json",
+            "MD5": "40c06c819409b462c9a021a4f707fe36",
+            "path": "config/embeddium-fingerprint.json"
+          }
+        },
+        {
+          "id": "embeddium-mixins.properties",
+          "name": "embeddium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/embeddium-mixins.properties",
+            "MD5": "a9176524f816153a7967217b53bb75a1",
+            "path": "config/embeddium-mixins.properties"
+          }
+        },
+        {
+          "id": "embeddium-options.json",
+          "name": "embeddium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 852,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/embeddium-options.json",
+            "MD5": "c0a96a9199ece4278654cf6e1fb2584c",
+            "path": "config/embeddium-options.json"
+          }
+        },
+        {
+          "id": "flywheel-client.toml",
+          "name": "flywheel-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 623,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/flywheel-client.toml",
+            "MD5": "969c76ee0b091b9bfecb378609e02466",
+            "path": "config/flywheel-client.toml"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1148,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/fml.toml",
+            "MD5": "c12cf21cfc5d310aafcb72cd6d9b4ece",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "forge-client.toml",
+          "name": "forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1628,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/forge-client.toml",
+            "MD5": "94d0dcbf248b1ee18bf1266c672327a1",
+            "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/oculus.properties",
+            "MD5": "e208c7997c7fefd3300a97e3259e83dd",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "ponder-client.toml",
+          "name": "ponder-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 619,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/ponder-client.toml",
+            "MD5": "e923797057f201aaabb470187e768971",
+            "path": "config/ponder-client.toml"
+          }
+        },
+        {
+          "id": "waystones-common.toml",
+          "name": "waystones-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6956,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/waystones-common.toml",
+            "MD5": "f63942330c8c403974a68d64defaaa15",
+            "path": "config/waystones-common.toml"
+          }
+        },
+        {
+          "id": "xaerominimap-common.txt",
+          "name": "xaerominimap-common.txt",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/xaerominimap-common.txt",
+            "MD5": "c4bb2d96ebd8182b307ef6b2fda27370",
+            "path": "config/xaerominimap-common.txt"
+          }
+        },
+        {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3640,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/xaerominimap.txt",
+            "MD5": "34daf6ed281f10d3aa9d1f916c51d7dc",
+            "path": "config/xaerominimap.txt"
+          }
+        },
+        {
+          "id": "xaerominimap_entities.json",
+          "name": "xaerominimap_entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 5531,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/xaerominimap_entities.json",
+            "MD5": "e1aaf4f12067cc0b3dd9b1404a9abeef",
+            "path": "config/xaerominimap_entities.json"
+          }
+        },
+        {
+          "id": "xaeropatreon.txt",
+          "name": "xaeropatreon.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/xaeropatreon.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/xaeropatreon.txt"
+          }
+        },
+        {
+          "id": "xaeroworldmap-common.txt",
+          "name": "xaeroworldmap-common.txt",
+          "type": "File",
+          "artifact": {
+            "size": 120,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/xaeroworldmap-common.txt",
+            "MD5": "5a2200d083554257d61384f2c486162b",
+            "path": "config/xaeroworldmap-common.txt"
+          }
+        },
+        {
+          "id": "xaeroworldmap.txt",
+          "name": "xaeroworldmap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1218,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/xaeroworldmap.txt",
+            "MD5": "61668053aa4dc58507cde11ed376502c",
+            "path": "config/xaeroworldmap.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5283,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/options.txt",
+            "MD5": "53087737fa61c8b9f470aaa950922945",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.4.zip",
           "name": "ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.4.zip",
           "type": "File",
@@ -5035,6 +5233,149 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1%20+%20EuphoriaPatches_1.6.4.zip",
             "MD5": "c923e20a52b469af94de2b8a56cc4e7b",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.4.zip"
+          }
+        },
+        {
+          "id": "config.txt",
+          "name": "config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 343,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/minimap/Multiplayer_play.ikmev.net/config.txt",
+            "MD5": "6ee7a4ee50553220edbda026f7b87270",
+            "path": "xaero/minimap/Multiplayer_play.ikmev.net/config.txt"
+          }
+        },
+        {
+          "id": "dimension_config.txt",
+          "name": "dimension_config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 53,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/dimension_config.txt",
+            "MD5": "19d8aa5da66f2d4091686ee09952062d",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/dimension_config.txt"
+          }
+        },
+        {
+          "id": "-1_-1.zip",
+          "name": "-1_-1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 802,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/-1_-1.zip",
+            "MD5": "6aca3db3588a65412350a69f91dc8b1b",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/-1_-1.zip"
+          }
+        },
+        {
+          "id": "-1_0.zip",
+          "name": "-1_0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 743,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/-1_0.zip",
+            "MD5": "62c4ba8bca4ed3d848b74e26063094f0",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/-1_0.zip"
+          }
+        },
+        {
+          "id": ".lock",
+          "name": ".lock",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/.lock",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/.lock"
+          }
+        },
+        {
+          "id": "0_-1.zip",
+          "name": "0_-1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 752,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/0_-1.zip",
+            "MD5": "64e4db4291478193960028bbb95dd00a",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/0_-1.zip"
+          }
+        },
+        {
+          "id": "0_0.zip",
+          "name": "0_0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 684,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/0_0.zip",
+            "MD5": "fa7687c1b180cc3566d4bda86da508e9",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/0_0.zip"
+          }
+        },
+        {
+          "id": "-1_-1.xwmc.outdated",
+          "name": "-1_-1.xwmc.outdated",
+          "type": "File",
+          "artifact": {
+            "size": 1356,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/cache_1/-1_-1.xwmc.outdated",
+            "MD5": "55896c7ca4bb2b185aaab719d3163d7e",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/cache_1/-1_-1.xwmc.outdated"
+          }
+        },
+        {
+          "id": "-1_0.xwmc.outdated",
+          "name": "-1_0.xwmc.outdated",
+          "type": "File",
+          "artifact": {
+            "size": 1315,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/cache_1/-1_0.xwmc.outdated",
+            "MD5": "0338f7c84ee70bd7bf3a1bbeedb8340b",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/cache_1/-1_0.xwmc.outdated"
+          }
+        },
+        {
+          "id": "0_-1.xwmc.outdated",
+          "name": "0_-1.xwmc.outdated",
+          "type": "File",
+          "artifact": {
+            "size": 1269,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/cache_1/0_-1.xwmc.outdated",
+            "MD5": "810afe88898a0d23ab83bd52b6be45d2",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/cache_1/0_-1.xwmc.outdated"
+          }
+        },
+        {
+          "id": "0_0.xwmc.outdated",
+          "name": "0_0.xwmc.outdated",
+          "type": "File",
+          "artifact": {
+            "size": 1243,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/cache_1/0_0.xwmc.outdated",
+            "MD5": "55f56141cfc364ecdc4f24c7b8320c55",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$-1639501598/cache_1/0_0.xwmc.outdated"
+          }
+        },
+        {
+          "id": "server_config.txt",
+          "name": "server_config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/server_config.txt",
+            "MD5": "ea7f742542d610226d19fbc9fa06c4f2",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/server_config.txt"
+          }
+        },
+        {
+          "id": "config.txt",
+          "name": "config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 343,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/XaeroWaypoints_BACKUP240807/Multiplayer_play.ikmev.net/config.txt",
+            "MD5": "6ee7a4ee50553220edbda026f7b87270",
+            "path": "XaeroWaypoints_BACKUP240807/Multiplayer_play.ikmev.net/config.txt"
           }
         }
       ]
