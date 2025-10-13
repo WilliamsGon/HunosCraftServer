@@ -5014,6 +5014,28 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/forgemods/required/XaerosWorldMap_1.39.12_Forge_1.20.jar",
             "MD5": "002d9a661be7e982db177d7b0fc8d49e"
           }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.4.zip",
+          "name": "ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1274890,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.5.1%20+%20EuphoriaPatches_1.6.4.zip",
+            "MD5": "af7a6a1d54310591a53515d0352ee8f7",
+            "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.4.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.4.zip",
+          "name": "ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1271941,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1%20+%20EuphoriaPatches_1.6.4.zip",
+            "MD5": "c923e20a52b469af94de2b8a56cc4e7b",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.4.zip"
+          }
         }
       ]
     }
