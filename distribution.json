@@ -5108,9 +5108,8 @@
           "name": "oculus.properties",
           "type": "File",
           "artifact": {
-            "size": 255,
+            "size": 313,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/oculus.properties",
-            "MD5": "e208c7997c7fefd3300a97e3259e83dd",
             "path": "config/oculus.properties"
           }
         },
@@ -5165,7 +5164,7 @@
           "artifact": {
             "size": 5531,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/xaerominimap_entities.json",
-            "MD5": "e1aaf4f12067cc0b3dd9b1404a9abeef",
+            "MD5": "6aa0c1720795d59a3cd21e3becba9685",
             "path": "config/xaerominimap_entities.json"
           }
         },
@@ -5209,7 +5208,6 @@
           "artifact": {
             "size": 5283,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/options.txt",
-            "MD5": "53087737fa61c8b9f470aaa950922945",
             "path": "options.txt"
           }
         },
