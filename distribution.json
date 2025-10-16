@@ -4996,6 +4996,16 @@
           }
         },
         {
+          "id": "su.plo.voice:plasmovoice:2.1.6@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12186715,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.6.jar",
+            "MD5": "dd0f7b80dacbeaf408c227b0d17bb305"
+          }
+        },
+        {
           "id": "net.blay09.mods:waystones:14.1.17@jar",
           "name": "Waystones",
           "type": "ForgeMod",
