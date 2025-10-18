@@ -4986,6 +4986,16 @@
           }
         },
         {
+          "id": "com.supermartijn642:fusion:1.2.11+a@jar",
+          "name": "Fusion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 544250,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/forgemods/required/fusion-1.2.11a-forge-mc1.20.1.jar",
+            "MD5": "709b729df7478057bc30c15a6091b274"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
