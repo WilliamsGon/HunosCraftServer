@@ -5006,6 +5006,16 @@
           }
         },
         {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.9.0@jar",
+          "name": "3d-Skin-Layers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 880065,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/forgemods/required/skinlayers3d-forge-1.9.0-mc1.20.1.jar",
+            "MD5": "71f3b240238f53743e609397637e50d5"
+          }
+        },
+        {
           "id": "net.blay09.mods:waystones:14.1.17@jar",
           "name": "Waystones",
           "type": "ForgeMod",
@@ -5131,6 +5141,39 @@
             "size": 313,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/oculus.properties",
             "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "advanced_options.json",
+          "name": "advanced_options.json",
+          "type": "File",
+          "artifact": {
+            "size": 177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/openloader/advanced_options.json",
+            "MD5": "01c2e94c2404666f120a9568bec49673",
+            "path": "config/openloader/advanced_options.json"
+          }
+        },
+        {
+          "id": "Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip",
+          "name": "Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip",
+          "type": "File",
+          "artifact": {
+            "size": 36152,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/openloader/resources/Fusion%20Block%20Transitions%20v1.0.3%20for%20Minecraft%201.20-1.21.8.zip",
+            "MD5": "e82c70b0f3517b256fb6decf2e609e30",
+            "path": "config/openloader/resources/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip"
+          }
+        },
+        {
+          "id": "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+          "name": "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+          "type": "File",
+          "artifact": {
+            "size": 191578,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/files/config/openloader/resources/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip",
+            "MD5": "5182efbf1b9301715532c7e4aabe19bd",
+            "path": "config/openloader/resources/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"
           }
         },
         {
