@@ -483,6 +483,16 @@
           }
         },
         {
+          "id": "net.darkhax:openloader:19.0.4@jar",
+          "name": "OpenLoader",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23938,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosConstruction-1.20.1/forgemods/required/OpenLoader-Forge-1.20.1-19.0.4.jar",
+            "MD5": "e1115843c44e491f45e0b6890c5776cb"
+          }
+        },
+        {
           "id": "su.plo.voice:plasmovoice:2.1.6@jar",
           "name": "Plasmo Voice",
           "type": "ForgeMod",
