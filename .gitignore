@@ -1,8 +1,0 @@
-# Archivos grandes de mods
-*.jar
-
-# Directorios de mods
-servers/*/forgemods/
-
-# Cache y archivos temporales
-cache/

@@ -952,7 +952,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.neoforged:neoforge:21.1.206:universal",
