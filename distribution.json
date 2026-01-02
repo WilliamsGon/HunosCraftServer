@@ -3146,16 +3146,6 @@
           }
         },
         {
-          "id": "generated.forgemod:cataclysm:3.16@jar",
-          "name": "L_Ender's Cataclysm 1.21.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 138071302,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosCraftMagic-1.21.1/forgemods/required/L_Ender's%20Cataclysm%201.21.1-3.16.jar",
-            "MD5": "31788688da99e9efe5fecd4688c946ca"
-          }
-        },
-        {
           "id": "generated.forgemod:libipn:6.6.0@jar",
           "name": "LibIPN",
           "type": "ForgeMod",
