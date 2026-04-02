@@ -1298,8 +1298,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1159323,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/punchy-2.4.4-HOTFIX-forge-1.20.1.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/optionalon/punchy-2.4.4-HOTFIX-forge-1.20.1.jar",
             "MD5": "80f010afc0e5b138ea94e25b8acc1dab"
+          },
+          "required": {
+            "value": false
           }
         },
         {
