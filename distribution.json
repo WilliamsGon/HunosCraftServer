@@ -633,6 +633,16 @@
           }
         },
         {
+          "id": "lain.mods.cos.init:cosmeticarmorreworked:1.20.1-v1a@jar",
+          "name": "CosmeticArmorReworked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 88752,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
+            "MD5": "2454075e9a25cbadc0fce66502e3261d"
+          }
+        },
+        {
           "id": "com.hypherionmc:craterlib:3.1.0@jar",
           "name": "CraterLib",
           "type": "ForgeMod",
@@ -1253,6 +1263,16 @@
           }
         },
         {
+          "id": "su.plo.voice:plasmovoice:2.1.8@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12182458,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.8.jar",
+            "MD5": "234d1a76ae25f5efc220ac879981c7e0"
+          }
+        },
+        {
           "id": "team.creative:playerrevive:2.0.31@jar",
           "name": "PlayerRevive",
           "type": "ForgeMod",
@@ -1530,6 +1550,16 @@
             "size": 20034506,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/unusualend-2.3.0-forge-1.20.1.jar",
             "MD5": "8732b07c408a9f8aa03e4e2955cf9b32"
+          }
+        },
+        {
+          "id": "com.jahirtrap:walljump:1.20.1-1.3.5-forge@jar",
+          "name": "Wall-Jump TXF",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 161934,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/walljump-1.20.1-1.3.5-forge.jar",
+            "MD5": "ac6b2bd998795c39461200d8c7bf16e3"
           }
         },
         {
