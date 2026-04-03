@@ -4347,9 +4347,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 13713,
+            "size": 13733,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/options.txt",
-            "MD5": "5ed6254ea421e5ecdce09089a8645289",
+            "MD5": "a5d2871ab4303be830d96df0728f3b98",
             "path": "options.txt"
           }
         },
@@ -4362,17 +4362,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Armored%20Legacy%20v1.4.1.zip",
             "MD5": "7608d8ced581572f074db25885d47f85",
             "path": "resourcepacks/Armored Legacy v1.4.1.zip"
-          }
-        },
-        {
-          "id": "Assorted Allays x FA - V.10.2.zip",
-          "name": "Assorted Allays x FA - V.10.2.zip",
-          "type": "File",
-          "artifact": {
-            "size": 952116,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Assorted%20Allays%20x%20FA%20-%20V.10.2.zip",
-            "MD5": "b142146f3cf7785aab690a3786018b89",
-            "path": "resourcepacks/Assorted Allays x FA - V.10.2.zip"
           }
         },
         {
@@ -4409,50 +4398,6 @@
           }
         },
         {
-          "id": "Enchantment Glows 1.9 1.20.x.zip",
-          "name": "Enchantment Glows 1.9 1.20.x.zip",
-          "type": "File",
-          "artifact": {
-            "size": 288771,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Enchantment%20Glows%201.9%201.20.x.zip",
-            "MD5": "ccbc763745159444cd117be4f60b3873",
-            "path": "resourcepacks/Enchantment Glows 1.9 1.20.x.zip"
-          }
-        },
-        {
-          "id": "FreshAnimations_v1.10.4.zip",
-          "name": "FreshAnimations_v1.10.4.zip",
-          "type": "File",
-          "artifact": {
-            "size": 850941,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/FreshAnimations_v1.10.4.zip",
-            "MD5": "ab0e8cc3444e98f0fd51ac0d84533d52",
-            "path": "resourcepacks/FreshAnimations_v1.10.4.zip"
-          }
-        },
-        {
-          "id": "HyperPunchy-v2.4+.zip",
-          "name": "HyperPunchy-v2.4+.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1446898,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/HyperPunchy-v2.4+.zip",
-            "MD5": "18262be970a22463b2ef52fa0a3c107b",
-            "path": "resourcepacks/HyperPunchy-v2.4+.zip"
-          }
-        },
-        {
-          "id": "Icon Fresh 1.3.zip",
-          "name": "Icon Fresh 1.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 852235,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Icon%20Fresh%201.3.zip",
-            "MD5": "409625225a91347de13b22f939b126ae",
-            "path": "resourcepacks/Icon Fresh 1.3.zip"
-          }
-        },
-        {
           "id": "Icon Xaero's 1.22.zip",
           "name": "Icon Xaero's 1.22.zip",
           "type": "File",
@@ -4461,28 +4406,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Icon%20Xaero's%201.22.zip",
             "MD5": "808213dd6a4cd8d904c37e56f94036a7",
             "path": "resourcepacks/Icon Xaero's 1.22.zip"
-          }
-        },
-        {
-          "id": "Modded Swords x Punchy! 1.2.6.zip",
-          "name": "Modded Swords x Punchy! 1.2.6.zip",
-          "type": "File",
-          "artifact": {
-            "size": 204688,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Modded%20Swords%20x%20Punchy!%201.2.6.zip",
-            "MD5": "47cf482f5b8d2787a0928be9a6cefdc6",
-            "path": "resourcepacks/Modded Swords x Punchy! 1.2.6.zip"
-          }
-        },
-        {
-          "id": "Quark Programmer Art.zip",
-          "name": "Quark Programmer Art.zip",
-          "type": "File",
-          "artifact": {
-            "size": 266434,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Quark%20Programmer%20Art.zip",
-            "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
-            "path": "resourcepacks/Quark Programmer Art.zip"
           }
         },
         {

@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","netherexp:jne_emissive","netherexp:jne_retextures","file/CreateSophBackpacks.zip","file/Create+Simple+Storage+2.1.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip","file/Icon Xaero\u0027s 1.22.zip","file/Icon Fresh 1.3.zip","file/Quark Programmer Art.zip","file/Armored Legacy v1.4.1.zip"]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","netherexp:jne_emissive","netherexp:jne_retextures","file/CreateSophBackpacks.zip","file/Create+Simple+Storage+2.1.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip","file/Icon Xaero\u0027s 1.22.zip","file/Quark Programmer Art.zip","file/Armored Legacy v1.4.1.zip","file/DetailedAnimationsReworked - V1.15.zip"]
 incompatibleResourcePacks:["file/CreateSophBackpacks.zip","file/Create+Simple+Storage+2.1.zip","file/Icon Xaero\u0027s 1.22.zip","file/Icon Fresh 1.3.zip","file/Quark Programmer Art.zip"]
 lastServer:
 lang:es_es
