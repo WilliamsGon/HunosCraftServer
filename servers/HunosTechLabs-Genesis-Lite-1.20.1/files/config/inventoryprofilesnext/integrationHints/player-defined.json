@@ -1,0 +1,50 @@
+{
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 12
+            },
+            "SORT": {
+                "bottom": 12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 12
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 12
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 41,
+                "top": -9
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -24
+            }
+        }
+    },
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 12
+            },
+            "SORT": {
+                "bottom": 12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 12
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 12
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 41,
+                "top": -9
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -24
+            }
+        }
+    }
+}

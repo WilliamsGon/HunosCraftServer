@@ -2499,6 +2499,2198 @@
           }
         }
       ]
+    },
+    {
+      "id": "HunosTechLabs-Genesis-Lite-1.20.1",
+      "name": "HunosTechLabs-Genesis-Lite (Minecraft 1.20.1)",
+      "description": "HunosTechLabs-Genesis-Lite Running Minecraft 1.20.1 (Forge v47.4.13)",
+      "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech3.png?raw=true",
+      "version": "1.0.0",
+      "address": "play.ikmev.net:25565",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.13",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 7394,
+            "MD5": "1802fa5a2d337d6660438e353b3b50cd",
+            "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.13/lowcodelanguage-1.20.1-47.4.13.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-47.4.13",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 16554,
+                "MD5": "1a3573e11d61bfb2a22ea146bf8b0a60",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/versions/1.20.1-forge-47.4.13/1.20.1-forge-47.4.13.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.13",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 118909,
+                "MD5": "dc8fe299b39fe48ecb085b21da31db6c",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.13/fmlcore-1.20.1-47.4.13.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.13",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16850,
+                "MD5": "8d35cf4f3bf9704c64babb6472336ffd",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.13/javafmllanguage-1.20.1-47.4.13.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.13",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 4993,
+                "MD5": "b3fbe1f92e7bb2e249e5a71b87f74a35",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.13/mclanguage-1.20.1-47.4.13.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.4.13:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2506787,
+                "MD5": "dd06b245ea75208c848680660b0b7c21",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/forge/1.20.1-47.4.13/forge-1.20.1-47.4.13-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.4.13:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 4848366,
+                "MD5": "5c4d8867f3152f9c397859436a06321c",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/forge/1.20.1-47.4.13/forge-1.20.1-47.4.13-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12592249,
+                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.10",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 88749,
+                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.8",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.8",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.8",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.8",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.8",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.0.5",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.0.1",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 29831,
+                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.2.4",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 31872,
+                "MD5": "5295505357ba9b98450c5e3121f82191",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.9",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 130343,
+                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "Minecraft Forge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.4",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167292,
+                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "MD5": "48f5255aa337344c467c0150d347813d",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.13",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 269262,
+                "MD5": "96bc3cf7132fe5903457662754c14bec",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.13/fmlloader-1.20.1-47.4.13.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.13",
+              "name": "Minecraft Forge (fmlearlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 170512,
+                "MD5": "22318c2b6fb4319b59554c8965b0cbc9",
+                "url": "https://williamsgon.github.io/HunosCraftServer/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.13/fmlearlydisplay-1.20.1-47.4.13.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.mehvahdjukaar:amendments:1.20-2.2.5@jar",
+          "name": "Amendments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1301022,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/amendments-1.20-2.2.5.jar",
+            "MD5": "3e821a83a3a12bc9ca0fecb73a980dba"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
+          "id": "artifacts:artifacts:9.5.16@jar",
+          "name": "Artifacts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 850457,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/artifacts-forge-9.5.16.jar",
+            "MD5": "85081468e7498005f5dfdab2ae520097"
+          }
+        },
+        {
+          "id": "earth.terrarium:athena:3.1.2@jar",
+          "name": "Athena",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91808,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:7.3.38@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 591397,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.38-all.jar",
+            "MD5": "499467bc8050be8893b08995438cc026"
+          }
+        },
+        {
+          "id": "biomesoplenty.core:biomesoplenty:18.0.0.592@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21800460,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
+          }
+        },
+        {
+          "id": "com.teamabnormals.blueprint.core:blueprint:7.1.3@jar",
+          "name": "Blueprint",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1151213,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/blueprint-1.20.1-7.1.3.jar",
+            "MD5": "de8703f1bd1de5c64ebd411e37b19d47"
+          }
+        },
+        {
+          "id": "de.maxhenkel:camera:1.20.1-1.0.20@jar",
+          "name": "Camera Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299726,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
+            "MD5": "7f707898d1ed0753a5a5043cbdf806a8"
+          }
+        },
+        {
+          "id": "tschipp.carryon:carryon:2.1.2.7@jar",
+          "name": "Carry On",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439457,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
+          }
+        },
+        {
+          "id": "earth.terrarium:chipped:3.0.7@jar",
+          "name": "Chipped",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15060263,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
+            "MD5": "c6c76e78805b357757bf47b04c7286e7"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1181413,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:comforts:6.4.0+1.20.1@jar",
+          "name": "Comforts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 382083,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/comforts-forge-6.4.0+1.20.1.jar",
+            "MD5": "a88fcc168de1a0f9b2ae4e7cbe8a8408"
+          }
+        },
+        {
+          "id": "com.connectivity:connectivity:1.20.1-7.6@jar",
+          "name": "Connectivity Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 120598,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/connectivity-1.20.1-7.6.jar",
+            "MD5": "59797700faa0a7b32e0db84b333805a3"
+          }
+        },
+        {
+          "id": "com.github.smallinger:copperagebackport:0.1.4@jar",
+          "name": "Copper-Age-Backport",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2818863,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/copperagebackport-forge-1.20.1-0.1.4.jar",
+            "MD5": "2308c6fd377c29c204e720dd24186c69"
+          }
+        },
+        {
+          "id": "com.copycatsplus:copycats:3.0.7+mc.1.20.1-forge@jar",
+          "name": "Create: Copycats+",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1996097,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/copycats-3.0.7+mc.1.20.1-forge.jar",
+            "MD5": "47e13c8058d400e4a6316d00f451b29c"
+          }
+        },
+        {
+          "id": "lain.mods.cos.init:cosmeticarmorreworked:1.20.1-v1a@jar",
+          "name": "CosmeticArmorReworked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 88752,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
+            "MD5": "2454075e9a25cbadc0fce66502e3261d"
+          }
+        },
+        {
+          "id": "com.hypherionmc:craterlib:3.1.0@jar",
+          "name": "CraterLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1353699,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/CraterLib-Forge-1.20-3.1.0.jar",
+            "MD5": "7768d0870873092ca53535a66f88e042"
+          }
+        },
+        {
+          "id": "net.mcreator.createeasystructures:create_easy_structures:0.2@jar",
+          "name": "Create: Easy Structures",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 473508,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/create_easy_structures-0.2-forge-1.20.1.jar",
+            "MD5": "a864c2e36440e824d045c4f514ab4cc2"
+          }
+        },
+        {
+          "id": "createpillagersarise:create_pillagers_arise:132.32@jar",
+          "name": "Create: Pillagers Arise",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2406320,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/create_pillagers_arise-132.32%20Release-forge-1.20.1.jar",
+            "MD5": "1236f03c69dc00a9076b3f875840b6ab"
+          }
+        },
+        {
+          "id": "createskyvillage:create_sky_village:0.0.36@jar",
+          "name": "Create: Sky Village",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2229816,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/create_sky_village-0.0.36%20Hotfix-forge-1.20.1.jar",
+            "MD5": "cc5bcb7828deabe667faf8947bf9735c"
+          }
+        },
+        {
+          "id": "createstructuresarise:create_structures_arise:174.47.46@jar",
+          "name": "Create: Structures Arise",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1712896,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/create_structures_arise-174.47.46%20Release-forge-1.20.1.jar",
+            "MD5": "433917b5e6a0875d8bb074f65fccfb34"
+          }
+        },
+        {
+          "id": "com.simibubi:create:6.0.8@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19170905,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
+            "MD5": "6ebc5c57638c1678359eac65b924c310"
+          }
+        },
+        {
+          "id": "com.github.talrey:createdeco:2.0.3-1.20.1-forge@jar",
+          "name": "Create Deco",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3509013,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/createdeco-2.0.3-1.20.1-forge.jar",
+            "MD5": "3e0976b862fd087493c7356f623f5cd7"
+          }
+        },
+        {
+          "id": "team.creative:creativecore:2.12.35@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1143788,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+            "MD5": "a58f958ab8b789af3c6b3a9d93ca415d"
+          }
+        },
+        {
+          "id": "net.cristellib:cristellib:1.1.6@jar",
+          "name": "Cristel Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 431318,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/cristellib-1.1.6-forge.jar",
+            "MD5": "b52e8b225a34abab9300049c85f6855a"
+          }
+        },
+        {
+          "id": "com.cupboard:cupboard:1.20.1-3.5@jar",
+          "name": "Cupboard utilities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29505,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/cupboard-1.20.1-3.5.jar",
+            "MD5": "dd9374715d8879fab601e7c07c807811"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          }
+        },
+        {
+          "id": "lilypuree.decorative_blocks:decorative_blocks:4.1.3@jar",
+          "name": "Decorative Blocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 573928,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/decorative_blocks-forge-1.20.1-4.1.3.jar",
+            "MD5": "3ccc7e414c9de806448d94eef399cfd7"
+          }
+        },
+        {
+          "id": "de.keksuccino:drippyloadingscreen:3.1.0@jar",
+          "name": "Drippy Loading Screen",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 285003,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar",
+            "MD5": "029b16e576071b67f3de0df7215a1062"
+          }
+        },
+        {
+          "id": "xyz.vsngamer:elevatorid:1.20.1-1.9.1-forge@jar",
+          "name": "Elevator Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 187868,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/elevatorid-1.20.1-1.9.1-forge.jar",
+            "MD5": "b4784b8ae695f179d0aefaaa82018968"
+          }
+        },
+        {
+          "id": "net.jadenxgamer:elysium_api:1.1.3@jar",
+          "name": "Elysium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107624,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/ElysiumAPI-1.20.1-1.1.3.jar",
+            "MD5": "46292349f608fb76350b0c0f20ff6687"
+          }
+        },
+        {
+          "id": "com.hrznstudio:emojiful:4.2.0@jar",
+          "name": "Emojiful",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 262412,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/Emojiful-Forge-1.20.1-4.2.0.jar",
+            "MD5": "0ba360de4747e64c6325b74c0055479a"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.10.0@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1577833,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/entityculling-forge-1.10.0-mc1.20.1.jar",
+            "MD5": "ccac3c3197dda5d4ac4ccdb3d0af312e"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:3.8.1@jar",
+          "name": "FancyMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4472193,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/fancymenu_forge_3.8.1_MC_1.20.1.jar",
+            "MD5": "bf41a4251d431d92b89b6c91f84d5546"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.11@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2963127,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.11.jar",
+            "MD5": "50a4531d1ec39a9d314d48ac79f15271"
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123034,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "MD5": "f52f538207a4829d7060550092ce2383"
+          }
+        },
+        {
+          "id": "io.github.leonard1504:fetzisasiandeco:1.7.3@jar",
+          "name": "Fetzi's Asian Decoration",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17601375,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/fetzisasiandeco-forge-1.7.3-1.20.1.jar",
+            "MD5": "19ed15059d778533d21cf9a36168f0e2"
+          }
+        },
+        {
+          "id": "xfacthd.framedblocks:framedblocks:9.4.3@jar",
+          "name": "FramedBlocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4251314,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/FramedBlocks-9.4.3.jar",
+            "MD5": "9afefc077f00c192b0f953c2987c5a66"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbchunks:2001.3.6@jar",
+          "name": "FTB Chunks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1158842,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/ftb-chunks-forge-2001.3.6.jar",
+            "MD5": "64af750c0cbcadd4b27fb58236654814"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:2001.2.12@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 780523,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/ftb-library-forge-2001.2.12.jar",
+            "MD5": "8bbd067159587d80f1c5286ea52e567b"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbquests:2001.4.18@jar",
+          "name": "FTB Quests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1251902,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/ftb-quests-forge-2001.4.18.jar",
+            "MD5": "f11b0003c47151a1d131dddf35a4530f"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:2001.3.2@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 252579,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/ftb-teams-forge-2001.3.2.jar",
+            "MD5": "1c547d6f1b22f461f84c5fb79067b0ec"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbxmodcompat:2.1.3@jar",
+          "name": "FTB XMod Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129725,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.3.jar",
+            "MD5": "6d01bd4bc73c6ce36d0d91c56bb27772"
+          }
+        },
+        {
+          "id": "com.py:hunoscraftmod:1.0.3@jar",
+          "name": "HunosCraft Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 86186,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/hunoscraftmod-1.0.3.jar",
+            "MD5": "5c04b7b8fed126ef52e48094a017c095"
+          }
+        },
+        {
+          "id": "illagerwarship:illagerwarship:1.0.1@jar",
+          "name": "Illager-Warship",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 70657,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/illagerwarship-1.0.1-forge-1.20.1.jar",
+            "MD5": "fb212ccc8cf27a47c5a27ad30ef814f7"
+          }
+        },
+        {
+          "id": "com.buuz135.industrial:industrialforegoing:3.5.21@jar",
+          "name": "Industrial Foregoing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4528795,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/industrial-foregoing-1.20.1-3.5.21.jar",
+            "MD5": "b0554b359d319bfd55cf20f276c63e59"
+          }
+        },
+        {
+          "id": "com.buuz135:industrialforegoingsouls:1.20.1-1.0.7@jar",
+          "name": "Industrial Foregoing Souls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129510,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/industrial-foregoing-souls-1.20.1-1.0.7.jar",
+            "MD5": "cd785db9881966d50892d3acea3a5c74"
+          }
+        },
+        {
+          "id": "com.craisinlord:integrated_api:1.7.2+1.20.1-forge@jar",
+          "name": "Integrated API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 712753,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/integrated_api-1.7.2+1.20.1-forge.jar",
+            "MD5": "97612e0c6935e70bc3c2d6471cdb923a"
+          }
+        },
+        {
+          "id": "dev.latvian.mods:itemfilters:2001.1.0-build.59@jar",
+          "name": "Item Filters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 110191,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/item-filters-forge-2001.1.0-build.59.jar",
+            "MD5": "4155fd7faf7daf46f9dcb914e93893e1"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.13.2+forge@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 552486,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.2.jar",
+            "MD5": "7c349670f77fd64b9e9854c4a8d82fcc"
+          }
+        },
+        {
+          "id": "net.jadenxgamer:netherexp:2.3.5@jar",
+          "name": "Jaden's Nether Expansion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23488061,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/Jadens-Nether-Expansion-2.3.5.jar",
+            "MD5": "40786442d010e05f4f0e8b2c06d106f4"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.112@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1385600,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.112.jar",
+            "MD5": "c899d5b549ace1e9fa46700c778c3809"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "com.github.l_ender:cataclysm:3.26@jar",
+          "name": "Cataclysm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73913031,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/L_Enders_Cataclysm-3.26-laserfix.jar",
+            "MD5": "52dec8aeaa7b97bc6b9925e77a19c1cb"
+          }
+        },
+        {
+          "id": "com.jtorleonstudios:libraryferret:4.0.0@jar",
+          "name": "Library ferret",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 190536,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/libraryferret-forge-1.20.1-4.0.0.jar",
+            "MD5": "68ba05aaf09f053934537af691e959df"
+          }
+        },
+        {
+          "id": "com.github.l_ender:lionfishapi:2.4-Fix@jar",
+          "name": "LionfishAPI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 162767,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/lionfishapi-2.4-Fix.jar",
+            "MD5": "81efd7c198c3c7036c77c79cae764ed4"
+          }
+        },
+        {
+          "id": "noobanidus.mods:lootr:0.7.35.94@jar",
+          "name": "Lootr",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 463485,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.94.jar",
+            "MD5": "56dd6966de4ba641cf00ef5b9ce8d2d7"
+          }
+        },
+        {
+          "id": "mekanism:mekanism:10.4.16@jar",
+          "name": "Mekanism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12558456,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.16.80.jar",
+            "MD5": "3791fb5cf1e8b6f583d3a00d5115d1ee"
+          }
+        },
+        {
+          "id": "mekanism.additions:mekanismadditions:10.4.16@jar",
+          "name": "Mekanism: Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1136805,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/MekanismAdditions-1.20.1-10.4.16.80.jar",
+            "MD5": "af32e56e97b39d670c9b6cd0bbced4b7"
+          }
+        },
+        {
+          "id": "mekanism.generators:mekanismgenerators:10.4.16@jar",
+          "name": "Mekanism: Generators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1054586,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/MekanismGenerators-1.20.1-10.4.16.80.jar",
+            "MD5": "5ecedb27379b4543b28c0860f9c2fbf4"
+          }
+        },
+        {
+          "id": "mekanism.tools:mekanismtools:10.4.16@jar",
+          "name": "Mekanism: Tools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517999,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/MekanismTools-1.20.1-10.4.16.80.jar",
+            "MD5": "5fbc84c81cff26ba2d49c8ac7647f9e4"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.2@jar",
+          "name": "Melody",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37178,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "MD5": "6b528d368f7fcbf737df28f2457cdec6"
+          }
+        },
+        {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.26.2+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 826829,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/modernfix-forge-5.26.2+mc1.20.1.jar",
+            "MD5": "61332114c9c317080faaf35f8183d67b"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.16.28@jar",
+          "name": "Moonlight Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1393921,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/moonlight-1.20-2.16.28-forge.jar",
+            "MD5": "16b9f89e07b2c567c610881f784cf6d1"
+          }
+        },
+        {
+          "id": "vazkii.patchouli:patchouli:1.20.1-85-FORGE@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 642732,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/Patchouli-1.20.1-85-FORGE.jar",
+            "MD5": "78bd223d069fa9491e940d99a8f426b3"
+          }
+        },
+        {
+          "id": "net.lyof:phantasm:1.1.1@jar",
+          "name": "End's Phantasm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6766364,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/phantasm-1.1.1.jar",
+            "MD5": "f461bee2e185439b6965344926d671c3"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.8@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12182458,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/plasmovoice-forge-1.20.1-2.1.8.jar",
+            "MD5": "234d1a76ae25f5efc220ac879981c7e0"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "team.creative:playerrevive:2.0.31@jar",
+          "name": "PlayerRevive",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5298162,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+            "MD5": "e07fc42680a0163c99c21cfa9afb9816"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:polymorph:0.49.10+1.20.1@jar",
+          "name": "Polymorph",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299601,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/polymorph-forge-0.49.10+1.20.1.jar",
+            "MD5": "8e93675b33a89243d27f272f84e88338"
+          }
+        },
+        {
+          "id": "org.violetmoon.quark.base:quark:4.0-462@jar",
+          "name": "Quark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14935230,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/Quark-4.0-462.jar",
+            "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
+          }
+        },
+        {
+          "id": "generated.forgemod:quarkoddities:1.20.1@jar",
+          "name": "Quark Oddities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 915,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/QuarkOddities-1.20.1.jar",
+            "MD5": "56caee76c84842bb569a25123f8767ca"
+          }
+        },
+        {
+          "id": "com.delta:redeco:1.14.1@jar",
+          "name": "Re:Deco",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3216552,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/redeco-1.14.1-forge-1.20.1.jar",
+            "MD5": "262810452b5592c9c16454060446685c"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432753,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "MD5": "a040c6cc86f653fddf280ff3af9068f0"
+          }
+        },
+        {
+          "id": "com.hypherionmc.simplerpc.loaders:simplerpc:4.1.0+hotfix.1@jar",
+          "name": "Simple RPC",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 714318,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/SimpleRPC-4.1.0+hotfix.1.jar",
+            "MD5": "e0214d27a566ff470a93a81c728cafdf"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.24.31.1628@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1016608,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+            "MD5": "1872825103a6642f5f8a3519a9c274d7"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.3.12.1578@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1423513,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.3.12.1578.jar",
+            "MD5": "66c82a7ef4ed488b4df19c9b09533801"
+          }
+        },
+        {
+          "id": "com.railwayteam:railways:1.7.2+forge-mc1.20.1@jar",
+          "name": "Create: Steam 'n' Rails",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16819720,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+            "MD5": "ec91d63c97ff08beb324f34399f1bf1a"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:supplementaries:1.20-3.1.42-forge@jar",
+          "name": "Supplementaries",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13661432,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/supplementaries-1.20-3.1.42-forge.jar",
+            "MD5": "842a30b8172f55adefc4eb8435dc40ee"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:3.0.1.10@jar",
+          "name": "TerraBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107532,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "MD5": "9d8e305b95ae5a8f7b446d6346324267"
+          }
+        },
+        {
+          "id": "com.hrznstudio:titanium:3.8.32@jar",
+          "name": "Titanium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 622068,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/titanium-1.20.1-3.8.32.jar",
+            "MD5": "75baf7f67163a1da0fbb6a8bc98fa012"
+          }
+        },
+        {
+          "id": "ovh.corail:tombstone:9.0.9@jar",
+          "name": "Corail Tombstone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2335020,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/tombstone-1.20.1-9.0.9.jar",
+            "MD5": "19b3d2decf61a4fc893fd2e4a93c2261"
+          }
+        },
+        {
+          "id": "com.tom.storagemod:toms_storage:1.7.1@jar",
+          "name": "Tom's Simple Storage Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 520148,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/toms_storage-1.20-1.7.1.jar",
+            "MD5": "9fac0628fc9767b1bc50dbae38851e11"
+          }
+        },
+        {
+          "id": "net.xalcon:torchmaster:20.1.9@jar",
+          "name": "Torchmaster",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119348,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
+            "MD5": "5ccfbdd3ad8436df3b99967e746ac2cd"
+          }
+        },
+        {
+          "id": "ht.treechop:treechop:0.19.0@jar",
+          "name": "HT's TreeChop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517225,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+            "MD5": "e178293a133747657f802688b8c63d27"
+          }
+        },
+        {
+          "id": "net.mcreator:unusualend:2.3.0@jar",
+          "name": "Unusual End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20034506,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/unusualend-2.3.0-forge-1.20.1.jar",
+            "MD5": "8732b07c408a9f8aa03e4e2955cf9b32"
+          }
+        },
+        {
+          "id": "com.jahirtrap:walljump:1.20.1-1.3.5-forge@jar",
+          "name": "Wall-Jump TXF",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 161934,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/walljump-1.20.1-1.3.5-forge.jar",
+            "MD5": "ac6b2bd998795c39461200d8c7bf16e3"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:14.1.20@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 533738,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.20.jar",
+            "MD5": "eb4dcdc36470b7fd858c39547ad1c7d2"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.3.10@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2146522,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/xaerominimap-forge-1.20.1-25.3.10.jar",
+            "MD5": "2847dc482588772ec551a5b5112dc686"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.40.11@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1388342,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/xaeroworldmap-forge-1.20.1-1.40.11.jar",
+            "MD5": "d8624a1b587fbcd28d8f5dc5b13399d4"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.starfish_studios:yaf:1.0pre3@jar",
+          "name": "Yet Another Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3977379,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/yet-another-furniture-1.0pre3+forge-1.20.1.jar",
+            "MD5": "d45ef7d371e3581791de4035759795a3"
+          }
+        },
+        {
+          "id": "org.violetmoon.zetaimplforge.mod:zeta:1.0-31@jar",
+          "name": "Zeta",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1006518,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/Zeta-1.0-31.jar",
+            "MD5": "98b72e20dacbdb4da4bd187f56ed4012"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2465,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/drippyloadingscreen/options.txt",
+            "MD5": "8cb60f41a51a70a5c4912e3d24d904b6",
+            "path": "config/drippyloadingscreen/options.txt"
+          }
+        },
+        {
+          "id": "145bb1c9bb47343fbf6b7f8cd929c04e.gif",
+          "name": "145bb1c9bb47343fbf6b7f8cd929c04e.gif",
+          "type": "File",
+          "artifact": {
+            "size": 778975,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/145bb1c9bb47343fbf6b7f8cd929c04e.gif",
+            "MD5": "3efbe1385338487b5e2186eb5758ef3e",
+            "path": "config/fancymenu/assets/145bb1c9bb47343fbf6b7f8cd929c04e.gif"
+          }
+        },
+        {
+          "id": "74cd0a2133024529cc7a7cc1ddec1f41.gif",
+          "name": "74cd0a2133024529cc7a7cc1ddec1f41.gif",
+          "type": "File",
+          "artifact": {
+            "size": 3693331,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/74cd0a2133024529cc7a7cc1ddec1f41.gif",
+            "MD5": "3e03dc69398f5ee22ce2c5a8b8de30f4",
+            "path": "config/fancymenu/assets/74cd0a2133024529cc7a7cc1ddec1f41.gif"
+          }
+        },
+        {
+          "id": "951cecd820ed831a1b905e3c5229f624.gif",
+          "name": "951cecd820ed831a1b905e3c5229f624.gif",
+          "type": "File",
+          "artifact": {
+            "size": 332307,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/951cecd820ed831a1b905e3c5229f624.gif",
+            "MD5": "84e636bc139d937259cdd3382edc424b",
+            "path": "config/fancymenu/assets/951cecd820ed831a1b905e3c5229f624.gif"
+          }
+        },
+        {
+          "id": "a7c62d3cbc5fb44f72a8e71173ab7f0e.gif",
+          "name": "a7c62d3cbc5fb44f72a8e71173ab7f0e.gif",
+          "type": "File",
+          "artifact": {
+            "size": 287138,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/a7c62d3cbc5fb44f72a8e71173ab7f0e.gif",
+            "MD5": "a3eedcb0c743e138f50a3fda8e31b4f9",
+            "path": "config/fancymenu/assets/a7c62d3cbc5fb44f72a8e71173ab7f0e.gif"
+          }
+        },
+        {
+          "id": "a8c30f9814de89e6ad6548fc9a1cf3df.gif",
+          "name": "a8c30f9814de89e6ad6548fc9a1cf3df.gif",
+          "type": "File",
+          "artifact": {
+            "size": 3156276,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/a8c30f9814de89e6ad6548fc9a1cf3df.gif",
+            "MD5": "4ac127c4b4a654e30b1302c02e1a3abb",
+            "path": "config/fancymenu/assets/a8c30f9814de89e6ad6548fc9a1cf3df.gif"
+          }
+        },
+        {
+          "id": "bee.gif",
+          "name": "bee.gif",
+          "type": "File",
+          "artifact": {
+            "size": 236501,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/bee.gif",
+            "MD5": "af71d1d016fd69072c348ce4f0453998",
+            "path": "config/fancymenu/assets/bee.gif"
+          }
+        },
+        {
+          "id": "bee_baby.gif",
+          "name": "bee_baby.gif",
+          "type": "File",
+          "artifact": {
+            "size": 237282,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/bee_baby.gif",
+            "MD5": "5545c347cba8f039bf578aa26c9490c2",
+            "path": "config/fancymenu/assets/bee_baby.gif"
+          }
+        },
+        {
+          "id": "c7e743e0f2d0829b2c57db7ae6cf120f.gif",
+          "name": "c7e743e0f2d0829b2c57db7ae6cf120f.gif",
+          "type": "File",
+          "artifact": {
+            "size": 1743160,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/c7e743e0f2d0829b2c57db7ae6cf120f.gif",
+            "MD5": "2424d49a3aa8cc395d7fbc46ef8d47aa",
+            "path": "config/fancymenu/assets/c7e743e0f2d0829b2c57db7ae6cf120f.gif"
+          }
+        },
+        {
+          "id": "d2efab60fece2173e13426ae29e5c4bd.gif",
+          "name": "d2efab60fece2173e13426ae29e5c4bd.gif",
+          "type": "File",
+          "artifact": {
+            "size": 703175,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/d2efab60fece2173e13426ae29e5c4bd.gif",
+            "MD5": "a33d6705734c815599bb9fbfeb88ee6c",
+            "path": "config/fancymenu/assets/d2efab60fece2173e13426ae29e5c4bd.gif"
+          }
+        },
+        {
+          "id": "eac21f0e385a5bcf689e63b65625b1be.gif",
+          "name": "eac21f0e385a5bcf689e63b65625b1be.gif",
+          "type": "File",
+          "artifact": {
+            "size": 2471279,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/eac21f0e385a5bcf689e63b65625b1be.gif",
+            "MD5": "182eb67bb01cf00f8edf42675250d6f1",
+            "path": "config/fancymenu/assets/eac21f0e385a5bcf689e63b65625b1be.gif"
+          }
+        },
+        {
+          "id": "enderman.gif",
+          "name": "enderman.gif",
+          "type": "File",
+          "artifact": {
+            "size": 1327851,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/enderman.gif",
+            "MD5": "f616186e9ed20350fc4dc30d072901e2",
+            "path": "config/fancymenu/assets/enderman.gif"
+          }
+        },
+        {
+          "id": "Fox_Idle_(Dungeons).gif",
+          "name": "Fox_Idle_(Dungeons).gif",
+          "type": "File",
+          "artifact": {
+            "size": 1016305,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/Fox_Idle_(Dungeons).gif",
+            "MD5": "6d5ff4eabb3cac1241f18fe0f27ffd0d",
+            "path": "config/fancymenu/assets/Fox_Idle_(Dungeons).gif"
+          }
+        },
+        {
+          "id": "menu1.png",
+          "name": "menu1.png",
+          "type": "File",
+          "artifact": {
+            "size": 9127735,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/menu1.png",
+            "MD5": "e4a8a2195c4cba68c39036189feef06e",
+            "path": "config/fancymenu/assets/menu1.png"
+          }
+        },
+        {
+          "id": "Spider_Idle_(Dungeons).webp",
+          "name": "Spider_Idle_(Dungeons).webp",
+          "type": "File",
+          "artifact": {
+            "size": 434624,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/Spider_Idle_(Dungeons).webp",
+            "MD5": "ab7d0003d6571939fba7add3a0a63674",
+            "path": "config/fancymenu/assets/Spider_Idle_(Dungeons).webp"
+          }
+        },
+        {
+          "id": "techlabs-logo.png",
+          "name": "techlabs-logo.png",
+          "type": "File",
+          "artifact": {
+            "size": 2571096,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/assets/techlabs-logo.png",
+            "MD5": "1c360411a2e772c39516144207003958",
+            "path": "config/fancymenu/assets/techlabs-logo.png"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 285,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "7b47806787eb982bc7f6cdd2078e7221",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "drippy_loading_overlay_layout.txt",
+          "name": "drippy_loading_overlay_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 8324,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+            "MD5": "cbf1ec927c027694bfe5b90d58c8fe72",
+            "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+          }
+        },
+        {
+          "id": "hunoscraft2_1.txt",
+          "name": "hunoscraft2_1.txt",
+          "type": "File",
+          "artifact": {
+            "size": 36926,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
+            "MD5": "d2f3631e2d43f7434a7f17590ba78176",
+            "path": "config/fancymenu/customization/hunoscraft2_1.txt"
+          }
+        },
+        {
+          "id": "pause_screen_layout.txt",
+          "name": "pause_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 27894,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "MD5": "edaa8e463dcdb25df96be40e1e53c492",
+            "path": "config/fancymenu/customization/pause_screen_layout.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "264b52f6227c1452acd9d909a838f872",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "element_layer_control.lewidget",
+          "name": "element_layer_control.lewidget",
+          "type": "File",
+          "artifact": {
+            "size": 198,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "2218b6ec3f251917d94ff2e89a9481f9",
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+          }
+        },
+        {
+          "id": "legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2128,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/options.txt",
+            "MD5": "5a6568d80240d9912630a826e4ddd0ba",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "dark.json",
+          "name": "dark.json",
+          "type": "File",
+          "artifact": {
+            "size": 6218,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "df90c4d23315ff6e63e15541b3031197",
+            "path": "config/fancymenu/ui_themes/dark.json"
+          }
+        },
+        {
+          "id": "light.json",
+          "name": "light.json",
+          "type": "File",
+          "artifact": {
+            "size": 6220,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "21a51e7a223939c9fae277fcd02cf4fc",
+            "path": "config/fancymenu/ui_themes/light.json"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 134,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/fancymenu/user_variables.db",
+            "MD5": "b24c14b0a43503e92e01b0775339cb09",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/AAA/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/AAA/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/AAA/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/AAA/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/Construccion/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/Construccion/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/Construccion/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/Construccion/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "exampleIntegrationHints.json",
+          "name": "exampleIntegrationHints.json",
+          "type": "File",
+          "artifact": {
+            "size": 1450,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+            "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+          }
+        },
+        {
+          "id": "player-defined.json",
+          "name": "player-defined.json",
+          "type": "File",
+          "artifact": {
+            "size": 1288,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
+            "path": "config/inventoryprofilesnext/integrationHints/player-defined.json"
+          }
+        },
+        {
+          "id": "inventoryprofiles.json",
+          "name": "inventoryprofiles.json",
+          "type": "File",
+          "artifact": {
+            "size": 336,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
+            "path": "config/inventoryprofilesnext/inventoryprofiles.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/play.ikmev.net&25565/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/play.ikmev.net&25565/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/techlabgen/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/techlabgen/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/techlabgen/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/techlabgen/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/world/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/world/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/inventoryprofilesnext/world/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/world/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 308,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/oculus.properties",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "server-entries.toml",
+          "name": "server-entries.toml",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/simple-rpc/server-entries.toml",
+            "MD5": "c1d25129313571d7ffa9aa2654338ec2",
+            "path": "config/simple-rpc/server-entries.toml"
+          }
+        },
+        {
+          "id": "simple-rpc.toml",
+          "name": "simple-rpc.toml",
+          "type": "File",
+          "artifact": {
+            "size": 17184,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/config/simple-rpc/simple-rpc.toml",
+            "MD5": "68d375234ac79aebfd9a3fa781baa293",
+            "path": "config/simple-rpc/simple-rpc.toml"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 14080,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "Armored Legacy v1.4.1.zip",
+          "name": "Armored Legacy v1.4.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1373061,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Armored%20Legacy%20v1.4.1.zip",
+            "MD5": "7608d8ced581572f074db25885d47f85",
+            "path": "resourcepacks/Armored Legacy v1.4.1.zip"
+          }
+        },
+        {
+          "id": "Assorted Allays x FA - V.10.2.zip",
+          "name": "Assorted Allays x FA - V.10.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 952116,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Assorted%20Allays%20x%20FA%20-%20V.10.2.zip",
+            "MD5": "b142146f3cf7785aab690a3786018b89",
+            "path": "resourcepacks/Assorted Allays x FA - V.10.2.zip"
+          }
+        },
+        {
+          "id": "Create+Simple+Storage+2.1.zip",
+          "name": "Create+Simple+Storage+2.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 78236,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Create+Simple+Storage+2.1.zip",
+            "MD5": "99c91274184bf47a691c8faa02102d56",
+            "path": "resourcepacks/Create+Simple+Storage+2.1.zip"
+          }
+        },
+        {
+          "id": "CreateSophBackpacks.zip",
+          "name": "CreateSophBackpacks.zip",
+          "type": "File",
+          "artifact": {
+            "size": 557473,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/CreateSophBackpacks.zip",
+            "MD5": "d9f2564fab19bb0ae5230ad9dc70adb3",
+            "path": "resourcepacks/CreateSophBackpacks.zip"
+          }
+        },
+        {
+          "id": "DetailedAnimationsReworked - V1.15.zip",
+          "name": "DetailedAnimationsReworked - V1.15.zip",
+          "type": "File",
+          "artifact": {
+            "size": 116175,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/DetailedAnimationsReworked%20-%20V1.15.zip",
+            "MD5": "e64f259af7fc9be053faa94569bcc003",
+            "path": "resourcepacks/DetailedAnimationsReworked - V1.15.zip"
+          }
+        },
+        {
+          "id": "Enchantment Glows 1.9 1.20.x.zip",
+          "name": "Enchantment Glows 1.9 1.20.x.zip",
+          "type": "File",
+          "artifact": {
+            "size": 288771,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Enchantment%20Glows%201.9%201.20.x.zip",
+            "MD5": "ccbc763745159444cd117be4f60b3873",
+            "path": "resourcepacks/Enchantment Glows 1.9 1.20.x.zip"
+          }
+        },
+        {
+          "id": "FreshAnimations_v1.10.4.zip",
+          "name": "FreshAnimations_v1.10.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 850941,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/FreshAnimations_v1.10.4.zip",
+            "MD5": "ab0e8cc3444e98f0fd51ac0d84533d52",
+            "path": "resourcepacks/FreshAnimations_v1.10.4.zip"
+          }
+        },
+        {
+          "id": "Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip",
+          "name": "Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip",
+          "type": "File",
+          "artifact": {
+            "size": 247260,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Fusion%20Connected%20Blocks%20v1.0.2%20for%20Minecraft%201.20-1.21.8.zip",
+            "MD5": "dba0bcba33f78548213e6e40474223bc",
+            "path": "resourcepacks/Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip"
+          }
+        },
+        {
+          "id": "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+          "name": "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+          "type": "File",
+          "artifact": {
+            "size": 191578,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip",
+            "MD5": "5182efbf1b9301715532c7e4aabe19bd",
+            "path": "resourcepacks/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"
+          }
+        },
+        {
+          "id": "HyperPunchy-v2.4+.zip",
+          "name": "HyperPunchy-v2.4+.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1446898,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/HyperPunchy-v2.4+.zip",
+            "MD5": "18262be970a22463b2ef52fa0a3c107b",
+            "path": "resourcepacks/HyperPunchy-v2.4+.zip"
+          }
+        },
+        {
+          "id": "Icon Fresh 1.3.zip",
+          "name": "Icon Fresh 1.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 852235,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Icon%20Fresh%201.3.zip",
+            "MD5": "409625225a91347de13b22f939b126ae",
+            "path": "resourcepacks/Icon Fresh 1.3.zip"
+          }
+        },
+        {
+          "id": "Icon Xaero's 1.22.zip",
+          "name": "Icon Xaero's 1.22.zip",
+          "type": "File",
+          "artifact": {
+            "size": 18866675,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Icon%20Xaero's%201.22.zip",
+            "MD5": "808213dd6a4cd8d904c37e56f94036a7",
+            "path": "resourcepacks/Icon Xaero's 1.22.zip"
+          }
+        },
+        {
+          "id": "Modded Swords x Punchy! 1.2.6.zip",
+          "name": "Modded Swords x Punchy! 1.2.6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 204688,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Modded%20Swords%20x%20Punchy!%201.2.6.zip",
+            "MD5": "47cf482f5b8d2787a0928be9a6cefdc6",
+            "path": "resourcepacks/Modded Swords x Punchy! 1.2.6.zip"
+          }
+        },
+        {
+          "id": "Quark Programmer Art.zip",
+          "name": "Quark Programmer Art.zip",
+          "type": "File",
+          "artifact": {
+            "size": 266434,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/Quark%20Programmer%20Art.zip",
+            "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
+            "path": "resourcepacks/Quark Programmer Art.zip"
+          }
+        },
+        {
+          "id": "§6Immersive§8_§6Interfaces§8.zip",
+          "name": "§6Immersive§8_§6Interfaces§8.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1195419,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78.zip",
+            "MD5": "99cc6588027bd10150073c3fde01d89a",
+            "path": "resourcepacks/§6Immersive§8_§6Interfaces§8.zip"
+          }
+        },
+        {
+          "id": "§6Immersive§8_§6Interfaces§8_§6Modded§8.zip",
+          "name": "§6Immersive§8_§6Interfaces§8_§6Modded§8.zip",
+          "type": "File",
+          "artifact": {
+            "size": 522053,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/resourcepacks/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78_%C2%A76Modded%C2%A78.zip",
+            "MD5": "cb20a461628e59f0fd54d46d43ba8d43",
+            "path": "resourcepacks/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip"
+          }
+        },
+        {
+          "id": "config.txt",
+          "name": "config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 513,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/minimap/Multiplayer_play.ikmev.net/config.txt",
+            "MD5": "fe883870cba46dd8b955537afdd3f5f2",
+            "path": "xaero/minimap/Multiplayer_play.ikmev.net/config.txt"
+          }
+        },
+        {
+          "id": "dimension_config.txt",
+          "name": "dimension_config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 53,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/dimension_config.txt",
+            "MD5": "19d8aa5da66f2d4091686ee09952062d",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/dimension_config.txt"
+          }
+        },
+        {
+          "id": "-4_5.zip",
+          "name": "-4_5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 61174,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/-4_5.zip",
+            "MD5": "6abcbfe66e7237e12d071550a6448e51",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/-4_5.zip"
+          }
+        },
+        {
+          "id": "-4_6.zip",
+          "name": "-4_6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 8903,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/-4_6.zip",
+            "MD5": "f4491bff59bc012fe0c8a52f30295a5c",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/-4_6.zip"
+          }
+        },
+        {
+          "id": "-5_5.zip",
+          "name": "-5_5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 90444,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/-5_5.zip",
+            "MD5": "d09cd1d41658e5b26b4dc891309f698f",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/-5_5.zip"
+          }
+        },
+        {
+          "id": "-5_6.zip",
+          "name": "-5_6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1234,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/-5_6.zip",
+            "MD5": "004502c1466eb216440803765ae3dc89",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/-5_6.zip"
+          }
+        },
+        {
+          "id": ".lock",
+          "name": ".lock",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/.lock",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/.lock"
+          }
+        },
+        {
+          "id": "-4_5.xwmc.outdated",
+          "name": "-4_5.xwmc.outdated",
+          "type": "File",
+          "artifact": {
+            "size": 95669,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/cache_1/-4_5.xwmc.outdated",
+            "MD5": "86ddc5b93b044b00861ae29a40cd36da",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/cache_1/-4_5.xwmc.outdated"
+          }
+        },
+        {
+          "id": "-4_6.xwmc",
+          "name": "-4_6.xwmc",
+          "type": "File",
+          "artifact": {
+            "size": 14783,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/cache_1/-4_6.xwmc",
+            "MD5": "7b6de31eafb118b3b8ecf65bb9b20ee2",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/cache_1/-4_6.xwmc"
+          }
+        },
+        {
+          "id": "-5_5.xwmc.outdated",
+          "name": "-5_5.xwmc.outdated",
+          "type": "File",
+          "artifact": {
+            "size": 123963,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/cache_1/-5_5.xwmc.outdated",
+            "MD5": "dd855123512e94fe9a354675660f3aab",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/cache_1/-5_5.xwmc.outdated"
+          }
+        },
+        {
+          "id": "-5_6.xwmc",
+          "name": "-5_6.xwmc",
+          "type": "File",
+          "artifact": {
+            "size": 2484,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/cache_1/-5_6.xwmc",
+            "MD5": "81e4cca432a362f2ec0f6c5d2f84734b",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/cache_1/-5_6.xwmc"
+          }
+        },
+        {
+          "id": "-4_5.zip",
+          "name": "-4_5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 25363,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/caves/5/-4_5.zip",
+            "MD5": "e187a72d92242bcb389a5d8ff26d6ca7",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/caves/5/-4_5.zip"
+          }
+        },
+        {
+          "id": "-5_5.zip",
+          "name": "-5_5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 49712,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/caves/5/-5_5.zip",
+            "MD5": "213517638131b3d28ce0c8fae7a32ac2",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/caves/5/-5_5.zip"
+          }
+        },
+        {
+          "id": "-4_5.xwmc",
+          "name": "-4_5.xwmc",
+          "type": "File",
+          "artifact": {
+            "size": 47273,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/caves/5/cache_1/-4_5.xwmc",
+            "MD5": "6bed0e59c19d617d9b50e5bfa1e95cae",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/caves/5/cache_1/-4_5.xwmc"
+          }
+        },
+        {
+          "id": "-5_5.xwmc",
+          "name": "-5_5.xwmc",
+          "type": "File",
+          "artifact": {
+            "size": 83524,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/caves/5/cache_1/-5_5.xwmc",
+            "MD5": "7159770944b04da222ad562e6518963d",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/null/mw$137435050/caves/5/cache_1/-5_5.xwmc"
+          }
+        },
+        {
+          "id": "server_config.txt",
+          "name": "server_config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 324,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/files/xaero/world-map/Multiplayer_play.ikmev.net/server_config.txt",
+            "MD5": "4204ef931e4301435860ea6a4eb44ff2",
+            "path": "xaero/world-map/Multiplayer_play.ikmev.net/server_config.txt"
+          }
+        }
+      ]
     }
   ]
 }
