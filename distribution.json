@@ -1093,6 +1093,16 @@
           }
         },
         {
+          "id": "pro.mikey:justhammers:2.0.3+mc1.20.1@jar",
+          "name": "Just Hammers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 93291,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/justhammers-forge-2.0.3+mc1.20.1.jar",
+            "MD5": "fd4ce938613c381b4116589243efc668"
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.8.0@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
@@ -3482,6 +3492,20 @@
           }
         },
         {
+          "id": "org.anti_ad.mc.ipnext:inventoryprofilesnext:1.10.20@jar",
+          "name": "Inventory Profiles Next",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1457354,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/InventoryProfilesNext-forge-1.20-1.10.20.jar",
+            "MD5": "7e883e59d6e544574ef58c52562881a9"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "dev.latvian.mods:itemfilters:2001.1.0-build.59@jar",
           "name": "Item Filters",
           "type": "ForgeMod",
@@ -3522,6 +3546,16 @@
           }
         },
         {
+          "id": "pro.mikey:justhammers:2.0.3+mc1.20.1@jar",
+          "name": "Just Hammers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 93291,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/justhammers-forge-2.0.3+mc1.20.1.jar",
+            "MD5": "fd4ce938613c381b4116589243efc668"
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.8.0@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
@@ -3532,6 +3566,20 @@
           }
         },
         {
+          "id": "generated.forgemod:kotlinforforge:4.12.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7442998,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/kotlinforforge-4.12.0-all.jar",
+            "MD5": "d6a40dede74edbe646b34a1bafd53b4d"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "com.github.l_ender:cataclysm:3.26@jar",
           "name": "Cataclysm",
           "type": "ForgeMod",
@@ -3539,6 +3587,20 @@
             "size": 73914242,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/L_Enders_Cataclysm-3.26-enchant-fix.jar",
             "MD5": "3024423cc1973fd41ba00ddf322f660d"
+          }
+        },
+        {
+          "id": "org.anti_ad.mc:libipn:4.0.2@jar",
+          "name": "LibIPN",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 693301,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/libIPN-forge-1.20-4.0.2.jar",
+            "MD5": "ef3a86f4867dba031dd6adef7e45d396"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
