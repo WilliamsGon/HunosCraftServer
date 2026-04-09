@@ -983,6 +983,16 @@
           }
         },
         {
+          "id": "dev.satherov:ftbxaerocompat:1.1.3@jar",
+          "name": "FTB Chunks x Xaero's Map Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 737596,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/ftbxaerocompat-forge-1.1.3.jar",
+            "MD5": "84d22e4c5ea26ee46af69b4caff9ad8c"
+          }
+        },
+        {
           "id": "com.supermartijn642:fusion:1.2.12@jar",
           "name": "Fusion",
           "type": "ForgeMod",
@@ -1653,6 +1663,26 @@
             "size": 1388342,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/xaeroworldmap-forge-1.20.1-1.40.11.jar",
             "MD5": "d8624a1b587fbcd28d8f5dc5b13399d4"
+          }
+        },
+        {
+          "id": "dev.alinco8.xmxw.platform:xmxw:2.7.5+1.20.1-forge@jar",
+          "name": "Xaero's Maps x Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116706,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/xmxw-2.7.5+1.20.1-forge.jar",
+            "MD5": "ad8ac6f57f29651447eebc9dc4201384"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.6+1.20.1-forge@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1105891,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+            "MD5": "2437cb642e24726a83f864e345f24479"
           }
         },
         {
@@ -3442,6 +3472,20 @@
           }
         },
         {
+          "id": "dev.satherov:ftbxaerocompat:1.1.3@jar",
+          "name": "FTB Chunks x Xaero's Map Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 737596,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/ftbxaerocompat-forge-1.1.3.jar",
+            "MD5": "84d22e4c5ea26ee46af69b4caff9ad8c"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "com.py:hunoscraftmod:1.0.3@jar",
           "name": "HunosCraft Mod",
           "type": "ForgeMod",
@@ -3571,12 +3615,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7442998,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/kotlinforforge-4.12.0-all.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
             "MD5": "d6a40dede74edbe646b34a1bafd53b4d"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -4029,6 +4069,30 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "dev.alinco8.xmxw.platform:xmxw:2.7.5+1.20.1-forge@jar",
+          "name": "Xaero's Maps x Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116706,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionaloff/xmxw-2.7.5+1.20.1-forge.jar",
+            "MD5": "ad8ac6f57f29651447eebc9dc4201384"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.6+1.20.1-forge@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1105891,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+            "MD5": "2437cb642e24726a83f864e345f24479"
           }
         },
         {
