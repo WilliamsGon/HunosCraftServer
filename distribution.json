@@ -1103,13 +1103,13 @@
           }
         },
         {
-          "id": "pro.mikey:justhammers:2.0.3+mc1.20.1@jar",
-          "name": "Just Hammers",
+          "id": "pro.mikey:justhammers:20.1.5-atila+mc1.20.1@jar",
+          "name": "Just Hammers (Atila Edition)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 93291,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/justhammers-forge-2.0.3+mc1.20.1.jar",
-            "MD5": "fd4ce938613c381b4116589243efc668"
+            "size": 106281,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/justhammers-forge-20.1.5-atila+mc1.20.1.jar",
+            "MD5": "5f301cb4d0ab020ca96a33d5edd0d06c"
           }
         },
         {
@@ -3590,13 +3590,13 @@
           }
         },
         {
-          "id": "pro.mikey:justhammers:2.0.3+mc1.20.1@jar",
-          "name": "Just Hammers",
+          "id": "pro.mikey:justhammers:20.1.5-atila+mc1.20.1@jar",
+          "name": "Just Hammers (Atila Edition)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 93291,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/justhammers-forge-2.0.3+mc1.20.1.jar",
-            "MD5": "fd4ce938613c381b4116589243efc668"
+            "size": 106281,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/justhammers-forge-20.1.5-atila+mc1.20.1.jar",
+            "MD5": "5f301cb4d0ab020ca96a33d5edd0d06c"
           }
         },
         {
