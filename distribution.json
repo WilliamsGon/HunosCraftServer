@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "com.kuraion:ante:1.1@jar",
+          "name": "Anvil Never Too Expensive",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7903,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/AnvilNeverTooExpensive-1.20.1-1.1.jar",
+            "MD5": "48fc878b45fc4d80c6c80b862744c0c9"
+          }
+        },
+        {
           "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
           "name": "AppleSkin",
           "type": "ForgeMod",
@@ -3003,6 +3013,16 @@
             "size": 1301022,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/amendments-1.20-2.2.5.jar",
             "MD5": "3e821a83a3a12bc9ca0fecb73a980dba"
+          }
+        },
+        {
+          "id": "com.kuraion:ante:1.1@jar",
+          "name": "Anvil Never Too Expensive",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7903,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/AnvilNeverTooExpensive-1.20.1-1.1.jar",
+            "MD5": "48fc878b45fc4d80c6c80b862744c0c9"
           }
         },
         {
