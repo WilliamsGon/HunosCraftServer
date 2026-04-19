@@ -933,6 +933,16 @@
           }
         },
         {
+          "id": "dev.obscuria:fragmentum:1.1.4@jar",
+          "name": "Fragmentum",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1690913,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/fragmentum-forge-1.20.1-1.1.4.jar",
+            "MD5": "3d695885c7d1d01789f5cdb7584de6d4"
+          }
+        },
+        {
           "id": "xfacthd.framedblocks:framedblocks:9.4.3@jar",
           "name": "FramedBlocks",
           "type": "ForgeMod",
@@ -1180,6 +1190,19 @@
             "size": 162767,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/lionfishapi-2.4-Fix.jar",
             "MD5": "81efd7c198c3c7036c77c79cae764ed4"
+          }
+        },
+        {
+          "id": "dev.obscuria.lootjournal:loot_journal:6.1.2@jar",
+          "name": "Loot Journal",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 935450,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/optionalon/loot_journal-forge-1.20.1-6.1.2.jar",
+            "MD5": "b853517657d983e7b7de5bd075950967"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -3432,6 +3455,16 @@
           }
         },
         {
+          "id": "dev.obscuria:fragmentum:1.1.4@jar",
+          "name": "Fragmentum",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1690913,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/fragmentum-forge-1.20.1-1.1.4.jar",
+            "MD5": "3d695885c7d1d01789f5cdb7584de6d4"
+          }
+        },
+        {
           "id": "xfacthd.framedblocks:framedblocks:9.4.3@jar",
           "name": "FramedBlocks",
           "type": "ForgeMod",
@@ -3681,6 +3714,19 @@
             "size": 162767,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/lionfishapi-2.4-Fix.jar",
             "MD5": "81efd7c198c3c7036c77c79cae764ed4"
+          }
+        },
+        {
+          "id": "dev.obscuria.lootjournal:loot_journal:6.1.2@jar",
+          "name": "Loot Journal",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 935450,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/optionalon/loot_journal-forge-1.20.1-6.1.2.jar",
+            "MD5": "b853517657d983e7b7de5bd075950967"
+          },
+          "required": {
+            "value": false
           }
         },
         {
