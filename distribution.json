@@ -497,9 +497,9 @@
           "name": "Atila's Armors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 72095,
+            "size": 73582,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-1.20.1/forgemods/required/atilas_armors-1.0.0.jar",
-            "MD5": "b3a3bbfdfeb62f7269b841c7e068d5f7"
+            "MD5": "ba31a7a793d8958138759dc5714dd88b"
           }
         },
         {
@@ -3117,9 +3117,9 @@
           "name": "Atila's Armors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 72095,
+            "size": 73582,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosTechLabs-Genesis-Lite-1.20.1/forgemods/required/atilas_armors-1.0.0.jar",
-            "MD5": "b3a3bbfdfeb62f7269b841c7e068d5f7"
+            "MD5": "ba31a7a793d8958138759dc5714dd88b"
           }
         },
         {
