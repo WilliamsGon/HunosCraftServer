@@ -1,0 +1,6 @@
+#Fri Aug 07 21:29:09 PYT 2026
+TAA=false
+uwatertint=false
+WaterParallax=false
+Underwater_Fog=false
+Fog=false

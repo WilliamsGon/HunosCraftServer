@@ -1,0 +1,11 @@
+#Fri Aug 07 19:59:16 PYT 2026
+windEffectsEnabled=false
+refractionEnabled=false
+fogEnabled=false
+motionblurToggle=false
+bloomEnabled=false
+transparencyBlurEnabled=false
+overrideWaterTexture=false
+DoFChromaDispersion=false
+waterFogEnabled=false
+vignetteEnabled=false

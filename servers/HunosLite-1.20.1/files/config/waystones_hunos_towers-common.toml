@@ -1,0 +1,24 @@
+#Distancia minima en bloques entre torres. Divide el mundo en una cuadricula donde cada celda mide minSpacing bloques. Como maximo se generara una torre por celda.
+#Range: 0 ~ 10000
+minSpacing = 500
+#Indica si se deben generar Waystones en la punta de las torres.
+generateWaystones = true
+#Indica si se deben generar cofres de recompensa en las torres.
+generateChests = true
+#ResourceLocation de la tabla de botin (loot table) a usar para los cofres.
+lootTableAddress = "waystones_hunos_towers:chests/waystone_tower_loot"
+#Bloque que se utilizara en la punta si generateWaystones es falso o el mod Waystones no esta cargado.
+fallbackBlock = "minecraft:chiseled_stone_bricks"
+#Probabilidad de generacion adicional de la torre estandar (1 entre X celdas). Dejar en 1 para usar solo el control por distancia (minSpacing).
+#Range: 1 ~ 10000
+waystoneTowerChance = 1
+#Probabilidad de generacion adicional de la torre musgosa (1 entre X celdas). Dejar en 1 para usar solo el control por distancia (minSpacing).
+#Range: 1 ~ 10000
+mossyWaystoneTowerChance = 1
+#Probabilidad de generacion adicional de la torre de arena (1 entre X celdas). Dejar en 1 para usar solo el control por distancia (minSpacing).
+#Range: 1 ~ 10000
+sandyWaystoneTowerChance = 1
+#Probabilidad de generacion adicional de la torre nevada (1 entre X celdas). Dejar en 1 para usar solo el control por distancia (minSpacing).
+#Range: 1 ~ 10000
+snowyWaystoneTowerChance = 1
+
