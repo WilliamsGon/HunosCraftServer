@@ -31,7 +31,6 @@
         "config/inventoryprofilesnext/**/*.log",
         "config/inventoryprofilesnext/**/*.db",
         "config/oculus.properties",
-        "config/xaero/*",
         "shaderpacks/**/*.txt",
         "options.txt"
       ]
