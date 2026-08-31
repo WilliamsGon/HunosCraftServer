@@ -5436,39 +5436,6 @@
           }
         },
         {
-          "id": "xaerohud.txt",
-          "name": "xaerohud.txt",
-          "type": "File",
-          "artifact": {
-            "size": 123,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaerohud.txt",
-            "MD5": "2f87c54b0b2e85e6a5031171284d6f31",
-            "path": "config/xaerohud.txt"
-          }
-        },
-        {
-          "id": "xaeropatreon.txt",
-          "name": "xaeropatreon.txt",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaeropatreon.txt",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "config/xaeropatreon.txt"
-          }
-        },
-        {
-          "id": "xmxw.json",
-          "name": "xmxw.json",
-          "type": "File",
-          "artifact": {
-            "size": 504,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xmxw.json",
-            "MD5": "661f02e5822dfbe4874893c62aadc514",
-            "path": "config/xmxw.json"
-          }
-        },
-        {
           "id": "yacl.json5",
           "name": "yacl.json5",
           "type": "File",
@@ -29995,39 +29962,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/waystones_hunos_towers-common.toml",
             "MD5": "d1a5ef2e1dd791955b6d23ac7b46ec98",
             "path": "config/waystones_hunos_towers-common.toml"
-          }
-        },
-        {
-          "id": "xaerohud.txt",
-          "name": "xaerohud.txt",
-          "type": "File",
-          "artifact": {
-            "size": 123,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaerohud.txt",
-            "MD5": "2f87c54b0b2e85e6a5031171284d6f31",
-            "path": "config/xaerohud.txt"
-          }
-        },
-        {
-          "id": "xaeropatreon.txt",
-          "name": "xaeropatreon.txt",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaeropatreon.txt",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "config/xaeropatreon.txt"
-          }
-        },
-        {
-          "id": "xmxw.json",
-          "name": "xmxw.json",
-          "type": "File",
-          "artifact": {
-            "size": 504,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xmxw.json",
-            "MD5": "661f02e5822dfbe4874893c62aadc514",
-            "path": "config/xmxw.json"
           }
         },
         {
