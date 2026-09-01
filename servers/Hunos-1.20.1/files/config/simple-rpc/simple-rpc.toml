@@ -30,7 +30,7 @@
 		#The second line of text under the app name
 		state = "Iniciando juego..."
 		#The Asset ID or URLs of images to randomly use for the large image
-		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraft/refs/heads/master/app/assets/images/atilaTechLabs.png"]
+		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraftServer/refs/heads/main/servers/Hunos-1.20.1/files/config/fancymenu/assets/hunoscraft4.png"]
 		#The text to show when someone hovers over the largeImage
 		largeImageText = "Es Minecraft {{game.version}}, pero modded"
 		#The Asset ID or URLs of images to randomly use for the small image
@@ -56,7 +56,7 @@
 		#The second line of text under the app name
 		state = "Relajandose en el menú"
 		#The Asset ID or URLs of images to randomly use for the large image
-		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraft/refs/heads/master/app/assets/images/atilaTechLabs.png"]
+		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraftServer/refs/heads/main/servers/Hunos-1.20.1/files/config/fancymenu/assets/hunoscraft4.png"]
 		#The text to show when someone hovers over the largeImage
 		largeImageText = "Es Minecraft {{game.version}}, pero modded"
 		#The Asset ID or URLs of images to randomly use for the small image
@@ -82,7 +82,7 @@
 		#The second line of text under the app name
 		state = "Buscando amigos"
 		#The Asset ID or URLs of images to randomly use for the large image
-		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraft/refs/heads/master/app/assets/images/atilaTechLabs.png"]
+		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraftServer/refs/heads/main/servers/Hunos-1.20.1/files/config/fancymenu/assets/hunoscraft4.png"]
 		#The text to show when someone hovers over the largeImage
 		largeImageText = "Es Minecraft {{game.version}}, pero modded"
 		#The Asset ID or URLs of images to randomly use for the small image
@@ -108,7 +108,7 @@
 		#The second line of text under the app name
 		state = "Navegando por los Realms"
 		#The Asset ID or URLs of images to randomly use for the large image
-		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraft/refs/heads/master/app/assets/images/atilaTechLabs.png"]
+		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraftServer/refs/heads/main/servers/Hunos-1.20.1/files/config/fancymenu/assets/hunoscraft4.png"]
 		#The text to show when someone hovers over the largeImage
 		largeImageText = "Es Minecraft {{game.version}}, pero modded"
 		#The Asset ID or URLs of images to randomly use for the small image
@@ -134,7 +134,7 @@
 		#The second line of text under the app name
 		state = "Uniendo al juego"
 		#The Asset ID or URLs of images to randomly use for the large image
-		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraft/refs/heads/master/app/assets/images/atilaTechLabs.png"]
+		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraftServer/refs/heads/main/servers/Hunos-1.20.1/files/config/fancymenu/assets/hunoscraft4.png"]
 		#The text to show when someone hovers over the largeImage
 		largeImageText = "Es Minecraft {{game.version}}, pero modded"
 		#The Asset ID or URLs of images to randomly use for the small image
@@ -160,7 +160,7 @@
 		#The second line of text under the app name
 		state = "Jugando en modo solitario"
 		#The Asset ID or URLs of images to randomly use for the large image
-		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraft/refs/heads/master/app/assets/images/atilaTechLabs.png"]
+		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraftServer/refs/heads/main/servers/Hunos-1.20.1/files/config/fancymenu/assets/hunoscraft4.png"]
 		#The text to show when someone hovers over the largeImage
 		largeImageText = "Es Minecraft {{game.version}}, pero modded"
 		#The Asset ID or URLs of images to randomly use for the small image
@@ -189,7 +189,7 @@
 		#The second line of text under the app name
 		state = "Jugando online"
 		#The Asset ID or URLs of images to randomly use for the large image
-		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraft/refs/heads/master/app/assets/images/atilaTechLabs.png"]
+		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraftServer/refs/heads/main/servers/Hunos-1.20.1/files/config/fancymenu/assets/hunoscraft4.png"]
 		#The text to show when someone hovers over the largeImage
 		largeImageText = "Es Minecraft {{game.version}}, pero modded"
 		#The Asset ID or URLs of images to randomly use for the small image
@@ -218,7 +218,7 @@
 		#The second line of text under the app name
 		state = "Jugando en un Realm"
 		#The Asset ID or URLs of images to randomly use for the large image
-		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraft/refs/heads/master/app/assets/images/atilaTechLabs.png"]
+		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraftServer/refs/heads/main/servers/Hunos-1.20.1/files/config/fancymenu/assets/hunoscraft4.png"]
 		#The text to show when someone hovers over the largeImage
 		largeImageText = "Es Minecraft {{game.version}}, pero modded"
 		#The Asset ID or URLs of images to randomly use for the small image
@@ -247,7 +247,7 @@
 		#The second line of text under the app name
 		state = "Juego pausado"
 		#The Asset ID or URLs of images to randomly use for the large image
-		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraft/refs/heads/master/app/assets/images/atilaTechLabs.png"]
+		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraftServer/refs/heads/main/servers/Hunos-1.20.1/files/config/fancymenu/assets/hunoscraft4.png"]
 		#The text to show when someone hovers over the largeImage
 		largeImageText = "Es Minecraft {{game.version}}, pero modded"
 		#The Asset ID or URLs of images to randomly use for the small image
@@ -272,9 +272,9 @@
 		#The first line of text under the app name
 		description = "Jugando en un servidor de Minecraft"
 		#The second line of text under the app name
-		state = "Hunos TechLabs: Genesis - by AtilaZone"
+		state = "HunosCraft: Arcane Odyssey - by AtilaZone"
 		#The Asset ID or URLs of images to randomly use for the large image
-		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraft/refs/heads/master/app/assets/images/atilaTechLabs.png"]
+		largeImageKey = ["https://raw.githubusercontent.com/WilliamsGon/HunosCraftServer/refs/heads/main/servers/Hunos-1.20.1/files/config/fancymenu/assets/hunoscraft4.png"]
 		#The text to show when someone hovers over the largeImage
 		largeImageText = "Es Minecraft {{game.version}}, pero modded"
 		#The Asset ID or URLs of images to randomly use for the small image
@@ -376,4 +376,3 @@
 			streamingActivityUrl = "https://twitch.tv/twitch"
 			#List of buttons (max 2) to show on the RPC
 			buttons = []
-
