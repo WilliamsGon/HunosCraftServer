@@ -5452,7 +5452,6 @@
           "artifact": {
             "size": 26,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/lib/client.cfg",
-            "MD5": "dd7d24d2b991f7648671c16d0a74c265",
             "path": "config/xaero/lib/client.cfg"
           }
         },
@@ -5463,7 +5462,6 @@
           "artifact": {
             "size": 236,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/lib/common.cfg",
-            "MD5": "e085e122e32132e1fa73ac927f7ece81",
             "path": "config/xaero/lib/common.cfg"
           }
         },
@@ -5474,7 +5472,6 @@
           "artifact": {
             "size": 121,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/lib/profiles/default.cfg",
-            "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
             "path": "config/xaero/lib/profiles/default.cfg"
           }
         },
@@ -5485,7 +5482,6 @@
           "artifact": {
             "size": 75,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/lib/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/lib/server_profiles/default.cfg"
           }
         },
@@ -5496,7 +5492,6 @@
           "artifact": {
             "size": 237,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/minimap/client.cfg",
-            "MD5": "91e77b7746f57d6d999ae99675c0cb58",
             "path": "config/xaero/minimap/client.cfg"
           }
         },
@@ -5507,7 +5502,6 @@
           "artifact": {
             "size": 147,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/minimap/common.cfg",
-            "MD5": "48d56532be92f58e976a2d1753abdd35",
             "path": "config/xaero/minimap/common.cfg"
           }
         },
@@ -5518,7 +5512,6 @@
           "artifact": {
             "size": 5531,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/minimap/default_radar_categories_client.json",
-            "MD5": "71086272395ab15f8fdaad8e2c7320da",
             "path": "config/xaero/minimap/default_radar_categories_client.json"
           }
         },
@@ -5529,7 +5522,6 @@
           "artifact": {
             "size": 4597,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/minimap/default_radar_categories_server.json",
-            "MD5": "7ffe568a308241b93166af2d45ce79c7",
             "path": "config/xaero/minimap/default_radar_categories_server.json"
           }
         },
@@ -5540,7 +5532,6 @@
           "artifact": {
             "size": 3756,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/minimap/profiles/default.cfg",
-            "MD5": "5600a003c8ad81b9530482f01a494a44",
             "path": "config/xaero/minimap/profiles/default.cfg"
           }
         },
@@ -5551,7 +5542,6 @@
           "artifact": {
             "size": 5531,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-            "MD5": "e87f24bcf76e9dd754062655420a3773",
             "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
           }
         },
@@ -5562,7 +5552,6 @@
           "artifact": {
             "size": 684,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-            "MD5": "64d98932063f0be723920fbdb1de1268",
             "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
           }
         },
@@ -5573,7 +5562,6 @@
           "artifact": {
             "size": 75,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/minimap/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/minimap/server_profiles/default.cfg"
           }
         },
@@ -5584,7 +5572,6 @@
           "artifact": {
             "size": 493,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/world-map/client.cfg",
-            "MD5": "166c5f41a6618967a434279c0beebc05",
             "path": "config/xaero/world-map/client.cfg"
           }
         },
@@ -5595,7 +5582,6 @@
           "artifact": {
             "size": 141,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/world-map/common.cfg",
-            "MD5": "b5ddb993fe4200e02fec18254463b2c2",
             "path": "config/xaero/world-map/common.cfg"
           }
         },
@@ -5606,7 +5592,6 @@
           "artifact": {
             "size": 1386,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/world-map/profiles/default.cfg",
-            "MD5": "0052992ca22e10c4e562f1dc1952bda6",
             "path": "config/xaero/world-map/profiles/default.cfg"
           }
         },
@@ -5617,7 +5602,6 @@
           "artifact": {
             "size": 75,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/xaero/world-map/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/world-map/server_profiles/default.cfg"
           }
         },
@@ -30167,7 +30151,6 @@
           "artifact": {
             "size": 26,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/lib/client.cfg",
-            "MD5": "dd7d24d2b991f7648671c16d0a74c265",
             "path": "config/xaero/lib/client.cfg"
           }
         },
@@ -30178,7 +30161,6 @@
           "artifact": {
             "size": 236,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/lib/common.cfg",
-            "MD5": "e085e122e32132e1fa73ac927f7ece81",
             "path": "config/xaero/lib/common.cfg"
           }
         },
@@ -30189,7 +30171,6 @@
           "artifact": {
             "size": 121,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/lib/profiles/default.cfg",
-            "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
             "path": "config/xaero/lib/profiles/default.cfg"
           }
         },
@@ -30200,7 +30181,6 @@
           "artifact": {
             "size": 75,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/lib/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/lib/server_profiles/default.cfg"
           }
         },
@@ -30211,7 +30191,6 @@
           "artifact": {
             "size": 237,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/minimap/client.cfg",
-            "MD5": "91e77b7746f57d6d999ae99675c0cb58",
             "path": "config/xaero/minimap/client.cfg"
           }
         },
@@ -30222,7 +30201,6 @@
           "artifact": {
             "size": 147,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/minimap/common.cfg",
-            "MD5": "48d56532be92f58e976a2d1753abdd35",
             "path": "config/xaero/minimap/common.cfg"
           }
         },
@@ -30233,7 +30211,6 @@
           "artifact": {
             "size": 5531,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/minimap/default_radar_categories_client.json",
-            "MD5": "71086272395ab15f8fdaad8e2c7320da",
             "path": "config/xaero/minimap/default_radar_categories_client.json"
           }
         },
@@ -30244,7 +30221,6 @@
           "artifact": {
             "size": 4597,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/minimap/default_radar_categories_server.json",
-            "MD5": "7ffe568a308241b93166af2d45ce79c7",
             "path": "config/xaero/minimap/default_radar_categories_server.json"
           }
         },
@@ -30255,7 +30231,6 @@
           "artifact": {
             "size": 3756,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/minimap/profiles/default.cfg",
-            "MD5": "5600a003c8ad81b9530482f01a494a44",
             "path": "config/xaero/minimap/profiles/default.cfg"
           }
         },
@@ -30266,7 +30241,6 @@
           "artifact": {
             "size": 5531,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-            "MD5": "e87f24bcf76e9dd754062655420a3773",
             "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
           }
         },
@@ -30277,7 +30251,6 @@
           "artifact": {
             "size": 684,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-            "MD5": "64d98932063f0be723920fbdb1de1268",
             "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
           }
         },
@@ -30288,7 +30261,6 @@
           "artifact": {
             "size": 75,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/minimap/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/minimap/server_profiles/default.cfg"
           }
         },
@@ -30299,7 +30271,6 @@
           "artifact": {
             "size": 493,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/world-map/client.cfg",
-            "MD5": "166c5f41a6618967a434279c0beebc05",
             "path": "config/xaero/world-map/client.cfg"
           }
         },
@@ -30310,7 +30281,6 @@
           "artifact": {
             "size": 141,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/world-map/common.cfg",
-            "MD5": "b5ddb993fe4200e02fec18254463b2c2",
             "path": "config/xaero/world-map/common.cfg"
           }
         },
@@ -30321,7 +30291,6 @@
           "artifact": {
             "size": 1386,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/world-map/profiles/default.cfg",
-            "MD5": "0052992ca22e10c4e562f1dc1952bda6",
             "path": "config/xaero/world-map/profiles/default.cfg"
           }
         },
@@ -30332,7 +30301,6 @@
           "artifact": {
             "size": 75,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/xaero/world-map/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/world-map/server_profiles/default.cfg"
           }
         },

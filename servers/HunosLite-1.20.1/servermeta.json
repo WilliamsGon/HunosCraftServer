@@ -21,6 +21,9 @@
     {
       "appliesTo": ["files"],
       "patterns": [
+        "config/xaero/**/*.cfg",
+        "config/xaero/**/*.json",
+        "config/xaero/**/*.txt",
         "config/inventoryprofilesnext/*.cfg",
         "config/inventoryprofilesnext/**/*.yml",
         "config/inventoryprofilesnext/**/*.json",
