@@ -21,6 +21,7 @@
     {
       "appliesTo": ["files"],
       "patterns": [
+        "config/jei/**/*.ini",
         "config/xaero/**/*.cfg",
         "config/xaero/**/*.json",
         "config/xaero/**/*.txt",

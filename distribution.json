@@ -563,13 +563,13 @@
           }
         },
         {
-          "id": "com.atila:atilas_armors:2.3.0@jar",
+          "id": "com.atila:atilas_armors:2.3.1@jar",
           "name": "Atila's Armors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 403868,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/atilas_armors-2.3.0.jar",
-            "MD5": "cfb2b63ce0c9c1814e866216f2927b1f"
+            "size": 405174,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/atilas_armors-2.3.1.jar",
+            "MD5": "f9aa1183411a9c7033c93fc0acda7719"
           }
         },
         {
@@ -4452,7 +4452,6 @@
           "artifact": {
             "size": 1333,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "25029a301974c321aad489f0a704293f",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -4463,7 +4462,6 @@
           "artifact": {
             "size": 74,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
-            "MD5": "9256ba0b170fac4934f83a4e789d14a8",
             "path": "config/jei/ingredient-list-type-sort-order.ini"
           }
         },
@@ -4474,7 +4472,6 @@
           "artifact": {
             "size": 7991,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/jei/jei-client.ini",
-            "MD5": "81c1f04ca66332819d0805e5323f3e4a",
             "path": "config/jei/jei-client.ini"
           }
         },
@@ -4485,7 +4482,6 @@
           "artifact": {
             "size": 1338,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/jei/jei-colors.ini",
-            "MD5": "54322062602d3aabb6b11455e07de765",
             "path": "config/jei/jei-colors.ini"
           }
         },
@@ -4496,7 +4492,6 @@
           "artifact": {
             "size": 918,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/jei/jei-debug.ini",
-            "MD5": "4dd10e2f07441d4820fe65e804aac24c",
             "path": "config/jei/jei-debug.ini"
           }
         },
@@ -4507,7 +4502,6 @@
           "artifact": {
             "size": 463,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/jei/jei-mod-id-format.ini",
-            "MD5": "457dca8722dc66e695196c24fba7875f",
             "path": "config/jei/jei-mod-id-format.ini"
           }
         },
@@ -4518,7 +4512,6 @@
           "artifact": {
             "size": 2789,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "1abd5e8b553232a3ece08b4464ffb7ca",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
         },
@@ -25332,13 +25325,13 @@
           }
         },
         {
-          "id": "com.atila:atilas_armors:2.3.0@jar",
+          "id": "com.atila:atilas_armors:2.3.1@jar",
           "name": "Atila's Armors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 403868,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/atilas_armors-2.3.0.jar",
-            "MD5": "cfb2b63ce0c9c1814e866216f2927b1f"
+            "size": 405174,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/atilas_armors-2.3.1.jar",
+            "MD5": "f9aa1183411a9c7033c93fc0acda7719"
           }
         },
         {
@@ -29151,7 +29144,6 @@
           "artifact": {
             "size": 1333,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "25029a301974c321aad489f0a704293f",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -29162,7 +29154,6 @@
           "artifact": {
             "size": 74,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
-            "MD5": "9256ba0b170fac4934f83a4e789d14a8",
             "path": "config/jei/ingredient-list-type-sort-order.ini"
           }
         },
@@ -29173,7 +29164,6 @@
           "artifact": {
             "size": 7991,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/jei/jei-client.ini",
-            "MD5": "81c1f04ca66332819d0805e5323f3e4a",
             "path": "config/jei/jei-client.ini"
           }
         },
@@ -29184,7 +29174,6 @@
           "artifact": {
             "size": 1338,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/jei/jei-colors.ini",
-            "MD5": "54322062602d3aabb6b11455e07de765",
             "path": "config/jei/jei-colors.ini"
           }
         },
@@ -29195,7 +29184,6 @@
           "artifact": {
             "size": 918,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/jei/jei-debug.ini",
-            "MD5": "4dd10e2f07441d4820fe65e804aac24c",
             "path": "config/jei/jei-debug.ini"
           }
         },
@@ -29206,7 +29194,6 @@
           "artifact": {
             "size": 463,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/jei/jei-mod-id-format.ini",
-            "MD5": "457dca8722dc66e695196c24fba7875f",
             "path": "config/jei/jei-mod-id-format.ini"
           }
         },
@@ -29217,7 +29204,6 @@
           "artifact": {
             "size": 2789,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "1abd5e8b553232a3ece08b4464ffb7ca",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
         },
