@@ -563,13 +563,13 @@
           }
         },
         {
-          "id": "com.atila:atilas_armors:2.3.1@jar",
+          "id": "com.atila:atilas_armors:2.3.2@jar",
           "name": "Atila's Armors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 405174,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/atilas_armors-2.3.1.jar",
-            "MD5": "f9aa1183411a9c7033c93fc0acda7719"
+            "size": 407929,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/atilas_armors-2.3.2.jar",
+            "MD5": "324f107aca29bc0f8725493ac1868e9a"
           }
         },
         {
@@ -25315,13 +25315,13 @@
           }
         },
         {
-          "id": "com.atila:atilas_armors:2.3.1@jar",
+          "id": "com.atila:atilas_armors:2.3.2@jar",
           "name": "Atila's Armors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 405174,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/atilas_armors-2.3.1.jar",
-            "MD5": "f9aa1183411a9c7033c93fc0acda7719"
+            "size": 407929,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/atilas_armors-2.3.2.jar",
+            "MD5": "324f107aca29bc0f8725493ac1868e9a"
           }
         },
         {
