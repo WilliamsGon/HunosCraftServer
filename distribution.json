@@ -2363,16 +2363,6 @@
           }
         },
         {
-          "id": "ca.spottedleaf:starlight:1.1.2+forge.1cda73c@jar",
-          "name": "Starlight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 110583,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/starlight-1.1.2+forge.1cda73c.jar",
-            "MD5": "da99a054428fb62342b6767b993c4c8d"
-          }
-        },
-        {
           "id": "fuzs.stoneworks:stoneworks:8.0.0@jar",
           "name": "Stoneworks",
           "type": "ForgeMod",
@@ -27072,16 +27062,6 @@
             "size": 1607487,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.3.57.2069.jar",
             "MD5": "e8df155270463a68048c0b811da2052c"
-          }
-        },
-        {
-          "id": "ca.spottedleaf:starlight:1.1.2+forge.1cda73c@jar",
-          "name": "Starlight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 110583,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/starlight-1.1.2+forge.1cda73c.jar",
-            "MD5": "da99a054428fb62342b6767b993c4c8d"
           }
         },
         {
