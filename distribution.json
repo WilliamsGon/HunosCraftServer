@@ -2657,9 +2657,9 @@
           "name": "Waystones",
           "type": "ForgeMod",
           "artifact": {
-            "size": 539915,
+            "size": 540161,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.20.jar",
-            "MD5": "b469b86d17c58fad2ec2b0f0d5b62fe8"
+            "MD5": "56dac752e39a420b57a61fc4d47860f6"
           }
         },
         {
@@ -27349,9 +27349,9 @@
           "name": "Waystones",
           "type": "ForgeMod",
           "artifact": {
-            "size": 539915,
+            "size": 540161,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.20.jar",
-            "MD5": "b469b86d17c58fad2ec2b0f0d5b62fe8"
+            "MD5": "56dac752e39a420b57a61fc4d47860f6"
           }
         },
         {
