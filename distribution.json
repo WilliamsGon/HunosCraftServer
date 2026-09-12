@@ -1283,6 +1283,19 @@
           }
         },
         {
+          "id": "com.euphoriapatches:euphoria_patcher:1.10.1-r5.9.1-forge@jar",
+          "name": "Euphoria Patcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4516366,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/optionalon/EuphoriaPatcher-1.10.1-r5.9.1-forge.jar",
+            "MD5": "07e4547a63f1a05c90591289bd6d7617"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.alshanex:familiarslib:1.20.1-1.6@jar",
           "name": "FamiliarsLib",
           "type": "ForgeMod",
@@ -24767,6 +24780,17 @@
           }
         },
         {
+          "id": "Skygleam Shaders V3.1.zip",
+          "name": "Skygleam Shaders V3.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1054811,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/Skygleam%20Shaders%20V3.1.zip",
+            "MD5": "72c5c4e9b906726f3407d45072c41b47",
+            "path": "shaderpacks/Skygleam Shaders V3.1.zip"
+          }
+        },
+        {
           "id": "Solas Shader V3.6.zip",
           "name": "Solas Shader V3.6.zip",
           "type": "File",
@@ -24775,6 +24799,17 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/Solas%20Shader%20V3.6.zip",
             "MD5": "5346494db593aac5da674b441cd86dd8",
             "path": "shaderpacks/Solas Shader V3.6.zip"
+          }
+        },
+        {
+          "id": "TrueLightFX Lite v5.6.2.zip",
+          "name": "TrueLightFX Lite v5.6.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 44480,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/TrueLightFX%20Lite%20v5.6.2.zip",
+            "MD5": "b7b00df1cf4935049f326ce72844d2b3",
+            "path": "shaderpacks/TrueLightFX Lite v5.6.2.zip"
           }
         }
       ]
@@ -49304,6 +49339,28 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/servers.dat",
             "MD5": "331a2407c77efd4d9beab4f93c27b531",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "Skygleam Shaders V3.1.zip",
+          "name": "Skygleam Shaders V3.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1054811,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/shaderpacks/Skygleam%20Shaders%20V3.1.zip",
+            "MD5": "72c5c4e9b906726f3407d45072c41b47",
+            "path": "shaderpacks/Skygleam Shaders V3.1.zip"
+          }
+        },
+        {
+          "id": "TrueLightFX Lite v5.6.2.zip",
+          "name": "TrueLightFX Lite v5.6.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 44480,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/shaderpacks/TrueLightFX%20Lite%20v5.6.2.zip",
+            "MD5": "b7b00df1cf4935049f326ce72844d2b3",
+            "path": "shaderpacks/TrueLightFX Lite v5.6.2.zip"
           }
         }
       ]
