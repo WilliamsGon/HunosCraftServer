@@ -24706,35 +24706,25 @@
           }
         },
         {
-          "id": "ComplementaryReimagined_r5.8.1.zip",
-          "name": "ComplementaryReimagined_r5.8.1.zip",
+          "id": "ComplementaryReimagined_r5.9.1.zip",
+          "name": "ComplementaryReimagined_r5.9.1.zip",
           "type": "File",
           "artifact": {
-            "size": 546925,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.8.1.zip",
-            "MD5": "8dbb914ed233d6e8183ce34eb26beaab",
-            "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
+            "size": 552945,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.9.1.zip",
+            "MD5": "5cd436e5bebc013fa1781b3cd6a9aad6",
+            "path": "shaderpacks/ComplementaryReimagined_r5.9.1.zip"
           }
         },
         {
-          "id": "ComplementaryReimagined_r5.8.1.zip.txt",
-          "name": "ComplementaryReimagined_r5.8.1.zip.txt",
+          "id": "ComplementaryUnbound_r5.9.1.zip",
+          "name": "ComplementaryUnbound_r5.9.1.zip",
           "type": "File",
           "artifact": {
-            "size": 550,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt",
-            "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
-          }
-        },
-        {
-          "id": "ComplementaryUnbound_r5.8.1.zip",
-          "name": "ComplementaryUnbound_r5.8.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 546928,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
-            "MD5": "0a3553109dbe689a9f76d1aedc8f50c6",
-            "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip"
+            "size": 552949,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.9.1.zip",
+            "MD5": "af14f654ae0f496d0aaa2deac0faff65",
+            "path": "shaderpacks/ComplementaryUnbound_r5.9.1.zip"
           }
         },
         {
@@ -24749,16 +24739,6 @@
           }
         },
         {
-          "id": "PotatoShaders_v1.0d.zip.txt",
-          "name": "PotatoShaders_v1.0d.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 276,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/PotatoShaders_v1.0d.zip.txt",
-            "path": "shaderpacks/PotatoShaders_v1.0d.zip.txt"
-          }
-        },
-        {
           "id": "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip",
           "name": "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip",
           "type": "File",
@@ -24767,16 +24747,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Extreme-VL.zip",
             "MD5": "cffbb5d1e720f96358ab2173c72b938a",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Extreme-VL.zip"
-          }
-        },
-        {
-          "id": "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip.txt",
-          "name": "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 114,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Extreme-VL.zip.txt",
-            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Extreme-VL.zip.txt"
           }
         },
         {
