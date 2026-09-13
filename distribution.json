@@ -563,13 +563,13 @@
           }
         },
         {
-          "id": "com.atila:atilas_armors:2.3.4@jar",
+          "id": "com.atila:atilas_armors:2.3.5@jar",
           "name": "Atila's Armors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 415331,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/atilas_armors-2.3.4.jar",
-            "MD5": "7d09dea190a4a5d1bf673b19c1e86fcf"
+            "size": 421197,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/atilas_armors-2.3.5.jar",
+            "MD5": "48ee7d9a939e8a747a4cd64e43d8e444"
           }
         },
         {
@@ -597,9 +597,9 @@
           "name": "Atilas Utils",
           "type": "ForgeMod",
           "artifact": {
-            "size": 13006960,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/atilasutils-2.0.0.jar",
-            "MD5": "ba96da623a781f4b94438f50babde2d6"
+            "size": 13007482,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/atilasutils-2.0.1.jar",
+            "MD5": "f2056356c62ea584c12bf4b998fd565b"
           }
         },
         {
@@ -25370,13 +25370,13 @@
           }
         },
         {
-          "id": "com.atila:atilas_armors:2.3.4@jar",
+          "id": "com.atila:atilas_armors:2.3.5@jar",
           "name": "Atila's Armors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 415331,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/atilas_armors-2.3.4.jar",
-            "MD5": "7d09dea190a4a5d1bf673b19c1e86fcf"
+            "size": 421197,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/atilas_armors-2.3.5.jar",
+            "MD5": "48ee7d9a939e8a747a4cd64e43d8e444"
           }
         },
         {
@@ -25404,9 +25404,9 @@
           "name": "Atilas Utils",
           "type": "ForgeMod",
           "artifact": {
-            "size": 13006960,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/atilasutils-2.0.0.jar",
-            "MD5": "ba96da623a781f4b94438f50babde2d6"
+            "size": 13007482,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/atilasutils-2.0.1.jar",
+            "MD5": "f2056356c62ea584c12bf4b998fd565b"
           }
         },
         {
