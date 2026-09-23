@@ -433,6 +433,19 @@
           ]
         },
         {
+          "id": "de.delinked:absoluteafkcinema:1.0.0@jar",
+          "name": "Absolute AFK Cinema",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7299147,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/optionalon/absolute-afk-cinema-1.0.0-1.20.1-forge.jar",
+            "MD5": "9bd8742fc672edd4ce351eb580f6fd4a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "juuxel.adorn.platform:adorn:5.0.1+1.20.1@jar",
           "name": "Adorn",
           "type": "ForgeMod",
@@ -810,6 +823,19 @@
             "size": 11734,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/chunksending-1.20.1-2.8.jar",
             "MD5": "550fcf675d0039e7da8336e001db3732"
+          }
+        },
+        {
+          "id": "net.gamev:cinematic_respawn:1.4.0@jar",
+          "name": "Cinematic Respawn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26886,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/optionalon/cinematic_respawn-1.20.1-forge-1.4.0.jar",
+            "MD5": "94727f141ff1c9b2f167f4e99f5c17e9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -25210,6 +25236,19 @@
           ]
         },
         {
+          "id": "de.delinked:absoluteafkcinema:1.0.0@jar",
+          "name": "Absolute AFK Cinema",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7299147,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/optionalon/absolute-afk-cinema-1.0.0-1.20.1-forge.jar",
+            "MD5": "9bd8742fc672edd4ce351eb580f6fd4a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "juuxel.adorn.platform:adorn:5.0.1+1.20.1@jar",
           "name": "Adorn",
           "type": "ForgeMod",
@@ -25587,6 +25626,19 @@
             "size": 11734,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/chunksending-1.20.1-2.8.jar",
             "MD5": "550fcf675d0039e7da8336e001db3732"
+          }
+        },
+        {
+          "id": "net.gamev:cinematic_respawn:1.4.0@jar",
+          "name": "Cinematic Respawn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26886,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/optionalon/cinematic_respawn-1.20.1-forge-1.4.0.jar",
+            "MD5": "94727f141ff1c9b2f167f4e99f5c17e9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
