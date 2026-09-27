@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1788014570109
+  last_edited_time = 1790519696159
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:5d44bc8b-b6f2-4355-8d48-c65f4dddd964-1788014533140] = [groups:][instances:]
+  [loading_requirement_container_meta:7a669c65-2e7d-4a63-84ed-8891668007af-1790519558520] = [groups:][instances:]
 }
 
 menu_background {
@@ -55,8 +55,8 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 1024
-  auto_sizing_base_screen_height = 768
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 972
   sticky_anchor = false
   anchor_point = mid-centered
   x = -70
@@ -85,7 +85,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/logading_tripe_circle.gif
+  source = [source:local]/config/fancymenu/assets/145bb1c9bb47343fbf6b7f8cd929c04e.gif
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -102,14 +102,14 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1011
+  auto_sizing_base_screen_width = 1024
+  auto_sizing_base_screen_height = 768
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -62
-  y = -20
-  width = 122
-  height = 122
+  x = -30
+  y = -10
+  width = 65
+  height = 100
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -164,12 +164,12 @@ vanilla_button {
   base_opacity = 1.0
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1010
+  auto_sizing_base_screen_height = 972
   sticky_anchor = false
   anchor_point = vanilla
-  x = 152
-  y = 275
-  width = 336
+  x = 64
+  y = 314
+  width = 384
   height = 10
   stretch_x = false
   stretch_y = false
@@ -230,10 +230,10 @@ vanilla_button {
   auto_sizing_base_screen_height = 768
   sticky_anchor = false
   anchor_point = vanilla
-  x = 152
-  y = 126
-  width = 336
-  height = 84
+  x = 64
+  y = 144
+  width = 384
+  height = 96
   stretch_x = false
   stretch_y = false
   stay_on_screen = true

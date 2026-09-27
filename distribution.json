@@ -3616,6 +3616,17 @@
           }
         },
         {
+          "id": "0.jpg",
+          "name": "0.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 4426290,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/assets/0.jpg",
+            "MD5": "aeb979f2ad5c1c41c728e00facdaaf10",
+            "path": "config/fancymenu/assets/0.jpg"
+          }
+        },
+        {
           "id": "1.gif",
           "name": "1.gif",
           "type": "File",
@@ -3701,6 +3712,50 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/assets/bee_baby.gif",
             "MD5": "5545c347cba8f039bf578aa26c9490c2",
             "path": "config/fancymenu/assets/bee_baby.gif"
+          }
+        },
+        {
+          "id": "black_btn_1.png",
+          "name": "black_btn_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 270971,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/assets/black_btn_1.png",
+            "MD5": "d7a36f0715c6190ba5d7977c21c6f481",
+            "path": "config/fancymenu/assets/black_btn_1.png"
+          }
+        },
+        {
+          "id": "black_btn_2.png",
+          "name": "black_btn_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 294160,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/assets/black_btn_2.png",
+            "MD5": "b5a59a38a9d577136b5efd1b95c74500",
+            "path": "config/fancymenu/assets/black_btn_2.png"
+          }
+        },
+        {
+          "id": "black_btn_3.png",
+          "name": "black_btn_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 277518,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/assets/black_btn_3.png",
+            "MD5": "f9bc1d33e7053c763ddfa4ce22cfb601",
+            "path": "config/fancymenu/assets/black_btn_3.png"
+          }
+        },
+        {
+          "id": "black_btn_4.png",
+          "name": "black_btn_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 296666,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/assets/black_btn_4.png",
+            "MD5": "b033ae9b47f07c1b8287bc76bd5451a9",
+            "path": "config/fancymenu/assets/black_btn_4.png"
           }
         },
         {
@@ -3840,9 +3895,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 285,
+            "size": 271,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "7b47806787eb982bc7f6cdd2078e7221",
+            "MD5": "dcc9adedfef92b9ab9b316b7c60f7bcf",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -3851,9 +3906,9 @@
           "name": "drippy_loading_overlay_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 8342,
+            "size": 8348,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-            "MD5": "4d24e12f2f139c03604bde881ee172a8",
+            "MD5": "f0e50acb8111a7b402cab9c5d7bbf69f",
             "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
           }
         },
@@ -3862,9 +3917,9 @@
           "name": "hunoscraft2_1.txt",
           "type": "File",
           "artifact": {
-            "size": 40047,
+            "size": 40046,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "930e1ff306d8106bb352825576236e8d",
+            "MD5": "92532769062efa540c06b164cce5f020",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },
@@ -28346,6 +28401,17 @@
           }
         },
         {
+          "id": "0.jpg",
+          "name": "0.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 4426290,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/assets/0.jpg",
+            "MD5": "aeb979f2ad5c1c41c728e00facdaaf10",
+            "path": "config/fancymenu/assets/0.jpg"
+          }
+        },
+        {
           "id": "1.gif",
           "name": "1.gif",
           "type": "File",
@@ -28431,6 +28497,50 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/assets/bee_baby.gif",
             "MD5": "5545c347cba8f039bf578aa26c9490c2",
             "path": "config/fancymenu/assets/bee_baby.gif"
+          }
+        },
+        {
+          "id": "black_btn_1.png",
+          "name": "black_btn_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 270971,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/assets/black_btn_1.png",
+            "MD5": "d7a36f0715c6190ba5d7977c21c6f481",
+            "path": "config/fancymenu/assets/black_btn_1.png"
+          }
+        },
+        {
+          "id": "black_btn_2.png",
+          "name": "black_btn_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 294160,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/assets/black_btn_2.png",
+            "MD5": "b5a59a38a9d577136b5efd1b95c74500",
+            "path": "config/fancymenu/assets/black_btn_2.png"
+          }
+        },
+        {
+          "id": "black_btn_3.png",
+          "name": "black_btn_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 277518,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/assets/black_btn_3.png",
+            "MD5": "f9bc1d33e7053c763ddfa4ce22cfb601",
+            "path": "config/fancymenu/assets/black_btn_3.png"
+          }
+        },
+        {
+          "id": "black_btn_4.png",
+          "name": "black_btn_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 296666,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/assets/black_btn_4.png",
+            "MD5": "b033ae9b47f07c1b8287bc76bd5451a9",
+            "path": "config/fancymenu/assets/black_btn_4.png"
           }
         },
         {
@@ -28570,9 +28680,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 285,
+            "size": 271,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "7b47806787eb982bc7f6cdd2078e7221",
+            "MD5": "dcc9adedfef92b9ab9b316b7c60f7bcf",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -28581,9 +28691,9 @@
           "name": "drippy_loading_overlay_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 8342,
+            "size": 8348,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-            "MD5": "4d24e12f2f139c03604bde881ee172a8",
+            "MD5": "f0e50acb8111a7b402cab9c5d7bbf69f",
             "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
           }
         },
@@ -28592,9 +28702,9 @@
           "name": "hunoscraft2_1.txt",
           "type": "File",
           "artifact": {
-            "size": 40047,
+            "size": 40046,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "930e1ff306d8106bb352825576236e8d",
+            "MD5": "92532769062efa540c06b164cce5f020",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },
