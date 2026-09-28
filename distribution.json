@@ -24604,9 +24604,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 16759,
+            "size": 16701,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/options.txt",
-            "MD5": "ef87d4a82fdc7dbf0332157037868248",
             "path": "options.txt"
           }
         },
@@ -24762,17 +24761,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/resourcepacks/VanillaTweaks_r583793_MC1.20.x.zip",
             "MD5": "d16b23365a1700457d56e0b3b8845caa",
             "path": "resourcepacks/VanillaTweaks_r583793_MC1.20.x.zip"
-          }
-        },
-        {
-          "id": "Visual Titles 1.3.zip",
-          "name": "Visual Titles 1.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 444982,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/resourcepacks/Visual%20Titles%201.3.zip",
-            "MD5": "ca3cbb3f4f0cef9110b88a79a0a6f474",
-            "path": "resourcepacks/Visual Titles 1.3.zip"
           }
         },
         {
@@ -49412,9 +49400,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 16759,
+            "size": 16701,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/options.txt",
-            "MD5": "ef87d4a82fdc7dbf0332157037868248",
             "path": "options.txt"
           }
         },
