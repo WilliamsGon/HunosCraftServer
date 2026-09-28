@@ -12,7 +12,7 @@
       "name": "Hunos (Minecraft 1.20.1)",
       "description": "Hunos Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "play.ikmev.net:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -24606,7 +24606,6 @@
           "artifact": {
             "size": 16759,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/options.txt",
-            "MD5": "ef87d4a82fdc7dbf0332157037868248",
             "path": "options.txt"
           }
         },
@@ -24903,7 +24902,7 @@
       "name": "HunosLite (Minecraft 1.20.1)",
       "description": "HunosLite Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "play.ikmev.net:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -49414,7 +49413,6 @@
           "artifact": {
             "size": 16759,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/options.txt",
-            "MD5": "ef87d4a82fdc7dbf0332157037868248",
             "path": "options.txt"
           }
         },
