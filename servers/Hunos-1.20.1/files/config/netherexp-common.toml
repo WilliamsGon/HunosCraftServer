@@ -86,7 +86,7 @@
 	diminishing_blazes = true
 	#Magma Cube texture changes depending on it's size so that it's no longer mixels 
 	#The New Textures used are from FaithFul 32x and 64x respectively
-	pixel_consistent_magma_cubes = true
+	pixel_consistent_magma_cubes = false
 	#Skeletons when killed fossilize soul soil blocks underneath into Fossil Ore
 	skeleton_fossilization = true
 	#Wither Skeletons when killed fossilize soul soil blocks underneath into Fossil Fuel Ore
