@@ -12,7 +12,7 @@
       "name": "Hunos (Minecraft 1.20.1)",
       "description": "Hunos Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "play.ikmev.net:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -24891,7 +24891,7 @@
       "name": "HunosLite (Minecraft 1.20.1)",
       "description": "HunosLite Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "play.ikmev.net:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
