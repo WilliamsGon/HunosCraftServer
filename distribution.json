@@ -12,7 +12,7 @@
       "name": "Hunos (Minecraft 1.20.1)",
       "description": "Hunos Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "play.ikmev.net:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -24629,6 +24629,7 @@
           "artifact": {
             "size": 17126,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/options.txt",
+            "MD5": "d6e6f634b59728b3275ebbde4cac4261",
             "path": "options.txt"
           }
         },
@@ -24958,7 +24959,7 @@
       "name": "HunosLite (Minecraft 1.20.1)",
       "description": "HunosLite Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "play.ikmev.net:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -25639,6 +25640,16 @@
             "size": 391010,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/blockui-1.20.1-1.0.193.jar",
             "MD5": "b8cbcddb7e1ff76483e5f7045300ce97"
+          }
+        },
+        {
+          "id": "com.yourname:bloodmoon:1.5.0@jar",
+          "name": "Bloodmoon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78843,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/bloodmoon-1.5.jar",
+            "MD5": "19b796dca1fff7ab47a24484b4f716a6"
           }
         },
         {
@@ -49482,6 +49493,7 @@
           "artifact": {
             "size": 17126,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/options.txt",
+            "MD5": "d6e6f634b59728b3275ebbde4cac4261",
             "path": "options.txt"
           }
         },
