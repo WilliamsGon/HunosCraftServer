@@ -5081,6 +5081,39 @@
           }
         },
         {
+          "id": "merged_animation_selection.json",
+          "name": "merged_animation_selection.json",
+          "type": "File",
+          "artifact": {
+            "size": 2779,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/punchy/merged_animation_selection.json",
+            "MD5": "abe0c4fb636f22f4981be863aef4ba19",
+            "path": "config/punchy/merged_animation_selection.json"
+          }
+        },
+        {
+          "id": "punchy_config.json",
+          "name": "punchy_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1389,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/punchy/punchy_config.json",
+            "MD5": "f1a2446a20665270ca8d621f2106b648",
+            "path": "config/punchy/punchy_config.json"
+          }
+        },
+        {
+          "id": "triggerable-keybindings.json",
+          "name": "triggerable-keybindings.json",
+          "type": "File",
+          "artifact": {
+            "size": 101,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/punchy/triggerable-keybindings.json",
+            "MD5": "a626d10d16fc9c3755442a735b7fd508",
+            "path": "config/punchy/triggerable-keybindings.json"
+          }
+        },
+        {
           "id": "quark-common.toml",
           "name": "quark-common.toml",
           "type": "File",
@@ -29942,6 +29975,39 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/ponder-client.toml",
             "MD5": "e923797057f201aaabb470187e768971",
             "path": "config/ponder-client.toml"
+          }
+        },
+        {
+          "id": "merged_animation_selection.json",
+          "name": "merged_animation_selection.json",
+          "type": "File",
+          "artifact": {
+            "size": 2779,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/punchy/merged_animation_selection.json",
+            "MD5": "abe0c4fb636f22f4981be863aef4ba19",
+            "path": "config/punchy/merged_animation_selection.json"
+          }
+        },
+        {
+          "id": "punchy_config.json",
+          "name": "punchy_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1389,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/punchy/punchy_config.json",
+            "MD5": "f1a2446a20665270ca8d621f2106b648",
+            "path": "config/punchy/punchy_config.json"
+          }
+        },
+        {
+          "id": "triggerable-keybindings.json",
+          "name": "triggerable-keybindings.json",
+          "type": "File",
+          "artifact": {
+            "size": 101,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/punchy/triggerable-keybindings.json",
+            "MD5": "a626d10d16fc9c3755442a735b7fd508",
+            "path": "config/punchy/triggerable-keybindings.json"
           }
         },
         {
