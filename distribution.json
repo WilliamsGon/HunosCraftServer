@@ -2082,6 +2082,16 @@
           }
         },
         {
+          "id": "net.darkhax:openloader:19.0.5@jar",
+          "name": "OpenLoader",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23937,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/OpenLoader-Forge-1.20.1-19.0.5.jar",
+            "MD5": "2aea0c0fba23c4e9e3d387c6aeefdb62"
+          }
+        },
+        {
           "id": "com.natamus:oreharvester:1.5@jar",
           "name": "Ore Harvester",
           "type": "ForgeMod",
@@ -4979,6 +4989,28 @@
             "size": 292,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/oculus.properties",
             "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "advanced_options.json",
+          "name": "advanced_options.json",
+          "type": "File",
+          "artifact": {
+            "size": 177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/openloader/advanced_options.json",
+            "MD5": "01c2e94c2404666f120a9568bec49673",
+            "path": "config/openloader/advanced_options.json"
+          }
+        },
+        {
+          "id": "hunoscraft-resource-pack.zip",
+          "name": "hunoscraft-resource-pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 57074813,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/openloader/resources/hunoscraft-resource-pack.zip",
+            "MD5": "576b371befed2f5694c7878ae90782aa",
+            "path": "config/openloader/resources/hunoscraft-resource-pack.zip"
           }
         },
         {
@@ -24662,7 +24694,6 @@
           "artifact": {
             "size": 17126,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/options.txt",
-            "MD5": "d6e6f634b59728b3275ebbde4cac4261",
             "path": "options.txt"
           }
         },
@@ -27016,6 +27047,16 @@
             "size": 2851119,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
+          "id": "net.darkhax:openloader:19.0.5@jar",
+          "name": "OpenLoader",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23937,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/OpenLoader-Forge-1.20.1-19.0.5.jar",
+            "MD5": "2aea0c0fba23c4e9e3d387c6aeefdb62"
           }
         },
         {
@@ -29876,6 +29917,28 @@
             "size": 292,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/oculus.properties",
             "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "advanced_options.json",
+          "name": "advanced_options.json",
+          "type": "File",
+          "artifact": {
+            "size": 177,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/openloader/advanced_options.json",
+            "MD5": "01c2e94c2404666f120a9568bec49673",
+            "path": "config/openloader/advanced_options.json"
+          }
+        },
+        {
+          "id": "hunoscraft-resource-pack.zip",
+          "name": "hunoscraft-resource-pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 57074813,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/openloader/resources/hunoscraft-resource-pack.zip",
+            "MD5": "576b371befed2f5694c7878ae90782aa",
+            "path": "config/openloader/resources/hunoscraft-resource-pack.zip"
           }
         },
         {
@@ -49559,7 +49622,6 @@
           "artifact": {
             "size": 17126,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/options.txt",
-            "MD5": "d6e6f634b59728b3275ebbde4cac4261",
             "path": "options.txt"
           }
         },
