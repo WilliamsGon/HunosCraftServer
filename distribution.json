@@ -24699,6 +24699,17 @@
           }
         },
         {
+          "id": "Better-Leaves-9.6.zip",
+          "name": "Better-Leaves-9.6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1977146,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/resourcepacks/Better-Leaves-9.6.zip",
+            "MD5": "2dc9b8d56a75fbeb7504494b42cec4fb",
+            "path": "resourcepacks/Better-Leaves-9.6.zip"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
@@ -49416,6 +49427,17 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/options.txt",
             "MD5": "c8e7c9dbe1e19ad642d330e6347fc293",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Better-Leaves-9.6.zip",
+          "name": "Better-Leaves-9.6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1977146,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/resourcepacks/Better-Leaves-9.6.zip",
+            "MD5": "2dc9b8d56a75fbeb7504494b42cec4fb",
+            "path": "resourcepacks/Better-Leaves-9.6.zip"
           }
         },
         {
