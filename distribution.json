@@ -3682,6 +3682,17 @@
           }
         },
         {
+          "id": "2.jpg",
+          "name": "2.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 849974,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/assets/2.jpg",
+            "MD5": "59be279a32d7904d90b9e8ee1e1b3e11",
+            "path": "config/fancymenu/assets/2.jpg"
+          }
+        },
+        {
           "id": "74cd0a2133024529cc7a7cc1ddec1f41.gif",
           "name": "74cd0a2133024529cc7a7cc1ddec1f41.gif",
           "type": "File",
@@ -3952,7 +3963,7 @@
           "artifact": {
             "size": 40046,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "92532769062efa540c06b164cce5f020",
+            "MD5": "c24b803064cc7a551a1892de3296043d",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },
@@ -28434,6 +28445,17 @@
           }
         },
         {
+          "id": "2.jpg",
+          "name": "2.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 849974,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/assets/2.jpg",
+            "MD5": "59be279a32d7904d90b9e8ee1e1b3e11",
+            "path": "config/fancymenu/assets/2.jpg"
+          }
+        },
+        {
           "id": "74cd0a2133024529cc7a7cc1ddec1f41.gif",
           "name": "74cd0a2133024529cc7a7cc1ddec1f41.gif",
           "type": "File",
@@ -28704,7 +28726,7 @@
           "artifact": {
             "size": 40046,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "92532769062efa540c06b164cce5f020",
+            "MD5": "c24b803064cc7a551a1892de3296043d",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },

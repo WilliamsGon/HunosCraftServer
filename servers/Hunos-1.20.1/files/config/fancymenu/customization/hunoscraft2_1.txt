@@ -24,7 +24,7 @@ customization {
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/0.jpg
+  image_path = [source:local]/config/fancymenu/assets/2.jpg
   slide = false
   repeat_texture = false
   parallax = false
