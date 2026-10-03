@@ -616,6 +616,16 @@
           }
         },
         {
+          "id": "net.smileycorp.atlas:atlaslib:1.1.12@jar",
+          "name": "Atlas Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 124436,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/Atlas%20Lib-1.20.1-1.1.12.jar",
+            "MD5": "b63616d984991ee60d313938143eda3f"
+          }
+        },
+        {
           "id": "net.darkhax:attributefix:21.0.5@jar",
           "name": "AttributeFix",
           "type": "ForgeMod",
@@ -2542,6 +2552,16 @@
             "size": 56319869,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/the_deep_void-1.97.4-forge-1.20.1.jar",
             "MD5": "d41513ffe5a5b52f9a49a0dad49c186b"
+          }
+        },
+        {
+          "id": "net.smileycorp:hordes:1.6.3g@jar",
+          "name": "The Hordes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 619598,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/The-Hordes-1.20.1-1.6.3i-all.jar.disabled",
+            "MD5": "97c814ade8c5abf4141b457b0733a6d5"
           }
         },
         {
@@ -25462,6 +25482,16 @@
           }
         },
         {
+          "id": "net.smileycorp.atlas:atlaslib:1.1.12@jar",
+          "name": "Atlas Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 124436,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/Atlas%20Lib-1.20.1-1.1.12.jar",
+            "MD5": "b63616d984991ee60d313938143eda3f"
+          }
+        },
+        {
           "id": "net.darkhax:attributefix:21.0.5@jar",
           "name": "AttributeFix",
           "type": "ForgeMod",
@@ -27325,6 +27355,16 @@
             "size": 56319869,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/the_deep_void-1.97.4-forge-1.20.1.jar",
             "MD5": "d41513ffe5a5b52f9a49a0dad49c186b"
+          }
+        },
+        {
+          "id": "net.smileycorp:hordes:1.6.3g@jar",
+          "name": "The Hordes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 619598,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/The-Hordes-1.20.1-1.6.3i-all.jar.disabled",
+            "MD5": "97c814ade8c5abf4141b457b0733a6d5"
           }
         },
         {
