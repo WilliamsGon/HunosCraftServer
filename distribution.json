@@ -5003,6 +5003,28 @@
           }
         },
         {
+          "id": "Better Enchanting Table v.2.2 (1.13 - 1.21.8).zip",
+          "name": "Better Enchanting Table v.2.2 (1.13 - 1.21.8).zip",
+          "type": "File",
+          "artifact": {
+            "size": 160968,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/openloader/resources/Better%20Enchanting%20Table%20v.2.2%20(1.13%20-%201.21.8).zip",
+            "MD5": "f389b9a981b766c1bb906f483ab5d622",
+            "path": "config/openloader/resources/Better Enchanting Table v.2.2 (1.13 - 1.21.8).zip"
+          }
+        },
+        {
+          "id": "Enchanting Table Magic Circle v.2.5 (1.19 - 1.20.4).zip",
+          "name": "Enchanting Table Magic Circle v.2.5 (1.19 - 1.20.4).zip",
+          "type": "File",
+          "artifact": {
+            "size": 28824885,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/openloader/resources/Enchanting%20Table%20Magic%20Circle%20v.2.5%20(1.19%20-%201.20.4).zip",
+            "MD5": "f2fb8356ed35d4586ff2b44591df1b5d",
+            "path": "config/openloader/resources/Enchanting Table Magic Circle v.2.5 (1.19 - 1.20.4).zip"
+          }
+        },
+        {
           "id": "hunoscraft-resource-pack.zip",
           "name": "hunoscraft-resource-pack.zip",
           "type": "File",
@@ -29730,6 +29752,28 @@
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/openloader/advanced_options.json",
             "MD5": "01c2e94c2404666f120a9568bec49673",
             "path": "config/openloader/advanced_options.json"
+          }
+        },
+        {
+          "id": "Better Enchanting Table v.2.2 (1.13 - 1.21.8).zip",
+          "name": "Better Enchanting Table v.2.2 (1.13 - 1.21.8).zip",
+          "type": "File",
+          "artifact": {
+            "size": 160968,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/openloader/resources/Better%20Enchanting%20Table%20v.2.2%20(1.13%20-%201.21.8).zip",
+            "MD5": "f389b9a981b766c1bb906f483ab5d622",
+            "path": "config/openloader/resources/Better Enchanting Table v.2.2 (1.13 - 1.21.8).zip"
+          }
+        },
+        {
+          "id": "Enchanting Table Magic Circle v.2.5 (1.19 - 1.20.4).zip",
+          "name": "Enchanting Table Magic Circle v.2.5 (1.19 - 1.20.4).zip",
+          "type": "File",
+          "artifact": {
+            "size": 28824885,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/openloader/resources/Enchanting%20Table%20Magic%20Circle%20v.2.5%20(1.19%20-%201.20.4).zip",
+            "MD5": "f2fb8356ed35d4586ff2b44591df1b5d",
+            "path": "config/openloader/resources/Enchanting Table Magic Circle v.2.5 (1.19 - 1.20.4).zip"
           }
         },
         {
