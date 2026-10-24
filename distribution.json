@@ -1362,6 +1362,16 @@
           }
         },
         {
+          "id": "info.dimensionsintime:expandedfuels:0.1-1.20.1@jar",
+          "name": "Expanded Fuels",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78424,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/expandedfuels-0.1-1.20.1.jar",
+            "MD5": "e74c445161527cf5ad0213a1e5c92dc6"
+          }
+        },
+        {
           "id": "net.alshanex:familiarslib:1.20.1-1.6@jar",
           "name": "FamiliarsLib",
           "type": "ForgeMod",
@@ -26202,6 +26212,16 @@
             "size": 1569588,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/entityculling-forge-1.9.5-mc1.20.1.jar",
             "MD5": "9de621a952ae3f73774bad91e6f4c718"
+          }
+        },
+        {
+          "id": "info.dimensionsintime:expandedfuels:0.1-1.20.1@jar",
+          "name": "Expanded Fuels",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78424,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/expandedfuels-0.1-1.20.1.jar",
+            "MD5": "e74c445161527cf5ad0213a1e5c92dc6"
           }
         },
         {
