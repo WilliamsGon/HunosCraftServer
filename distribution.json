@@ -666,6 +666,26 @@
           }
         },
         {
+          "id": "org.betterx:bclib:20.0.16@jar",
+          "name": "BCLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2259572,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/BCLib-20.0.16-forge.jar",
+            "MD5": "fe7b15efb092e005080da17543980098"
+          }
+        },
+        {
+          "id": "generated.forgemod:better_cities_better_end_1_16_1_20:1.16.5-1.20.6@jar",
+          "name": "Better End Cities for Better End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1449138,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/better-cities-better-end-1.16-1.20.jar",
+            "MD5": "0609796f7423a23fc9343b94a9e98f57"
+          }
+        },
+        {
           "id": "com.betterchunkloading:betterchunkloading:1.20.1-5.4@jar",
           "name": "Betterchunkloading mod",
           "type": "ForgeMod",
@@ -673,6 +693,26 @@
             "size": 55968,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/betterchunkloading-1.20.1-5.4.jar",
             "MD5": "0ec0d97c0f52b5b13762b293189487af"
+          }
+        },
+        {
+          "id": "org.betterx:betterend:20.0.13@jar",
+          "name": "Better End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 97638057,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/BetterEnd-20.0.13-forge.jar",
+            "MD5": "6c9bfd846a89690242adf8fca7761b75"
+          }
+        },
+        {
+          "id": "net.architects:biggerendcities:1.20.1-1.0.0@jar",
+          "name": "Bigger Better End Cities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14192,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/biggerendcities-1.20.1-1.0.0.jar",
+            "MD5": "1dc19c80548bda65a32992f58c235862"
           }
         },
         {
@@ -783,6 +823,16 @@
             "size": 1173492,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/c2meforge-0.2.0-forge.3-all.jar",
             "MD5": "02108a553747101ca7a8f5a23844f57c"
+          }
+        },
+        {
+          "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
+          "name": "Caelus API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40125,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
+            "MD5": "e37854c44b1849b753afc4a205f31b46"
           }
         },
         {
@@ -1279,6 +1329,26 @@
           }
         },
         {
+          "id": "com.illusivesoulworks:elytraslot:6.4.4+1.20.1@jar",
+          "name": "Elytra Slot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 100660,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/elytraslot-forge-6.4.4+1.20.1.jar",
+            "MD5": "54fd8868bbff9fc88befe9b32555dfe8"
+          }
+        },
+        {
+          "id": "dev.kikugie.elytratrims.platform:elytratrims:3.10.0@jar",
+          "name": "Elytra Trims",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1323700,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/elytratrims-forge-3.10.0+1.20.1.jar",
+            "MD5": "28767f4d5323f0d9ad89bacded2bd288"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -1306,6 +1376,26 @@
             "size": 66883,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
             "MD5": "82f3fc15d2b48e0bde064704e76a849a"
+          }
+        },
+        {
+          "id": "tech.alexnijjar:endermanoverhaul:1.0.4@jar",
+          "name": "Enderman Overhaul",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1208062,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/endermanoverhaul-forge-1.20.1-1.0.4.jar",
+            "MD5": "992f4f6fad129c6ff47b33b0365d485a"
+          }
+        },
+        {
+          "id": "net.mcreator:endlessbiomes:1.6.0@jar",
+          "name": "EndlessBiomes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2987983,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/EndlessBiomes%201.6.1%20-%201.20.1.jar",
+            "MD5": "1796b05122746383aa60f9c18642b84e"
           }
         },
         {
@@ -2072,6 +2162,16 @@
           }
         },
         {
+          "id": "generated.forgemod:nullscape:1.2.8@jar",
+          "name": "Nullscape",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 399214,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/Nullscape_1.20.x_v1.2.8.jar",
+            "MD5": "691a4526239d6b2b2525b40f209ec8a3"
+          }
+        },
+        {
           "id": "com.obscuria.obscureapi:obscure_api:18@jar",
           "name": "Obscure API",
           "type": "ForgeMod",
@@ -2262,13 +2362,13 @@
           }
         },
         {
-          "id": "punchy:punchy:2.8c@jar",
+          "id": "punchy:punchy:3.0@jar",
           "name": "Punchy",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1873512,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/optionalon/punchy-2.8c-forge-1.20.1.jar",
-            "MD5": "226b49c5352d7efb66a28b34cffbd3dd"
+            "size": 3075525,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/optionalon/punchy-3.0-forge-1.20.1-birthday.jar",
+            "MD5": "3ec60814547e296a6c8f6b21c51f6365"
           },
           "required": {
             "value": false
@@ -2432,6 +2532,16 @@
             "size": 14510,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/sit-1.20.1-1.3.5.jar",
             "MD5": "87f16ae5de8125e49f3740a45b3fc1c7"
+          }
+        },
+        {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.11.4@jar",
+          "name": "3d-Skin-Layers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2096322,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
+            "MD5": "a7c3c852c7082d4021a619218bd2542a"
           }
         },
         {
@@ -2695,6 +2805,16 @@
           }
         },
         {
+          "id": "generated.forgemod:mr_limesplatus_ending:1-v1.1.0c@jar",
+          "name": "True Ending: Ender Dragon Overhaul",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5525883,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/tru.e-ending-v1.1.0c.jar",
+            "MD5": "c83ccd876af0ac3cac72d2880b7c1a18"
+          }
+        },
+        {
           "id": "fuzs.universalbonemeal:universalbonemeal:8.0.1@jar",
           "name": "Universal Bone Meal",
           "type": "ForgeMod",
@@ -2702,6 +2822,16 @@
             "size": 85511,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar",
             "MD5": "908607035ad1d4193b252585db51fdbf"
+          }
+        },
+        {
+          "id": "net.mcreator:unusualend:2.3.1.2@jar",
+          "name": "Unusual End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20043102,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/forgemods/required/unusualend-2.3.1d.jar",
+            "MD5": "4e47a939f795976e03099596c382a786"
           }
         },
         {
@@ -25542,6 +25672,26 @@
           }
         },
         {
+          "id": "org.betterx:bclib:20.0.16@jar",
+          "name": "BCLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2259572,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/BCLib-20.0.16-forge.jar",
+            "MD5": "fe7b15efb092e005080da17543980098"
+          }
+        },
+        {
+          "id": "generated.forgemod:better_cities_better_end_1_16_1_20:1.16.5-1.20.6@jar",
+          "name": "Better End Cities for Better End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1449138,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/better-cities-better-end-1.16-1.20.jar",
+            "MD5": "0609796f7423a23fc9343b94a9e98f57"
+          }
+        },
+        {
           "id": "com.betterchunkloading:betterchunkloading:1.20.1-5.4@jar",
           "name": "Betterchunkloading mod",
           "type": "ForgeMod",
@@ -25549,6 +25699,26 @@
             "size": 55968,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/betterchunkloading-1.20.1-5.4.jar",
             "MD5": "0ec0d97c0f52b5b13762b293189487af"
+          }
+        },
+        {
+          "id": "org.betterx:betterend:20.0.13@jar",
+          "name": "Better End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 97638057,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/BetterEnd-20.0.13-forge.jar",
+            "MD5": "6c9bfd846a89690242adf8fca7761b75"
+          }
+        },
+        {
+          "id": "net.architects:biggerendcities:1.20.1-1.0.0@jar",
+          "name": "Bigger Better End Cities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14192,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/biggerendcities-1.20.1-1.0.0.jar",
+            "MD5": "1dc19c80548bda65a32992f58c235862"
           }
         },
         {
@@ -25659,6 +25829,16 @@
             "size": 1173492,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/c2meforge-0.2.0-forge.3-all.jar",
             "MD5": "02108a553747101ca7a8f5a23844f57c"
+          }
+        },
+        {
+          "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
+          "name": "Caelus API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40125,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
+            "MD5": "e37854c44b1849b753afc4a205f31b46"
           }
         },
         {
@@ -26145,6 +26325,26 @@
           }
         },
         {
+          "id": "com.illusivesoulworks:elytraslot:6.4.4+1.20.1@jar",
+          "name": "Elytra Slot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 100660,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/elytraslot-forge-6.4.4+1.20.1.jar",
+            "MD5": "54fd8868bbff9fc88befe9b32555dfe8"
+          }
+        },
+        {
+          "id": "dev.kikugie.elytratrims.platform:elytratrims:3.10.0@jar",
+          "name": "Elytra Trims",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1323700,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/elytratrims-forge-3.10.0+1.20.1.jar",
+            "MD5": "28767f4d5323f0d9ad89bacded2bd288"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -26172,6 +26372,26 @@
             "size": 66883,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
             "MD5": "82f3fc15d2b48e0bde064704e76a849a"
+          }
+        },
+        {
+          "id": "tech.alexnijjar:endermanoverhaul:1.0.4@jar",
+          "name": "Enderman Overhaul",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1208062,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/endermanoverhaul-forge-1.20.1-1.0.4.jar",
+            "MD5": "992f4f6fad129c6ff47b33b0365d485a"
+          }
+        },
+        {
+          "id": "net.mcreator:endlessbiomes:1.6.0@jar",
+          "name": "EndlessBiomes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2987983,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/EndlessBiomes%201.6.1%20-%201.20.1.jar",
+            "MD5": "1796b05122746383aa60f9c18642b84e"
           }
         },
         {
@@ -26915,6 +27135,16 @@
           }
         },
         {
+          "id": "generated.forgemod:nullscape:1.2.8@jar",
+          "name": "Nullscape",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 399214,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/Nullscape_1.20.x_v1.2.8.jar",
+            "MD5": "691a4526239d6b2b2525b40f209ec8a3"
+          }
+        },
+        {
           "id": "com.obscuria.obscureapi:obscure_api:18@jar",
           "name": "Obscure API",
           "type": "ForgeMod",
@@ -27085,13 +27315,13 @@
           }
         },
         {
-          "id": "punchy:punchy:2.8c@jar",
+          "id": "punchy:punchy:3.0@jar",
           "name": "Punchy",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1873512,
-            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/optionalon/punchy-2.8c-forge-1.20.1.jar",
-            "MD5": "226b49c5352d7efb66a28b34cffbd3dd"
+            "size": 3075525,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/optionalon/punchy-3.0-forge-1.20.1-birthday.jar",
+            "MD5": "3ec60814547e296a6c8f6b21c51f6365"
           },
           "required": {
             "value": false
@@ -27255,6 +27485,16 @@
             "size": 14510,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/sit-1.20.1-1.3.5.jar",
             "MD5": "87f16ae5de8125e49f3740a45b3fc1c7"
+          }
+        },
+        {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.11.4@jar",
+          "name": "3d-Skin-Layers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2096322,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
+            "MD5": "a7c3c852c7082d4021a619218bd2542a"
           }
         },
         {
@@ -27498,6 +27738,16 @@
           }
         },
         {
+          "id": "generated.forgemod:mr_limesplatus_ending:1-v1.1.0c@jar",
+          "name": "True Ending: Ender Dragon Overhaul",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5525883,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/tru.e-ending-v1.1.0c.jar",
+            "MD5": "c83ccd876af0ac3cac72d2880b7c1a18"
+          }
+        },
+        {
           "id": "fuzs.universalbonemeal:universalbonemeal:8.0.1@jar",
           "name": "Universal Bone Meal",
           "type": "ForgeMod",
@@ -27505,6 +27755,16 @@
             "size": 85511,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar",
             "MD5": "908607035ad1d4193b252585db51fdbf"
+          }
+        },
+        {
+          "id": "net.mcreator:unusualend:2.3.1.2@jar",
+          "name": "Unusual End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20043102,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/forgemods/required/unusualend-2.3.1d.jar",
+            "MD5": "4e47a939f795976e03099596c382a786"
           }
         },
         {
