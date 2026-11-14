@@ -3831,6 +3831,17 @@
           }
         },
         {
+          "id": "1.jpg",
+          "name": "1.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 4432218,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/assets/1.jpg",
+            "MD5": "937b54f070e2791b4f229a529108a460",
+            "path": "config/fancymenu/assets/1.jpg"
+          }
+        },
+        {
           "id": "145bb1c9bb47343fbf6b7f8cd929c04e.gif",
           "name": "145bb1c9bb47343fbf6b7f8cd929c04e.gif",
           "type": "File",
@@ -4121,9 +4132,9 @@
           "name": "hunoscraft2_1.txt",
           "type": "File",
           "artifact": {
-            "size": 40046,
+            "size": 40047,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "c24b803064cc7a551a1892de3296043d",
+            "MD5": "a4fcb4575d4d084ef1f6ef16245afa34",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },
@@ -4176,9 +4187,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2128,
+            "size": 2129,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "5a6568d80240d9912630a826e4ddd0ba",
+            "MD5": "54d17136026daae223a4b25a32155063",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -5200,9 +5211,9 @@
           "name": "hunoscraft-resource-pack.zip",
           "type": "File",
           "artifact": {
-            "size": 57074813,
+            "size": 59903853,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/Hunos-1.20.1/files/config/openloader/resources/hunoscraft-resource-pack.zip",
-            "MD5": "576b371befed2f5694c7878ae90782aa",
+            "MD5": "50f1f88e8d4fd6a3aa5010d611bc903a",
             "path": "config/openloader/resources/hunoscraft-resource-pack.zip"
           }
         },
@@ -28754,6 +28765,17 @@
           }
         },
         {
+          "id": "1.jpg",
+          "name": "1.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 4432218,
+            "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/assets/1.jpg",
+            "MD5": "937b54f070e2791b4f229a529108a460",
+            "path": "config/fancymenu/assets/1.jpg"
+          }
+        },
+        {
           "id": "145bb1c9bb47343fbf6b7f8cd929c04e.gif",
           "name": "145bb1c9bb47343fbf6b7f8cd929c04e.gif",
           "type": "File",
@@ -29044,9 +29066,9 @@
           "name": "hunoscraft2_1.txt",
           "type": "File",
           "artifact": {
-            "size": 40046,
+            "size": 40047,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/customization/hunoscraft2_1.txt",
-            "MD5": "c24b803064cc7a551a1892de3296043d",
+            "MD5": "a4fcb4575d4d084ef1f6ef16245afa34",
             "path": "config/fancymenu/customization/hunoscraft2_1.txt"
           }
         },
@@ -29099,9 +29121,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2128,
+            "size": 2129,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "5a6568d80240d9912630a826e4ddd0ba",
+            "MD5": "54d17136026daae223a4b25a32155063",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -30123,9 +30145,9 @@
           "name": "hunoscraft-resource-pack.zip",
           "type": "File",
           "artifact": {
-            "size": 57074813,
+            "size": 59903853,
             "url": "https://williamsgon.github.io/HunosCraftServer/servers/HunosLite-1.20.1/files/config/openloader/resources/hunoscraft-resource-pack.zip",
-            "MD5": "576b371befed2f5694c7878ae90782aa",
+            "MD5": "50f1f88e8d4fd6a3aa5010d611bc903a",
             "path": "config/openloader/resources/hunoscraft-resource-pack.zip"
           }
         },

@@ -4,12 +4,12 @@ layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = false
   last_edited_time = 1790519544896
-  is_enabled = true
+  is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:7fe72452-161c-473c-bd9c-4044416d2c57-1790519523112] = [groups:][instances:]
+  [loading_requirement_container_meta:e58953c7-f9b7-4834-a8e9-0e62e767094c-1793477074457] = [groups:][instances:]
 }
 
 customization {
@@ -24,7 +24,7 @@ customization {
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/2.jpg
+  image_path = [source:local]/config/fancymenu/assets/1.jpg
   slide = false
   repeat_texture = false
   parallax = false
@@ -60,9 +60,9 @@ element {
   button_element_executable_block_identifier = ace56978-6302-4b0f-9986-f3c06fa885d0-1744552272169
   [executable_action_instance:cd92bd68-527a-448a-b4c7-f45838989676-1744554007870][action_type:joinserver] = play.ikmev.net:25565
   [executable_block:ace56978-6302-4b0f-9986-f3c06fa885d0-1744552272169][type:generic] = [executables:cd92bd68-527a-448a-b4c7-f45838989676-1744554007870;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/black_btn_2.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/black_btn_2.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/black_btn_2.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/white_btn_2.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/white_btn_2.png
+  background_texture_inactive = [source:local]/config/fancymenu/assets/white_btn_2.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
@@ -252,9 +252,9 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 8e083129-6d72-4a3b-9fca-b9322c05220f-1744552234094
   [executable_block:8e083129-6d72-4a3b-9fca-b9322c05220f-1744552234094][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/black_btn_1.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/black_btn_1.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/black_btn_1.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/white_btn_1.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/white_btn_1.png
+  background_texture_inactive = [source:local]/config/fancymenu/assets/white_btn_1.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
@@ -571,9 +571,9 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 729e7719-3e35-4619-b4a6-9ed626d9d4f9-1744552234094
   [executable_block:729e7719-3e35-4619-b4a6-9ed626d9d4f9-1744552234094][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/black_btn_4.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/black_btn_4.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/black_btn_4.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/white_btn_4.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/white_btn_4.png
+  background_texture_inactive = [source:local]/config/fancymenu/assets/white_btn_4.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
@@ -953,9 +953,9 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = efb85b6a-3e21-48ac-8a61-635c6cf71405-1744552234094
   [executable_block:efb85b6a-3e21-48ac-8a61-635c6cf71405-1744552234094][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/black_btn_3.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/black_btn_3.png
-  background_texture_inactive = [source:location]black_btn_3.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/white_btn_3.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/white_btn_3.png
+  background_texture_inactive = [source:location]white_btn_3.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
